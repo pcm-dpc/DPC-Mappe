@@ -1,0 +1,131 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "Zona",
+      "properties": [
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "#d19853"
+            }
+          ]
+        },
+        {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "GIALLA",
+              "value": "#FFFF00"
+            },
+            {
+              "key": "ROSSA",
+              "value": "#FF0000"
+            }
+          ]
+        },
+        {
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.8"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "propertyKey": "Area_di_at",
+      "properties": [
+        {
+          "property": "divIcon",
+          "values": [
+            {
+              "key": "*",
+              "value": "<div style='background-color:#749cd8; width:100%; height:100%;'></div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "propertyKey": "Mezzo_di_t",
+      "properties": [
+        {
+          "property": "radius",
+          "values": [
+            {
+              "key": "*",
+              "value": "6"
+            }
+          ]
+        },
+        {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "*",
+              "value": "#688a50"
+            }
+          ]
+        },
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "#000"
+            }
+          ]
+        },
+        {
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

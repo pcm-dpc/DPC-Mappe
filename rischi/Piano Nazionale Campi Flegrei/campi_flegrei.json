@@ -1,0 +1,22 @@
+{
+  "date": "20210526",
+  "global_legend": "",
+  "name": "Piano Nazionale Campi Flegrei",
+  "image_url": "",
+  "strategy": "features",
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_features.json"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_features.json"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_style.json"
+  ],
+  "treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_tree_style.json"
+}
