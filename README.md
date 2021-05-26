@@ -15,7 +15,7 @@ repo/
 │   │   ├── file
 ```
 
-## Aggiornamento dei dati
+## Aggiornamento dei dati frequenza
 
 
 ## Formato dei dati
