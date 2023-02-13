@@ -1,9 +1,9 @@
 {
   "nodes": [
     {
-      "key": "Mezzo_di_t",
+      "key": "Mezzo_di_trasporto",
       "label": "Area Di Incontro",
-      "filterValue": "Mezzo_di_t",
+      "filterValue": "Mezzo_di_trasporto",
       "expanded": true,
       "visible": true,
       "type": "default",
@@ -17,9 +17,9 @@
       ]
     },
     {
-      "key": "Area_di_at",
+      "key": "Area_di_attesa",
       "label": "Area Di Attesa",
-      "filterValue": "Area_di_at",
+      "filterValue": "Area_di_attesa",
       "expanded": true,
       "visible": true,
       "type": "default",

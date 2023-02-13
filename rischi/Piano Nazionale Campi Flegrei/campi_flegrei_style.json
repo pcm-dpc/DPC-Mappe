@@ -55,7 +55,7 @@
       ]
     },
     {
-      "propertyKey": "Area_di_at",
+      "propertyKey": "Area_di_attesa",
       "properties": [
         {
           "property": "divIcon",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "propertyKey": "Mezzo_di_t",
+      "propertyKey": "Mezzo_di_trasporto",
       "properties": [
         {
           "property": "radius",

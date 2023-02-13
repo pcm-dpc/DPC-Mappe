@@ -4,10 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Nome": "Villa Literno, Stazione ferroviaria, Piazza de Gasperi",
+        "Area_di_incontro": "Villa Literno, Stazione ferroviaria, Piazza de Gasperi",
         "Località": "Napoli - Chiaiano, Napoli - Arenella, Giugliano in Campania",
-        "Mezzo_di_t": "Treno",
-        "Group_ID": "Mezzo_di_t"
+        "Mezzo_di_trasporto": "Treno"
       },
       "geometry": {
         "type": "Point",
@@ -21,10 +20,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Nome": "Aversa, Stazione ferroviaria, Piazza Mazzini",
+        "Area_di_incontro": "Aversa, Stazione ferroviaria, Piazza Mazzini",
         "Località": "Quarto",
-        "Mezzo_di_t": "Treno",
-        "Group_ID": "Mezzo_di_t"
+        "Mezzo_di_trasporto": "Treno"
       },
       "geometry": {
         "type": "Point",
@@ -38,10 +36,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Nome": "Napoli Porto, Stazione marittima",
+        "Area_di_incontro": "Napoli Porto, Stazione marittima",
         "Località": "Napoli - S. Ferdinando, Napoli - Montecalvario, Napoli - Chiaia, Napoli - Posillipo",
-        "Mezzo_di_t": "Nave",
-        "Group_ID": "Mezzo_di_t"
+        "Mezzo_di_trasporto": "Nave"
       },
       "geometry": {
         "type": "Point",
@@ -55,10 +52,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Nome": "Napoli, Stazione ferroviaria Centrale, Piazza Garibaldi",
+        "Area_di_incontro": "Napoli, Stazione ferroviaria Centrale, Piazza Garibaldi",
         "Località": "Napoli - Bagnoli, Pozzuoli, Napoli - Soccavo, Napoli - Pianura,",
-        "Mezzo_di_t": "Treno, Pullman",
-        "Group_ID": "Mezzo_di_t"
+        "Mezzo_di_trasporto": "Treno, Pullman"
       },
       "geometry": {
         "type": "Point",
@@ -72,10 +68,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Nome": "Giugliano in Campania, Istituto ?Don Diana?, Via Ripuaria",
+        "Area_di_incontro": "Giugliano in Campania, Istituto 'Don Diana, Via Ripuaria",
         "Località": "Bacoli, Monte di Procida",
-        "Mezzo_di_t": "Pullman",
-        "Group_ID": "Mezzo_di_t"
+        "Mezzo_di_trasporto": "Pullman"
       },
       "geometry": {
         "type": "Point",
@@ -89,10 +84,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Nome": "Afragola, Stazione ferroviaria di Napoli Afragola, Via Arena",
+        "Area_di_incontro": "Afragola, Stazione ferroviaria di Napoli Afragola, Via Arena",
         "Località": "Napoli - Vomero, Marano di Napoli, Napoli - Fuorigrotta",
-        "Mezzo_di_t": "Treno, Pullman",
-        "Group_ID": "Mezzo_di_t"
+        "Mezzo_di_trasporto": "Treno, Pullman"
       },
       "geometry": {
         "type": "Point",
@@ -106,10 +100,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Bacoli",
-        "Area_di_at": "Fusaro",
-        "Approvata": "DCC n. 8 del 10.04.2018",
-        "Group_ID": "Area_di_at"
+        "Località": "Bacoli",
+        "Area_di_attesa": "Fusaro",
+        "Approvata": "DCC n. 8 del 10.04.2018"
       },
       "geometry": {
         "type": "Point",
@@ -123,10 +116,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Bacoli",
-        "Area_di_at": "Cappella",
-        "Approvata": "DCC n. 8 del 10.04.2018",
-        "Group_ID": "Area_di_at"
+        "Località": "Bacoli",
+        "Area_di_attesa": "Cappella",
+        "Approvata": "DCC n. 8 del 10.04.2018"
       },
       "geometry": {
         "type": "Point",
@@ -140,10 +132,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Bacoli",
-        "Area_di_at": "Bacoli",
-        "Approvata": "DCC n. 8 del 10.04.2018",
-        "Group_ID": "Area_di_at"
+        "Località": "Bacoli",
+        "Area_di_attesa": "Bacoli",
+        "Approvata": "DCC n. 8 del 10.04.2018"
       },
       "geometry": {
         "type": "Point",
@@ -157,10 +148,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Bacoli",
-        "Area_di_at": "Miseno",
-        "Approvata": "DCC n. 8 del 10.04.2018",
-        "Group_ID": "Area_di_at"
+        "Località": "Bacoli",
+        "Area_di_attesa": "Miseno",
+        "Approvata": "DCC n. 8 del 10.04.2018"
       },
       "geometry": {
         "type": "Point",
@@ -174,10 +164,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Marano di Napoli",
-        "Area_di_at": "Stadio - Via Giovanni Falcone",
-        "Approvata": "DCS n.27 del 01.02.2018",
-        "Group_ID": "Area_di_at"
+        "Località": "Marano di Napoli",
+        "Area_di_attesa": "Stadio - Via Giovanni Falcone",
+        "Approvata": "DCS n.27 del 01.02.2018"
       },
       "geometry": {
         "type": "Point",
@@ -191,10 +180,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Pozzuoli",
-        "Area_di_at": "Via Artiaco - uscita tangenziale",
-        "Approvata": "DCC n. 184 del 29.12.2015",
-        "Group_ID": "Area_di_at"
+        "Località": "Pozzuoli",
+        "Area_di_attesa": "Via Artiaco - uscita tangenziale",
+        "Approvata": "DCC n. 184 del 29.12.2015"
       },
       "geometry": {
         "type": "Point",
@@ -208,10 +196,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Pozzuoli",
-        "Area_di_at": "Via Libero Bovio - Monteruscello",
-        "Approvata": "DCC n. 184 del 29.12.2015",
-        "Group_ID": "Area_di_at"
+        "Località": "Pozzuoli",
+        "Area_di_attesa": "Via Libero Bovio - Monteruscello",
+        "Approvata": "DCC n. 184 del 29.12.2015"
       },
       "geometry": {
         "type": "Point",
@@ -225,10 +212,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Pozzuoli",
-        "Area_di_at": "Via Antonino Pio - Toiano",
-        "Approvata": "DCC n. 184 del 29.12.2015",
-        "Group_ID": "Area_di_at"
+        "Località": "Pozzuoli",
+        "Area_di_attesa": "Via Antonino Pio - Toiano",
+        "Approvata": "DCC n. 184 del 29.12.2015"
       },
       "geometry": {
         "type": "Point",
@@ -242,10 +228,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Quarto",
-        "Area_di_at": "Area mercato settimanale",
-        "Approvata": "DCS n. 25 del 16.04.2018",
-        "Group_ID": "Area_di_at"
+        "Località": "Quarto",
+        "Area_di_attesa": "Area mercato settimanale",
+        "Approvata": "DCS n. 25 del 16.04.2018"
       },
       "geometry": {
         "type": "Point",
@@ -259,10 +244,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Quarto",
-        "Area_di_at": "Piazzale della Villa Comunale",
-        "Approvata": "DCS n. 25 del 16.04.2018",
-        "Group_ID": "Area_di_at"
+        "Località": "Quarto",
+        "Area_di_attesa": "Piazzale della Villa Comunale",
+        "Approvata": "DCS n. 25 del 16.04.2018"
       },
       "geometry": {
         "type": "Point",
@@ -276,10 +260,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Quarto",
-        "Area_di_at": "Area parcheggio Ipercoop",
-        "Approvata": "DCS n. 25 del 16.04.2018",
-        "Group_ID": "Area_di_at"
+        "Località": "Quarto",
+        "Area_di_attesa": "Area parcheggio Ipercoop",
+        "Approvata": "DCS n. 25 del 16.04.2018"
       },
       "geometry": {
         "type": "Point",
@@ -293,10 +276,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Giugliano in Campania",
-        "Area_di_at": "Area parcheggio di fronte caffetteria \"champ elysees\"",
-        "Approvata": "DCC n. 29 del 09.07.2018",
-        "Group_ID": "Area_di_at"
+        "Località": "Giugliano in Campania",
+        "Area_di_attesa": "Area parcheggio di fronte caffetteria \"champ elysees\"",
+        "Approvata": "DCC n. 29 del 09.07.2018"
       },
       "geometry": {
         "type": "Point",
@@ -310,10 +292,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Monte di Procida",
-        "Area_di_at": "Parcheggio Supermercato - Via Cappella",
-        "Approvata": "DCC n. 54 del 29.11.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Monte di Procida",
+        "Area_di_attesa": "Parcheggio Supermercato - Via Cappella",
+        "Approvata": "DCC n. 54 del 29.11.2017"
       },
       "geometry": {
         "type": "Point",
@@ -327,10 +308,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Arenella",
-        "Area_di_at": "A1 - Via Gabriele Jannelli 190",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Arenella",
+        "Area_di_attesa": "A1 - Via Gabriele Jannelli 190",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -344,10 +324,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Bagnoli",
-        "Area_di_at": "B1 - Viale della Liberazione",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Bagnoli",
+        "Area_di_attesa": "B1 - Viale della Liberazione",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -361,10 +340,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Bagnoli",
-        "Area_di_at": "B2 - Parcheggio ippodromo",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Bagnoli",
+        "Area_di_attesa": "B2 - Parcheggio ippodromo",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -378,10 +356,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Chiaiano",
-        "Area_di_at": "C1 - Piazzale Monaldi, Via Leonardo Bianchi",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Chiaiano",
+        "Area_di_attesa": "C1 - Piazzale Monaldi, Via Leonardo Bianchi",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -395,10 +372,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Chiaia",
-        "Area_di_at": "CMSF1 - Piazza Vittoria",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Chiaia",
+        "Area_di_attesa": "CMSF1 - Piazza Vittoria",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -412,10 +388,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Chiaia",
-        "Area_di_at": "CMSF2 - Piazza Sannazzaro",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Chiaia",
+        "Area_di_attesa": "CMSF2 - Piazza Sannazzaro",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -429,10 +404,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Fuorigrotta",
-        "Area_di_at": "F1 - Piazza Italia - largo Lala",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Fuorigrotta",
+        "Area_di_attesa": "F1 - Piazza Italia - largo Lala",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -446,10 +420,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Fuorigrotta",
-        "Area_di_at": "F2 - via GB Marino alt. curva A",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Fuorigrotta",
+        "Area_di_attesa": "F2 - via GB Marino alt. curva A",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -463,10 +436,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Fuorigrotta",
-        "Area_di_at": "F3 - Piazzale antistante Stazione Campi Flegrei",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Fuorigrotta",
+        "Area_di_attesa": "F3 - Piazzale antistante Stazione Campi Flegrei",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -480,10 +452,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Pianura",
-        "Area_di_at": "P1 - Campo basket Via Nabucco",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Pianura",
+        "Area_di_attesa": "P1 - Campo basket Via Nabucco",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -497,10 +468,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Pianura",
-        "Area_di_at": "P2 - Area attrezzata Via Mandela",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Pianura",
+        "Area_di_attesa": "P2 - Area attrezzata Via Mandela",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -514,10 +484,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Pianura",
-        "Area_di_at": "P3 - Via Torricelli esterno parchi Falcone e Borsellino",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Pianura",
+        "Area_di_attesa": "P3 - Via Torricelli esterno parchi Falcone e Borsellino",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -531,10 +500,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Posillipo",
-        "Area_di_at": "PO1 - Piazza San Luigi",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Posillipo",
+        "Area_di_attesa": "PO1 - Piazza San Luigi",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -548,10 +516,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Posillipo",
-        "Area_di_at": "PO2 - Via Boccaccio - Viale Virgilio",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Posillipo",
+        "Area_di_attesa": "PO2 - Via Boccaccio - Viale Virgilio",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -565,10 +532,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Soccavo",
-        "Area_di_at": "S1 - Polifunzionale Soccavo, Viale Adriano",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Soccavo",
+        "Area_di_attesa": "S1 - Polifunzionale Soccavo, Viale Adriano",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -582,10 +548,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Soccavo",
-        "Area_di_at": "S2 - Piazza Giovanni XXIII",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Soccavo",
+        "Area_di_attesa": "S2 - Piazza Giovanni XXIII",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -599,10 +564,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Napoli - Vomero",
-        "Area_di_at": "V1 - Via Rossini",
-        "Approvata": "DCC n. 132 del 22.12.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Napoli - Vomero",
+        "Area_di_attesa": "V1 - Via Rossini",
+        "Approvata": "DCC n. 132 del 22.12.2017"
       },
       "geometry": {
         "type": "Point",
@@ -616,10 +580,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Bacoli",
-        "Area_di_at": "Cuma",
-        "Approvata": "DCC n. 8 del 10.04.2018",
-        "Group_ID": "Area_di_at"
+        "Località": "Bacoli",
+        "Area_di_attesa": "Cuma",
+        "Approvata": "DCC n. 8 del 10.04.2018"
       },
       "geometry": {
         "type": "Point",
@@ -633,10 +596,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Localit�": "Monte di Procida",
-        "Area_di_at": "Via Panoramica - Casa Comunale",
-        "Approvata": "DCC n. 54 del 29.11.2017",
-        "Group_ID": "Area_di_at"
+        "Località": "Monte di Procida",
+        "Area_di_attesa": "Via Panoramica - Casa Comunale",
+        "Approvata": "DCC n. 54 del 29.11.2017"
       },
       "geometry": {
         "type": "Point",
@@ -2255,8 +2217,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Afragola, Stazione ferroviaria di\nNapoli Afragola, Via Arena",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Treno",
         "Regione_o_Provincia_Autonoma_gemellata": "Liguria",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -8107,8 +8068,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Napoli Porto, Stazione marittima",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Nave",
         "Regione_o_Provincia_Autonoma_gemellata": "Sardegna",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -12271,8 +12231,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Napoli, Stazione ferroviaria Centrale,\nPiazza Garibaldi",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Treno",
         "Regione_o_Provincia_Autonoma_gemellata": "Lombardia",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -13807,8 +13766,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Aversa, Stazione ferroviaria,\nPiazza Mazzini",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Treno",
         "Regione_o_Provincia_Autonoma_gemellata": "Toscana",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -13911,8 +13869,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Napoli Porto, Stazione marittima",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Nave",
         "Regione_o_Provincia_Autonoma_gemellata": "Sicilia",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -18715,8 +18672,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Giugliano in Campania, Istituto “Don Diana”, Via Ripuaria",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Pullman",
         "Regione_o_Provincia_Autonoma_gemellata": "Umbria - Marche",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -19599,8 +19555,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Villa Literno, Stazione ferroviaria,\nPiazza de Gasperi",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Treno",
         "Regione_o_Provincia_Autonoma_gemellata": "Trentino Alto Adige",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -22443,8 +22398,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Napoli Porto, Stazione marittima",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Nave",
         "Regione_o_Provincia_Autonoma_gemellata": "Sicilia",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -23399,8 +23353,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Villa Literno, Stazione ferroviaria,\nPiazza de Gasperi",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Treno",
         "Regione_o_Provincia_Autonoma_gemellata": "Friuli Venezia Giulia",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -27379,8 +27332,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Napoli, Stazione ferroviaria Centrale,\nPiazza Garibaldi",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Treno",
         "Regione_o_Provincia_Autonoma_gemellata": "Basilicata - Calabria",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -28635,8 +28587,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Afragola, Stazione ferroviaria di\nNapoli Afragola, Via Arena",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Treno",
         "Regione_o_Provincia_Autonoma_gemellata": "Piemonte - Valle d'Aosta",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -28931,8 +28882,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Napoli Porto, Stazione marittima",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Nave",
         "Regione_o_Provincia_Autonoma_gemellata": "Sicilia",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -30487,8 +30437,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Villa Literno, Stazione ferroviaria,\nPiazza de Gasperi",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Treno",
         "Regione_o_Provincia_Autonoma_gemellata": "Veneto",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -32103,8 +32052,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Napoli, Stazione ferroviaria Centrale,\nPiazza Garibaldi",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Treno",
         "Regione_o_Provincia_Autonoma_gemellata": "Emilia Romagna",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -33675,8 +33623,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Afragola, Stazione ferroviaria di Napoli Afragola, Via Arena",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Pullman",
         "Regione_o_Provincia_Autonoma_gemellata": "Lazio",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -35679,8 +35626,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Napoli, Stazione ferroviaria Centrale, Piazza Garibaldi",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Pullman",
         "Regione_o_Provincia_Autonoma_gemellata": "Puglia",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -37427,8 +37373,7 @@
         "Area_di_incontro_per_il_trasporto_assistito": "Giugliano in Campania, Istituto “Don Diana”, Via Ripuaria",
         "Mezzo_di_trasferimento_per_il_trasporto_assistito": "Pullman",
         "Regione_o_Provincia_Autonoma_gemellata": "Abruzzo - Molise",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_ROSSA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -38055,8 +38000,7 @@
       "properties": {
         "Località": "Napoli - Vomero",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -38811,8 +38755,7 @@
       "properties": {
         "Località": "Napoli - Pendino",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -39215,8 +39158,7 @@
       "properties": {
         "Località": "Napoli - Chiaia",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -40207,8 +40149,7 @@
       "properties": {
         "Località": "Melito di Napoli",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -41055,8 +40996,7 @@
       "properties": {
         "Località": "Napoli - Mercato",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -42891,8 +42831,7 @@
       "properties": {
         "Località": "Napoli - Chiaiano",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -43879,8 +43818,7 @@
       "properties": {
         "Località": "Napoli - Avvocata",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -44739,8 +44677,7 @@
       "properties": {
         "Località": "Napoli - Poggioreale",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -45463,8 +45400,7 @@
       "properties": {
         "Località": "Casavatore",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -45971,8 +45907,7 @@
       "properties": {
         "Località": "Napoli - San Giuseppe",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -46587,8 +46522,7 @@
       "properties": {
         "Località": "Napoli - Porto",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -47979,8 +47913,7 @@
       "properties": {
         "Località": "Napoli - San Pietro a Patierno",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -48755,8 +48688,7 @@
       "properties": {
         "Località": "Napoli - San Lorenzo",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -49083,8 +49015,7 @@
       "properties": {
         "Località": "Napoli - Vicaria",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -51267,8 +51198,7 @@
       "properties": {
         "Località": "Napoli - San Giovanni a Teduccio",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -52523,8 +52453,7 @@
       "properties": {
         "Località": "Napoli - Secondigliano",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -53407,8 +53336,7 @@
       "properties": {
         "Località": "Napoli - Montecalvario",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -54483,8 +54411,7 @@
       "properties": {
         "Località": "Mugnano di Napoli",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -56331,8 +56258,7 @@
       "properties": {
         "Località": "Napoli - Barra",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -57843,8 +57769,7 @@
       "properties": {
         "Località": "Villaricca",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -59763,8 +59688,7 @@
       "properties": {
         "Località": "Napoli - Miano",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -61203,8 +61127,7 @@
       "properties": {
         "Località": "Marano di Napoli",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -62699,8 +62622,7 @@
       "properties": {
         "Località": "Napoli - Scampia",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -63919,8 +63841,7 @@
       "properties": {
         "Località": "Napoli - Stella",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -66987,8 +66908,7 @@
       "properties": {
         "Località": "Napoli - San Carlo all'Arena",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -69907,8 +69827,7 @@
       "properties": {
         "Località": "Napoli - Piscinola",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -70983,8 +70902,7 @@
       "properties": {
         "Località": "Napoli - Zona Industriale",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -72047,8 +71965,7 @@
       "properties": {
         "Località": "Napoli - Arenella",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -73023,8 +72940,7 @@
       "properties": {
         "Località": "Calvizzano",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     },
     {
@@ -75851,8 +75767,7 @@
       "properties": {
         "Località": "Napoli - San Ferdinando",
         "Zona": "GIALLA",
-        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it",
-        "Group_ID": "ZONA_GIALLA"
+        "Norme_di_comportamento": "Consulta il sito www.iononrischio.it"  
       }
     }
   ]
