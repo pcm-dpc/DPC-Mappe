@@ -1,0 +1,71 @@
+{
+  "global_legend": [],
+  "name": "Le attività di ripristino della viabilità",
+  "header_popup": "Le attività di ripristino della viabilità",
+  "headers": ["Comuni terremoto", "SAE" ],
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/Comuni_terremoto.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/SAE_Comunicazione_1.geojson"
+      }
+      
+      
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/Comuni_terremoto.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/SAE_Comunicazione_1.geojson"
+
+     
+      
+
+    ],
+    "html_description": ""
+  },
+  "style": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/comuni_terremoto_style.geojson",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/SAE_style.geojson"
+    
+  ],
+  "info": {
+    "header": "Legenda delle fasi di progetto",
+    "content": "<h4 style=\"color:#ffb6c1;text-align:center;margin-bottom:15px;\">Da attivare</h4><p style=\"margin-bottom:25px;\">Avvio dell'iter amministrativo e raccolta delle informazioni di base</p><h4 style=\"color:#ffdd54;text-align:center;margin-bottom:15px;\">Affidamento progettazione</h4><p style=\"margin-bottom:25px;\">Avvio delle procedure propedeutiche all'affidamento della progettazione e affidamento della progettazione</p><h4 style=\"color:#78dde4;text-align:center;margin-bottom:15px;\">Progettazione</h4><p style=\"margin-bottom:25px;\">Avvio delle procedure di approvazione del progetto e approvazione del progetto da parte degli organi competenti</p><h4 style=\"color:#9f3cce;text-align:center;margin-bottom:15px;\">Approvazione progetto</h4><p style=\"margin-bottom:25px;\">Avvio delle procedure di approvazione del progetto e approvazione del progetto da parte degli organi competenti</p><h4 style=\"color:#0000cd;text-align:center;margin-bottom:15px;\">Appalto Lavori</h4><p style=\"margin-bottom:25px;\">Avvio e aggiudicazione della gara</p><h4 style=\"color:#ffa500;text-align:center;margin-bottom:15px;\">Lavori in corso</h4><p style=\"margin-bottom:25px;\">Apertura e avanzamento del cantiere</p><h4 style=\"color:#008000;text-align:center;margin-bottom:15px;\">Lavori ultimati</h4><p style=\"margin-bottom:25px;\">Chiusura del cantiere</p><h4 style=\"color:#a9a9a9;text-align:center;margin-bottom:15px;\">Da rimodulare</h4><p>Progetto in ridefinizione</p>"
+  },
+  "statistics": {
+    "info": {
+      "header": "Totali di interventi e progetti",
+      "values": [
+        {},
+        {
+          "description": "Numero complessivo dei progetti di ripristino e messa in sicurezza"
+        },
+        {
+          "description": "Numero complessivo degli interventi di ripristino e messa in sicurezza"
+        }
+      ]
+    },
+    "charts": [
+      {
+        "header": "Progetti per fase",
+        "description": "NUMERO DI PROGETTI PER FASE",
+        "file_features_index": 2,
+        "properties_chart": "Fase_DPC"
+      }
+    ]
+  },
+  "filters": {
+    "header": " Contatore",
+    "filter": [
+      {
+        "layer": 1,
+        "field": [
+          {
+            "name": "Stato_di_avanzamento"
+          }
+        ]
+      }
+    ]
+  }
+}

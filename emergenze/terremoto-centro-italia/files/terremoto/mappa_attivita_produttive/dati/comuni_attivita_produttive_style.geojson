@@ -1,0 +1,15 @@
+{
+	"style_properties": [{
+		"propertyKey": "Comune",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": "*",
+						"value": "url(./assets/files/terremoto/mappa_attivita_produttive/dati/icona_att_produtt.png)"
+					} 
+				]
+			}
+		]
+	}]
+}

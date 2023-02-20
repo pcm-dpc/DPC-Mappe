@@ -1,0 +1,36 @@
+{
+  "global_legend": "",
+  "name": "",
+  "header_popup": "Attività Produttive",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Comuni terremoto"
+    },
+    {
+      "key": 1,
+      "label": "Attività Produttive"
+    }
+  ],
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa_attivita_produttive/dati/Comuni_terremoto.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/appa_attivita_produttive/dati/ComuniAgricIndus.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa_attivita_produttive/dati/Comuni_terremoto.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa_attivita_produttive/dati/ComuniAgricIndus.geojson"
+
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa_attivita_produttive/dati/comuni_terremoto_style.geojson",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa_attivita_produttive/dati/comuni_attivita_produttive_style.geojson"
+  ],
+  "navigation_guide": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/navigation_guide_att_prod/guide_att_prod.html"
+}

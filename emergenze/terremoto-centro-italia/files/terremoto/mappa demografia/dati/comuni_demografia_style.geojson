@@ -1,0 +1,15 @@
+{
+	"style_properties": [{
+		"propertyKey": "Comune",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": "*",
+						"value": "url(./assets/files/terremoto/mappa demografia/dati/icona_demografia.png)"
+					} 
+				]
+			}
+		]
+	}]
+}

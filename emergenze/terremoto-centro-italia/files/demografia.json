@@ -1,0 +1,36 @@
+{
+  "global_legend": "",
+  "name": "",
+  "header_popup": "Demografia",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Comuni terremoto"
+    },
+    {
+      "key": 1,
+      "label": "Demografia"
+    }
+  ],
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa demografia/dati/Comuni_terremoto.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa demografia/dati/ComuniDemografia.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa demografia/dati/Comuni_terremoto.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa demografia/dati/ComuniDemografia.geojson"
+
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa demografia/dati/comuni_terremoto_style.geojson",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa demografia/dati/comuni_demografia_style.geojson"
+  ],
+  "navigation_guide": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/navigation_guide_demografia/guide_demografia.html"
+}

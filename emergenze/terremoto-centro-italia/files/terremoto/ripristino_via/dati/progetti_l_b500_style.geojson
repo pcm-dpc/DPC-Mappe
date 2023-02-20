@@ -1,0 +1,324 @@
+{
+    "style_properties": [
+      {
+        "propertyKey": "StatoAvanz",
+        "properties": [
+            {
+                "property": "fillColor",
+                "values": [
+                  {
+                    "key": "Da attivare",
+                    "value": "#ff7f7f"
+                  }
+                ]
+              },
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "Da attivare",
+                    "value": "0.75"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "Da attivare",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "Da attivare",
+                    "value": "#ff7f7f"
+                  }
+                ]
+              },
+     {
+                "property": "fillColor",
+                "values": [
+                  {
+                    "key": "Progettazione",
+                    "value": "#73ffdf"
+                  }
+                ]
+              },
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "Progettazione",
+                    "value": "0.75"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "Progettazione",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "Progettazione",
+                    "value": "#73ffdf"
+                  }
+                ]
+              },
+      {
+                "property": "fillColor",
+                "values": [
+                  {
+                    "key": "Approvazione progetto",
+                    "value": "#9e559c"
+                  }
+                ]
+              },
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "Approvazione progetto",
+                    "value": "0.75"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "Approvazione progetto",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "Approvazione progetto",
+                    "value": "#9e559c"
+                  }
+                ]
+              },
+      {
+                "property": "fillColor",
+                "values": [
+                  {
+                    "key": "Appalto lavori",
+                    "value": "#005ce6"
+                  }
+                ]
+              },
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "Appalto lavori",
+                    "value": "0.75"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "Appalto lavori",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "Appalto lavori",
+                    "value": "#005ce6"
+                  }
+                ]
+              },
+      {
+                "property": "fillColor",
+                "values": [
+                  {
+                    "key": "Lavori in corso",
+                    "value": "#fc921f"
+                  }
+                ]
+              },
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "Lavori in corso",
+                    "value": "0.75"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "Lavori in corso",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "Lavori in corso",
+                    "value": "#fc921f"
+                  }
+                ]
+              },
+      {
+                "property": "fillColor",
+                "values": [
+                  {
+                    "key": "Lavori ultimati",
+                    "value": "#4ce600"
+                  }
+                ]
+              },
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "Lavori ultimati",
+                    "value": "0.75"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "Lavori ultimati",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "Lavori ultimati",
+                    "value": "#4ce600"
+                  }
+                ]
+              },
+      {
+                "property": "fillColor",
+                "values": [
+                  {
+                    "key": "Da rimodulare",
+                    "value": "#adadad"
+                  }
+                ]
+              },
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "Da rimodulare",
+                    "value": "0.75"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "Da rimodulare",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".75"
+                  }
+                ]
+              },
+              {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "Da rimodulare",
+                    "value": "#adadad"
+                  }
+                ]
+              }         
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,54 @@
+{
+    "style_properties": [
+      {
+        "propertyKey": "FID",
+        "properties": [
+            {
+                "property": "fillColor",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "#343434"
+                  }
+                ]
+              },
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "0.0"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".5"
+                  }
+                ]
+              },
+              {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".0"
+                  }
+                ]
+              },
+              {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "white"
+                  }
+                ]
+              }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,75 @@
+{
+  "global_legend": [],
+  "name": "",
+  "header_popup": "accoglienza",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Comuni terremoto"
+    },
+    {
+      "key": 1,
+      "label": "SAE"
+    }
+  ],
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/Comuni_terremoto.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/SAE_Comunicazione_1.geojson"
+      }
+    ],
+    "topo_json": [
+     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/Comuni_terremoto.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/SAE_Comunicazione_1.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/comuni_terremoto_style.geojson",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/SAE_style.geojson"
+  ],
+  "info": {
+    "header": "Legenda delle fasi di progetto",
+    "content": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/legend_2/legend.html"
+  },
+  "statistics": {
+    "totals": {
+      "header": "Totali di interventi e progetti",
+      "values": [
+        {
+          "layer": 1,
+          "description": "Numero complessivo dei progetti di ripristino e messa in sicurezza"
+        },
+        {
+          "layer": 2,
+          "description": "Numero complessivo degli interventi di ripristino e messa in sicurezza"
+        }
+      ]
+    },
+    "charts": [
+      {
+        "header": "Progetti per fase",
+        "description": "NUMERO DI PROGETTI PER FASE",
+        "layer": 1,
+        "properties_chart": "Fase_DPC"
+      }
+    ]
+  },
+  "filters": {
+    "header": " Contatore",
+    "filter": [
+      {
+        "layer": 1,
+        "field": [
+          {
+            "name": "Stato_di_avanzamento"
+          }
+        ]
+      }
+    ]
+  },
+  "navigation_guide": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/navigation_guide_4/navigation_guide.html"
+}

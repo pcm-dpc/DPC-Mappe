@@ -1,0 +1,36 @@
+{
+  "global_legend": "",
+  "name": "",
+  "header_popup": "L'accoglienza temporanea nei container",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Comuni terremoto"
+    },
+    {
+      "key": 1,
+      "label": "Container"
+    }
+  ],
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/accoglienza_temporanea/dati/Comuni_terremoto.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/accoglienza_temporanea/dati/Container_finale.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/accoglienza_temporanea/dati/Comuni_terremoto.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/accoglienza_temporanea/dati/Container_finale.geojson"
+
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/accoglienza_temporanea/dati/comuni_terremoto_style.geojson",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/accoglienza_temporanea/dati/comuni_container_style.geojson"
+  ],
+  "navigation_guide": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/navigation_guide_3/navigation_guide.html"
+}

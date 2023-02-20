@@ -1,0 +1,15 @@
+{
+	"style_properties": [{
+		"propertyKey": "FID",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": "*",
+						"value": "url(./assets/files/terremoto/mappa_cultura/dati/icona_cultura.png)"
+					} 
+				]
+			}
+		]
+	}]
+}
