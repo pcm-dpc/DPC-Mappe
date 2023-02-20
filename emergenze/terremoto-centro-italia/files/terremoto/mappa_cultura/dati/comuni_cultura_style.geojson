@@ -6,7 +6,7 @@
 				"property": "icon",
 				"values": [{
 						"key": "*",
-						"value": "url(./assets/files/terremoto/mappa_cultura/dati/icona_cultura.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa_cultura/dati/icona_cultura.png)"
 					} 
 				]
 			}

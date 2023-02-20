@@ -6,7 +6,7 @@
 				"property": "icon",
 				"values": [{
 						"key": "Consegna al sindaco ",
-						"value": "url(./assets/files/terremoto/soluzioni_emergenza/dati/ico_consegna.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/ico_consegna.png)"
 					} 
 				]
 			},
@@ -14,7 +14,7 @@
 				"property": "icon",
 				"values": [{
 						"key": "Consegna area idonea ",
-						"value": "url(./assets/files/terremoto/soluzioni_emergenza/dati/ico_idonea.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/ico_idonea.png)"
 					} 
 				]
 			},
@@ -22,7 +22,7 @@
 				"property": "icon",
 				"values": [{
 						"key": "Fine Installazione",
-						"value": "url(./assets/files/terremoto/soluzioni_emergenza/dati/ico_fine_install.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/ico_fine_install.png)"
 					} 
 				]
 			},
@@ -30,7 +30,7 @@
 				"property": "icon",
 				"values": [{
 						"key": "Inizio Installazione",
-						"value": "url(./assets/files/terremoto/soluzioni_emergenza/dati/ico_inizio_install.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/soluzioni_emergenza/dati/ico_inizio_install.png)"
 					} 
 				]
 			}

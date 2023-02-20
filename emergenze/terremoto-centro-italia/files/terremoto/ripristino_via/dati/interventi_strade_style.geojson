@@ -6,7 +6,7 @@
 				"property": "icon",
 				"values": [{
 						"key": "*",
-						"value": "url(./assets/files/terremoto/ripristino_via/dati/ico_interventi.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/ico_interventi.png)"
 					} 
 				]
 			}

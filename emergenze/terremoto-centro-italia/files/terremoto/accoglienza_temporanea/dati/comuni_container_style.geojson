@@ -6,7 +6,7 @@
 				"property": "icon",
 				"values": [{
 						"key": "*",
-						"value": "url(./assets/files/terremoto/accoglienza_temporanea/dati/ico_container_sfumatura.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/accoglienza_temporanea/dati/ico_container_sfumatura.png)"
 					} 
 				]
 			}
