@@ -1,0 +1,25 @@
+{
+  "global_legend": "",
+  "name": "L'impegno del sistema italiano di protezione civile nell’assistenza umanitaria",
+  "header_popup": "Aiuti Umanitari",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Interventi DPC"
+    }
+  ],
+  "today": {
+   
+    "topo_json": [
+      
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/tur-syr-2023/map.topojson"
+
+    ],
+    "html_descrition": "<h3>L'impegno del sistema italiano di protezione civile nell’assistenza umanitaria</h3><br /><p>Dall’inizio dell’emergenza, il Dipartimento della Protezione Civile sta garantendo assistenza umanitaria alla Turchia ed alla Siria sia nell’ambito del Meccanismo Unionale di Protezione Civile, sia di accordi bilaterali.</p><br /><p>Sulla base delle richieste di assistenza internazionale, il Dipartimento coordina la ricognizione e l’invio delle risorse disponibili di Componenti, Strutture operative e soggetti concorrenti del Servizio Nazionale di Protezione Civile.</p><br /><br /><p>Cliccando sui puntatori riportati nella mappa, suddivisi per tipologia di aiuto, è possibile visualizzare le informazioni di dettaglio dei singoli interventi.</p>"
+  },
+  "style": [
+   
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/tur-syr-2023/dpc-tur_syr-2023--maplite--style.json"
+  ]
+   
+}
