@@ -1,0 +1,123 @@
+{
+  "header": " Le caratteristiche dei territori colpiti",
+  "sub_header": "TERREMOTO CENTRO ITALIA",
+  "regions": ["Abruzzo", "Marche", "Umbria", "Lazio"],
+  "views": [
+    {
+      "index": 1,
+      "homePage": true,
+      "image_url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/copertina_istat_destra.jpg",
+      "text": "Le mappe che seguono presentano un quadro della situazione socio-economica dei territori del Centro Italia prima degli eventi sismici di agosto e ottobre 2016 e gennaio 2017. Le mappe approfondiscono cinque ambiti tematici, nell’ordine: demografia, attività produttive, istruzione, turismo e cultura. Le prime quattro mappe sono state realizzate sulla base di dati georeferenziati forniti al Dipartimento della Protezione Civile dall’Istat-Istituto nazionale di statistica, elaborati dallo stesso Istituto a partire dalle 32 tavole pubblicate il 4 maggio 2017 e intitolate Caratteristiche dei territori colpiti dal sisma del 24 agosto 2016, 26 e 30 ottobre e 18 gennaio 2017. Le tavole sono riferite ai 140 comuni del cratere sismico e raccolgono dati statistici provenienti da fonti e indagini di diverso tipo relative all’ultimo anno disponibile. La quinta e ultima mappa è stata realizzata sulla base delle informazioni contenute nel DBUnico 2.0, banca dati del Mibact-Ministero dei beni e delle attività culturali e del turismo, che raccoglie le informazioni sui luoghi della cultura e degli eventi in Italia, sia pubblici che privati."
+    },
+    {
+      "index": 2,
+      "tabs": [
+        {
+          "header": "Abruzzo",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/demografia/abruzzo/1pop_res_abruzzo.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/demografia/abruzzo/5pop_res_per_classi_anagr_abruzzo.jpg"]
+        },
+        {
+          "header": "Marche",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/demografia/marche/3pop_res_marche.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/demografia/marche/7pop_res_per_classi_anagr_marche.jpg"]
+        },
+        {
+          "header": "Umbria",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/demografia/umbria/4pop_res_umbria.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/demografia/umbria/8pop_res_per_classi_anagr_umbria.jpg"]
+        },
+        {
+          "header": "Lazio",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/demografia/lazio/2pop_res_lazio.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/demografia/lazio/6pop_res_per_classi_anagr_lazio.jpg"]
+        }
+      ],
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=13.522500891636307&y=42.92422093162612&zoom=9.247763210222768&basemap=GOOGLE_SATELLITE&appname=Demografia&file=https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files%2Fdemografia.json&guide=true"
+    },
+    {
+      "index": 3,
+      "tabs": [
+        {
+          "header": "Abruzzo",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/att_produttive/abruzzo/1az_agric_zootecniche_abruzzo.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/att_produttive/abruzzo/5imprese_attive_abruzzo.jpg"]
+        },
+        {
+          "header": "Marche",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/att_produttive/marche/3az_agric_zootecniche_marche.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/att_produttive/marche/7imprese_attive_marche.jpg"]
+        },
+        {
+          "header": "Umbria",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/att_produttive/umbria/4az_agric_zootecniche_umbria.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/att_produttive/umbria/8imprese_attive_umbria.jpg"]
+        },
+        {
+          "header": "Lazio",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/att_produttive/lazio/2az_agric_zootecniche_lazio.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/att_produttive/lazio/6imprese_attive_lazio.jpg"]
+        }
+      ],
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=13.522500891636307&y=42.92422093162612&zoom=9.247763210222768&basemap=GOOGLE_SATELLITE&appname=Attività Produttive&file=https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files%2Fattivitaproduttive.json&guide=true"
+    },
+    {
+      "index": 4,
+      "tabs": [
+        {
+          "header": "Abruzzo",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/istruzione/abruzzo/1istituti_scolastici_abruzzo.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/istruzione/abruzzo/5studenti_iscritti_abruzzo.jpg"]
+        },
+        {
+          "header": "Marche",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/istruzione/marche/3istituti_scolastici_marche.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/istruzione/marche/7studenti_iscritti_marche.jpg"]
+        },
+        {
+          "header": "Umbria",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/istruzione/umbria/4istituti_scolastici_umbria.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/istruzione/umbria/8studenti_iscritti_umbria.jpg"]
+        },
+        {
+          "header": "Lazio",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/istruzione/lazio/2istituti_scolastici_lazio.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/istruzione/lazio/6studenti_iscritti_lazio.jpg"]
+        }
+      ],
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=13.522500891636307&y=42.92422093162612&zoom=9.247763210222768&basemap=GOOGLE_SATELLITE&appname=Istruzione&file=https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files%2Fistruzione.json&guide=true"
+    },
+    {
+      "index": 5,
+      "tabs": [
+        {
+          "header": "Abruzzo",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/turismo/abruzzo/1esercizi_ricettivi_abruzzo.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/turismo/abruzzo/5presenze_esercizi_ricettivi_abruzzo.jpg"]
+        },
+        {
+          "header": "Marche",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/turismo/marche/3esercizi_ricettivi_marche.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/turismo/marche/7presenze_esercizi_ricettivi_marche.jpg"]
+        },
+        {
+          "header": "Umbria",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/turismo/umbria/4esercizi_ricettivi_umbria.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/turismo/umbria/8presenze_esercizi_ricettivi_umbria.jpg"]
+        },
+        {
+          "header": "Lazio",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/turismo/lazio/2esercizi_ricettivi_lazio.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/turismo/lazio/6presenze_esercizi_ricettivi_lazio.jpg"]
+        }
+      ],
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=13.522500891636307&y=42.92422093162612&zoom=9.247763210222768&basemap=GOOGLE_SATELLITE&appname=Turismo&file=https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files%2Fturismo.json&guide=true"
+    },
+    {
+      "index": 6,
+      "tabs": [
+        {
+          "header": "Abruzzo",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/cultura/abruzzo/1luoghi_cultura_abruzzo.jpg"]
+        },
+        {
+          "header": "Marche",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/cultura/marche/3luoghi_cultura_marche.jpg"]
+        },
+        {
+          "header": "Umbria",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/cultura/umbria/4luoghi_cultura_umbria.jpg"]
+        },
+        {
+          "header": "Lazio",
+          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/cultura/lazio/2luoghi_cultura_lazio.jpg"]
+        }
+      ],
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=13.522500891636307&y=42.92422093162612&zoom=9.247763210222768&basemap=GOOGLE_SATELLITE&appname=Cultura&file=https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files%2Fcultura.json&guide=true"
+    }
+  ]
+}
