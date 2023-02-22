@@ -30,15 +30,15 @@
 					},
 					{
 						"key": "Porto",
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/tur-syr-2023/terremoto_tur_syr/porto.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/tur-syr-2023/porto.png)"
 					},
 					{
 						"key": "Team DVI",
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/tur-syr-2023/terremoto_tur_syr/dvi.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/tur-syr-2023/dvi.png)"
 					},
 					{
 						"key": "Working area USAR",
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/tur-syr-2023/terremoto_tur_syr/usar.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/tur-syr-2023/usar.png)"
 					},
 					{
 						"key": "Ospedale da campo",
