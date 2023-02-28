@@ -80,7 +80,7 @@
       {
         "header": "Progetti per fase",
         "description": "NUMERO DI PROGETTI PER FASE",
-        "layer": 0,
+        "layer": 3,
         "properties_chart": "Fase_DPC"
       }
     ]
@@ -89,7 +89,7 @@
     "header": " Contatore",
     "filter": [
       {
-        "layer": 0,
+        "layer": 3,
         "field": [
           {
             "name": "Stato_di_avanzamento"
