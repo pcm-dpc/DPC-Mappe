@@ -22,13 +22,12 @@
       }
     ],
     "topo_json": [
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Comuni_terremoto.geojson",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Progetti_Riepilogo.geojson",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Progetti_L_B200.geojson",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Progetti_P_B200.geojson",
      
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Interventi_Strade.geojson"
-
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Interventi_Strade.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Comuni_terremoto.geojson"
     ],
     "html_description": ""
   },
