@@ -5,9 +5,6 @@
   "today": {
     "attachment": [
       {
-        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Comuni_terremoto.geojson"
-      },
-      {
         "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Progetti_Riepilogo.geojson"
       },
       {
@@ -19,6 +16,9 @@
       
       {
         "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Interventi_Strade.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Comuni_terremoto.geojson"
       }
     ],
     "topo_json": [
