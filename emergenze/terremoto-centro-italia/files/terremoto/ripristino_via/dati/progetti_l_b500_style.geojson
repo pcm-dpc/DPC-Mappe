@@ -1,7 +1,7 @@
 {
     "style_properties": [
       {
-        "propertyKey": "StatoAvanz",
+        "propertyKey": "Stato avanzamento",
         "properties": [
             {
                 "property": "fillColor",
