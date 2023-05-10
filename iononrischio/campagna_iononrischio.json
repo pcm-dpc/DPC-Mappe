@@ -1,0 +1,25 @@
+{
+  "global_legend": "",
+  "name": "Io Non Rischio-Buone pratiche di Protezione Civile. Campagna del 20 e 21 maggio 2023",
+  "header_popup": "Piazze IoNonRischio",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Piazze IoNonRischio"
+    }
+  ],
+  "today": {
+   
+    "topo_json": [
+      
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/piazze_iononrischio.geojson"
+
+    ],
+    "html_descrition": ""
+  },
+  "style": [
+   
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/piazze_iononrischio--maplite--style.json"
+  ]
+   
+}
