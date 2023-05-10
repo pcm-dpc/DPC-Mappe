@@ -12,7 +12,7 @@
    
     "topo_json": [
       
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/piazze_iononrischio.geojson"
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/piazze_iononrischio_maplite.geojson"
 
     ],
     "html_descrition": ""
