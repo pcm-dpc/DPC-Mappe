@@ -8,6 +8,15 @@
 						"key": "*",
 						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/campiscuola2023/icona_campiscuola.png)"
 					} 
+			 {
+              			"property": "opacity",
+         			 "values": [
+           					 {
+             						 "key": "*",
+             						 "value": "1"
+           					 }
+         				 ]
+       			 },
 				]
 			}
 		]
