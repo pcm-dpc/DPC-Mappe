@@ -1,0 +1,15 @@
+{
+	"style_properties": [{
+		"propertyKey": "Regione",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": "*",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/campiscuola2023/icona_campiscuola.png)"
+					} 
+				]
+			}
+		]
+	}]
+}

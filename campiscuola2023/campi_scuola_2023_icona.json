@@ -1,0 +1,25 @@
+{
+  "global_legend": "",
+  "name": "Campi scuola - edizione 2023",
+  "header_popup": "Campi scuola",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Campi scuola"
+    }
+  ],
+  "today": {
+   
+    "topo_json": [
+      
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/campiscuola2023/campi_scuola_2023_dati.geojson"
+
+    ],
+    "html_descrition": ""
+  },
+  "style": [
+   
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/campiscuola2023/campi_scuola_2023_style_icona.json"
+  ]
+   
+}
