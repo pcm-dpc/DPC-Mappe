@@ -1,0 +1,12 @@
+{
+  "global_legend": "",
+  "name": "Tutti gli eventi sul territorio",
+  "today": {
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/2023/settimana-protezione-civile-data.json"
+    ]
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/settimana-protezione-civile-style.json"
+  ]
+}
