@@ -1,0 +1,24 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "*",
+      "properties": [
+        {
+          "property": "icon",
+          "values": [
+            {
+              "key": "*",
+              "value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/settimana-protezione-civile-marker.png)",
+              "options": {
+                "iconSize": [
+                  32,
+                  41
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
