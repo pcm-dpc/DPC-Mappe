@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "f1ab8e30-24db-4e60-8dd5-529c90e3add1",
+            "id_evento_dpc": "23e5ed15-c1e1-4239-8495-8dd1353f6e47",
+            "data_1": "2023-10-09T00:00:00.000Z",
+            "accettazione_privacy": true,
+            "cancellato": false,
+            "tipologia_mostra_esposizione": true,
+            "tipologia_incontro_tecnico": true,
+            "tipologia_incontro_pubblico": true,
+            "tipologia_convegno_conferenza": false,
+            "tipologia_workshop": false,
+            "tipologia_iniziativa_scuole": true,
+            "tipologia_esercitazione": true,
+            "tipologia_laboratorio_formazione": true,
+            "tipologia_altro": false,
+            "id_organizzatore": "ro_ta_users_us_1a9f42744d1f4ca593c5c5c7546acf26",
+            "organizzatore": "Dipartimento della Proteazione Civile",
+            "organizzazioni_collaborazione": "Servizio Sistemi Informativi e di Comunicazione DPC",
+            "titolo_evento": "Prova del primo evento della settimana della protezione civile 2023 sistemi informativi e di comunicazione",
+            "descrizione_evento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\tLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "regione": "Lazio",
+            "provincia": "Roma",
+            "comune": "Roma",
+            "indirizzo": "Via Vitorchiano",
+            "numero_indirizzo": "4",
+            "cap": "00189",
+            "latitudine": "41.9567855",
+            "longitudine": "12.4858168",
+            "data_1_ora_inizio": "11:00",
+            "data_1_ora_fine": "13:00",
+            "stato": "A",
+            "motivazione_approvazione_rigetto": "Ok...",
+            "file": "https://settimana-protezione-civile-2023-file.s3.eu-south-1.amazonaws.com/23e5ed15-c1e1-4239-8495-8dd1353f6e47.jpeg",
+            "_id": "%5B'f1ab8e30-24db-4e60-8dd5-529c90e3add1'%5D",
+            "tableId": "datasource_plus_56fdb700f7e140a6a0b33db1e255d634__eventi"
+        }
+    ]
+}
