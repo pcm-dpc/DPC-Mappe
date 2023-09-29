@@ -369,7 +369,7 @@
             "data_1_ora_fine": "10:30",
             "url_sito": "https://appc.provincia.bz.it",
             "stato": "A",
-            "file": "https://settimana-protezione-civile-2023-file.s3.eu-south-1.amazonaws.com/23e5ed15-c1e1-4239-8495-8dd1353f6e47.png",
+            "file": "https://settimana-protezione-civile-2023-file.s3.eu-south-1.amazonaws.com/e8ff1e17-68f1-4162-84ca-858bc4178f09.png",
             "_id": "%5B'e8ff1e17-68f1-4162-84ca-858bc4178f09'%5D",
             "tableId": "datasource_plus_56fdb700f7e140a6a0b33db1e255d634__eventi"
         },
@@ -473,7 +473,7 @@
             "data_1_ora_inizio": "12:00",
             "data_1_ora_fine": "12:30",
             "stato": "A",
-            "file": "https://settimana-protezione-civile-2023-file.s3.eu-south-1.amazonaws.com/23e5ed15-c1e1-4239-8495-8dd1353f6e47.jpeg",
+            "file": "https://settimana-protezione-civile-2023-file.s3.eu-south-1.amazonaws.com/5757bcf1-66a0-4109-a824-5475d9955d48.jpeg",
             "_id": "%5B'5757bcf1-66a0-4109-a824-5475d9955d48'%5D",
             "tableId": "datasource_plus_56fdb700f7e140a6a0b33db1e255d634__eventi"
         },
@@ -509,7 +509,7 @@
             "data_1_ora_fine": "18:00",
             "stato": "A",
             "motivazione_approvazione_rigetto": "ok",
-            "file": "https://settimana-protezione-civile-2023-file.s3.eu-south-1.amazonaws.com/23e5ed15-c1e1-4239-8495-8dd1353f6e47.pdf",
+            "file": "https://settimana-protezione-civile-2023-file.s3.eu-south-1.amazonaws.com/e75408f6-8cab-44dd-a9db-f1cc3f03a14c.pdf",
             "_id": "%5B'e75408f6-8cab-44dd-a9db-f1cc3f03a14c'%5D",
             "tableId": "datasource_plus_56fdb700f7e140a6a0b33db1e255d634__eventi"
         },
@@ -622,7 +622,7 @@
             "url_facebook": "https://www.facebook.com/protezionecivile.ana.atri",
             "url_instagram": "https://www.instagram.com/ana.atri.pc/",
             "stato": "A",
-            "file": "https://settimana-protezione-civile-2023-file.s3.eu-south-1.amazonaws.com/23e5ed15-c1e1-4239-8495-8dd1353f6e47.pdf",
+            "file": "https://settimana-protezione-civile-2023-file.s3.eu-south-1.amazonaws.com/47439410-bbb8-49d8-a159-ab1c205d416e.pdf",
             "_id": "%5B'47439410-bbb8-49d8-a159-ab1c205d416e'%5D",
             "tableId": "datasource_plus_56fdb700f7e140a6a0b33db1e255d634__eventi"
         },
@@ -870,7 +870,7 @@
             "url_sito": "pcgl.info",
             "url_facebook": "https://www.facebook.com/pcglcoordinamento/",
             "stato": "A",
-            "file": "https://settimana-protezione-civile-2023-file.s3.eu-south-1.amazonaws.com/23e5ed15-c1e1-4239-8495-8dd1353f6e47.jpeg",
+            "file": "https://settimana-protezione-civile-2023-file.s3.eu-south-1.amazonaws.com/6362959e-595f-47f9-82a4-f723d225b4d7.jpeg",
             "_id": "%5B'6362959e-595f-47f9-82a4-f723d225b4d7'%5D",
             "tableId": "datasource_plus_56fdb700f7e140a6a0b33db1e255d634__eventi"
         },
