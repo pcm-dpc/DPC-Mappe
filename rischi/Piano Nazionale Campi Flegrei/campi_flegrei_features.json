@@ -102,7 +102,7 @@
       "properties": {
         "Località": "Bacoli",
         "Area_di_attesa": "Fusaro",
-        "Approvata": "DCC n. 8 del 10.04.2018"
+        "Approvata": "DCC n. 8 del 10.04.2018 e DGC 58 del 09/10/2019"
       },
       "geometry": {
         "type": "Point",
@@ -118,7 +118,7 @@
       "properties": {
         "Località": "Bacoli",
         "Area_di_attesa": "Cappella",
-        "Approvata": "DCC n. 8 del 10.04.2018"
+        "Approvata": "DCC n. 8 del 10.04.2018 e DGC 58 del 09/10/2019"
       },
       "geometry": {
         "type": "Point",
@@ -133,8 +133,8 @@
       "type": "Feature",
       "properties": {
         "Località": "Bacoli",
-        "Area_di_attesa": "Bacoli",
-        "Approvata": "DCC n. 8 del 10.04.2018"
+        "Area_di_attesa": "Miseno",
+        "Approvata": "DCC n. 8 del 10.04.2018 e DGC 58 del 09/10/2019"
       },
       "geometry": {
         "type": "Point",
@@ -144,22 +144,6 @@
         ]
       },
       "id": "1f07b569-8ba2-4e87-946a-a2df32bf59df"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Località": "Bacoli",
-        "Area_di_attesa": "Miseno",
-        "Approvata": "DCC n. 8 del 10.04.2018"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.082148871064772,
-          40.78763382158318
-        ]
-      },
-      "id": "73c836a9-21e3-485c-b514-b93ce48c02db"
     },
     {
       "type": "Feature",
@@ -576,22 +560,6 @@
         ]
       },
       "id": "785ca043-7207-4c36-8f34-99912e38bf65"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Località": "Bacoli",
-        "Area_di_attesa": "Cuma",
-        "Approvata": "DCC n. 8 del 10.04.2018"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.055872394978367,
-          40.83363981079141
-        ]
-      },
-      "id": "7cc6a3b5-745a-4e45-846d-a4b4e1e13852"
     },
     {
       "type": "Feature",
