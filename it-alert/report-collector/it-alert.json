@@ -1,7 +1,7 @@
 {
   "header_popup": "Report Messaggio",
   "budibase": {
-    "url": "https://webapp.protezionecivile.gov.it/api/public/v1/queries/query_datasource_plus_13c361a866e14f7fb8542c588a901257_1419f05c8cf1455e865dfe5aa97fda14",
+    "url": "api/public/v1/queries/query_datasource_plus_13c361a866e14f7fb8542c588a901257_1419f05c8cf1455e865dfe5aa97fda14",
     "appId": "app_9c121e7620cc49528b4eac056f5ee8cf",
     "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert_style.geojson",
     "params": {
