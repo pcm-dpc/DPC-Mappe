@@ -1,14 +1,14 @@
 {
   "header_popup": "Report Messaggio",
   "budibase": {
-    "url": "https://geosdi.org/content/media/reports.json",
+    "url": "https://dataproxy.geosdi.org/proxy?url=https://webapp.protezionecivile.it/api/public/v1/queries/query_datasource_plus_13c361a866e14f7fb8542c588a901257_ed03f5abf7b0487188e17f97f1e0715b",
     "appId": "app_9c121e7620cc49528b4eac056f5ee8cf",
     "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert_style.geojson",
     "params": {
       "lat": "latitudine_localizzazione",
       "lon": "longitudine_localizzazione",
       "zona_allerta": {
-        "url": "https://geosdi.org/content/media/alert_area_map.json"
+        "url": "https://dataproxy.geosdi.org/proxy?url=https://webapp.protezionecivile.it/api/public/v1/tables/datasource_plus_13c361a866e14f7fb8542c588a901257__test/rows/search"
       },
       "features": [
         "codice_compilatore",
