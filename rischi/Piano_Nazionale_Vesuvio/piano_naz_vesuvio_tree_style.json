@@ -1,0 +1,69 @@
+{
+  "nodes": [
+    {
+      "key": "Mezzo_di_trasporto",
+      "label": "Area di incontro",
+      "filterValue": "Mezzo_di_trasporto",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#688a50",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border-radius: 50%;border: 1px #000000 solid"
+        }
+      ]
+    },
+    {
+      "key": "Area_di_attesa",
+      "label": "Area di attesa",
+      "filterValue": "Area_di_attesa",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#749cd8",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        }
+      ]
+    },
+    {
+      "key": "ZONA_GIALLA",
+      "label": "Zona Gialla",
+      "color": "#FFFF00",
+      "filterValue": "ZONA_GIALLA",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#FFFF00",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px #d19853 solid"
+        }
+      ]
+    },
+    {
+      "key": "ZONA_ROSSA",
+      "label": "Zona Rossa",
+      "filterValue": "ZONA_ROSSA",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#ff0000",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px #d19853 solid"
+        }
+      ]
+    }
+  ]
+}

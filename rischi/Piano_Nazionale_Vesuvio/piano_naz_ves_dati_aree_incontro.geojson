@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "piano_naz_ves_dati_aree_incontro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Area di incontro": "Stazione RFI - Caserta", "Località": "Massa di Somma, Ottaviano, Pollena Trocchia, Somma Vesuviana", "Mezzo di trasporto": "Treno, Pullman" }, "geometry": { "type": "Point", "coordinates": [ 14.328280546178238, 41.068789459440445 ] } },
+{ "type": "Feature", "properties": { "Area di incontro": "Porto di Salerno", "Località": "Pompei, Scafati", "Mezzo di trasporto": "Nave" }, "geometry": { "type": "Point", "coordinates": [ 14.738255968235212, 40.671649971404243 ] } },
+{ "type": "Feature", "properties": { "Area di incontro": "Stazione RFI - Nocera Inferiore", "Località": "Boscoreale, Boscotrecase, Torre Annunziata", "Mezzo di trasporto": "Treno, Pullman" }, "geometry": { "type": "Point", "coordinates": [ 14.632678956803279, 40.745086283199228 ] } },
+{ "type": "Feature", "properties": { "Area di incontro": "Molo Beverello - Napoli", "Località": "Cercola, Portici", "Mezzo di trasporto": "Nave" }, "geometry": { "type": "Point", "coordinates": [ 14.257628270306229, 40.838202309229651 ] } },
+{ "type": "Feature", "properties": { "Area di incontro": "Stazione RFI - Napoli C.le", "Località": "Ercolano, San Giorgio a Cremano, Torre del Greco", "Mezzo di trasporto": "Treno" }, "geometry": { "type": "Point", "coordinates": [ 14.271849703426795, 40.852682827145351 ] } },
+{ "type": "Feature", "properties": { "Area di incontro": "Stazione RFI – Napoli Campi Flegrei", "Località": "Napoli (Barra, Ponticelli, San Giovanni a Teduccio)", "Mezzo di trasporto": "Treno" }, "geometry": { "type": "Point", "coordinates": [ 14.192853115956652, 40.822280352315531 ] } },
+{ "type": "Feature", "properties": { "Area di incontro": "Porto di Castellammare di Stabia", "Località": "Trecase", "Mezzo di trasporto": "Nave" }, "geometry": { "type": "Point", "coordinates": [ 14.470795141857707, 40.694625560152652 ] } },
+{ "type": "Feature", "properties": { "Area di incontro": "Officine Alstom - area ASI di Nola", "Località": "Nola, Palma Campania, enclave di Pomigliano d'Arco, San Giuseppe Vesuviano, Sant'Anastasia", "Mezzo di trasporto": "Treno" }, "geometry": { "type": "Point", "coordinates": [ 14.493241697081796, 40.953088871362688 ] } },
+{ "type": "Feature", "properties": { "Area di incontro": "\"Vulcano Buono\" - area ASI di Nola", "Località": "Poggiomarino, San Gennaro Vesuviano, San Sebastiano al Vesuvio, Terzigno ", "Mezzo di trasporto": "Pullman" }, "geometry": { "type": "Point", "coordinates": [ 14.490346752035315, 40.946493088639514 ] } }
+]
+}

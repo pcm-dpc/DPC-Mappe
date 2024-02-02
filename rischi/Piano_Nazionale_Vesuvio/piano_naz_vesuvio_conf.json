@@ -1,0 +1,46 @@
+{
+  "global_legend": "",
+  "name": "Piano Nazionale Vesuvio",
+  "header_popup": " ",
+  "image_url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/logo_regione_campania.png",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,    
+      "label": "Zona Rossa"
+    },
+    {
+      "key": 1,
+      "label": "Zona Gialla"
+    },
+    {
+      "key": 2,
+      "label": "Aree di incontro"
+    }
+  ],
+"today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_z_rossa.geojson"
+      },
+     {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_z_gialla.geojson"
+      },
+     {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_aree_incontro.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_z_rossa.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_z_gialla.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_aree_incontro.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_vesuvio_style.json",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_vesuvio_style.json",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_vesuvio_style.json"
+  ],
+  "treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_vesuvio_tree_style.json"
+}
