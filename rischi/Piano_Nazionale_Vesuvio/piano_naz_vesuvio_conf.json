@@ -16,6 +16,10 @@
     {
       "key": 2,
       "label": "Aree di incontro"
+    },
+    {
+      "key": 3,
+      "label": "Aree di attesa"
     }
   ],
 "today": {
@@ -28,17 +32,22 @@
       },
      {
         "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_aree_incontro.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_aree_attesa.geojson"
       }
     ],
     "topo_json": [
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_z_rossa.geojson",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_z_gialla.geojson",
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_aree_incontro.geojson"
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_aree_incontro.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_ves_dati_aree_attesa.geojson"
     ],
     "html_description": ""
   },
   "style": [
-    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_vesuvio_style.json",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_vesuvio_style.json",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_vesuvio_style.json",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_vesuvio_style.json",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_Nazionale_Vesuvio/piano_naz_vesuvio_style.json"
   ],
