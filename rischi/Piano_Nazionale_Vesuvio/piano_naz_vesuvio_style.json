@@ -62,7 +62,7 @@
           "values": [
             {
               "key": "*",
-              "value": "<div style='background-color:#749cd8; width:80%; height:80%; outline: solid black; outline-width: 1px;'></div>"
+              "value": "<div style='background-color:#749cd8; opacity: 0.8; width:80%; height:80%; outline: solid black; outline-width: 1px;'></div>"
             }
           ]
         }
