@@ -1,0 +1,37 @@
+{
+  "global_legend": "",
+  "name": "Piano speditivo bradisismo Campi Flegrei",
+  "header_popup": " ",
+  "image_url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/logo_regione_campania.png",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,    
+      "label": "Zona di intervento"
+    },
+    {
+      "key": 1,
+      "label": "Zona di intervento ristretta"
+    }
+  ],
+"today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_dati_z_interv.geojson"
+      },
+     {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_dati_z_interv_ristr.geojson"
+     }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_dati_z_interv.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_dati_z_interv_ristr.geojson"
+      ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json"
+  ],
+  "treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischiPiano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_tree_style.json"
+}

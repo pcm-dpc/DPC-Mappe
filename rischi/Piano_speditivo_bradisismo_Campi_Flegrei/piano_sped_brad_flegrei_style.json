@@ -1,0 +1,58 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "Zona",
+      "properties": [
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "#000000"
+            }
+          ]
+        },
+        {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "Zona di intervento",
+              "value": "#02c1f6"
+            },
+            {
+              "key": "Zona di intervento ristretta",
+              "value": "#e85dff"
+            }
+          ]
+        },
+        {
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.8"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

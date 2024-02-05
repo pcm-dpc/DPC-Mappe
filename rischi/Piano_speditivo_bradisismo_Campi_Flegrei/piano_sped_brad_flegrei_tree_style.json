@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "key": "Zona di intervento",
+      "label": "Zona di intervento",
+      "filterValue": "Zona",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#02c1f6",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border-radius: 50%;border: 1px #000000 solid"
+        }
+      ]
+    },
+    {
+      "key": "Zona di intervento ristretta",
+      "label": "Zona di intervento ristretta",
+      "filterValue": "Zona",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#e85dff",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        }
+      ]
+    }
+  ]
+}
