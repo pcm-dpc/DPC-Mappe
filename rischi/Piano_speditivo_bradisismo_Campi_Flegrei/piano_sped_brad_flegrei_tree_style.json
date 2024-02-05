@@ -2,7 +2,7 @@
   "nodes": [
     {
       "key": "Zona di intervento",
-      "label": "Zona di intervento",
+      "label": "Z. intervento",
       "filterValue": "Zona",
       "expanded": true,
       "visible": true,
@@ -18,7 +18,7 @@
     },
     {
       "key": "Zona di intervento ristretta",
-      "label": "Zona di intervento ristretta",
+      "label": "Z. ristretta",
       "filterValue": "Zona",
       "expanded": true,
       "visible": true,
