@@ -1,0 +1,67 @@
+{
+    "style_properties": [
+        {
+            "propertyKey": "Località",
+            "properties": [
+                {
+                    "property": "color",
+                    "values": [
+                        {
+                            "key": "*",
+                            "value": "#000000"
+                        }
+                    ]
+                },
+                {
+                    "property": "fillColor",
+                    "values": [
+                        {
+                            "key": "Pozzuoli",
+                            "value": "#e85dff"
+                        },
+                        {
+                            "key": "Napoli",
+                            "value": "#e85dff"
+                        }
+                    ]
+                },
+                {
+                    "property": "fill",
+                    "values": [
+                        {
+                            "key": "area a mare",
+                            "value": "url(./assets/images/stripe.png)"
+                        }
+                    ]
+                },
+                {
+                    "property": "weight",
+                    "values": [
+                        {
+                            "key": "*",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "property": "opacity",
+                    "values": [
+                        {
+                            "key": "*",
+                            "value": "0.8"
+                        }
+                    ]
+                },
+                {
+                    "property": "fillOpacity",
+                    "values": [
+                        {
+                            "key": "*",
+                            "value": "0.5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
