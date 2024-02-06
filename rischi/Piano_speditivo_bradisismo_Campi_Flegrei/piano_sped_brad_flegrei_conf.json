@@ -7,11 +7,11 @@
   "layers": [
     {
       "key": 0,    
-      "label": "Zona di intervento"
+      "label": "Z. Intervento"
     },
     {
       "key": 1,
-      "label": "Zona di intervento ristretta"
+      "label": "Z. Ristretta"
     }
   ],
 "today": {
