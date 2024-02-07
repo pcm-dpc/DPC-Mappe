@@ -54,15 +54,18 @@
                         {
                             "key": "area a mare",
                             "value": "0.1"
-                        }
-                    ]
-                },
-                {
-                    "property": "fillOpacity",
-                    "values": [
+                        },
                         {
-                            "key": "*",
+                            "key": "Bacoli",
                             "value": "0.9"
+                        },
+                        {
+                            "key": "Pozzuoli",
+                            "value": "0.9"
+                        },
+                        {
+                            "key": "Napoli",
+                            "value": "#02c1f6"
                         }
                     ]
                 }
