@@ -57,15 +57,15 @@
                         },
                         {
                             "key": "Bacoli",
-                            "value": "0.9"
+                            "value": "0.5"
                         },
                         {
                             "key": "Pozzuoli",
-                            "value": "0.9"
+                            "value": "0.5"
                         },
                         {
                             "key": "Napoli",
-                            "value": "#02c1f6"
+                            "value": "0.5"
                         }
                     ]
                 }
