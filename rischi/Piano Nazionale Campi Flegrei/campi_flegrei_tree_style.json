@@ -1,11 +1,13 @@
 {
   "nodes": [
     {
-      "key": "Mezzo_di_trasporto",
+      "key": "0",
       "label": "Area Di Incontro",
-      "filterValue": "Mezzo_di_trasporto",
+      "filterKey": "Mezzo_di_trasporto",
+      "filterValue": "*",
       "expanded": true,
       "visible": true,
+      "layerKey": 0,
       "type": "default",
       "children": [
         {
@@ -17,11 +19,13 @@
       ]
     },
     {
-      "key": "Area_di_attesa",
+      "key": "0",
       "label": "Area Di Attesa",
-      "filterValue": "Area_di_attesa",
+      "filterKey": "Area_di_attesa",
+      "filterValue": "*",
       "expanded": true,
       "visible": true,
+      "layerKey": 0,
       "type": "default",
       "children": [
         {
@@ -33,10 +37,11 @@
       ]
     },
     {
-      "key": "ZONA_GIALLA",
+      "key": "0",
       "label": "Zona Gialla",
       "color": "#FFFF00",
-      "filterValue": "ZONA_GIALLA",
+      "filterKey": "Zona",
+      "filterValue": "GIALLA",
       "expanded": true,
       "visible": true,
       "type": "default",
@@ -50,9 +55,10 @@
       ]
     },
     {
-      "key": "ZONA_ROSSA",
+      "key": "0",
       "label": "Zona Rossa",
-      "filterValue": "ZONA_ROSSA",
+      "filterKey": "Zona",
+      "filterValue": "ROSSA",
       "expanded": true,
       "visible": true,
       "type": "default",
