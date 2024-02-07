@@ -16,7 +16,7 @@
                     "property": "fillColor",
                     "values": [
                         {
-                            "key": *,
+                            "key": "*",
                             "value": "#02c1f6"
                         }
                     ]
