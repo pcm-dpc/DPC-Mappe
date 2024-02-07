@@ -16,19 +16,7 @@
                     "property": "fillColor",
                     "values": [
                         {
-                            "key": "Bacoli",
-                            "value": "#02c1f6"
-                        },
-                        {
-                            "key": "Pozzuoli",
-                            "value": "#02c1f6"
-                        },
-                        {
-                            "key": "Napoli",
-                            "value": "#02c1f6"
-                        },
-                        {
-                            "key": "area a mare",
+                            "key": *,
                             "value": "#02c1f6"
                         }
                     ]
@@ -66,6 +54,15 @@
                         {
                             "key": "*",
                             "value": "0.5"
+                        }
+                    ]
+                },
+                {
+                    "property": "fillOpacity",
+                    "values": [
+                        {
+                            "key": "area a mare",
+                            "value": "0.0"
                         }
                     ]
                 }
