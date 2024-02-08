@@ -3,7 +3,8 @@
     {
       "key": "2",
       "label": "Area di incontro",
-      "filterValue": "Mezzo di trasporto",
+      "filterKey": "Mezzo di trasporto",
+      "filterValue": "*",
       "expanded": true,
       "visible": true,
       "type": "default",
@@ -19,7 +20,8 @@
     {
       "key": "3",
       "label": "Area di attesa",
-      "filterValue": "Area_di_attesa",
+      "filterKey": "Area_di_attesa",
+      "filterValue": "*",
       "expanded": true,
       "visible": true,
       "type": "default",
@@ -35,8 +37,8 @@
     {
       "key": "1",
       "label": "Zona Gialla",
-      "color": "#FFFF00",
-      "filterValue": "ZONA_GIALLA",
+      "filterKey": "Zona",
+      "filterValue": "GIALLA",
       "expanded": true,
       "visible": true,
       "type": "default",
@@ -52,7 +54,8 @@
     {
       "key": "0",
       "label": "Zona Rossa",
-      "filterValue": "ZONA_ROSSA",
+      "filterKey": "Zona",
+      "filterValue": "ROSSA",
       "expanded": true,
       "visible": true,
       "type": "default",
