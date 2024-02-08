@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "key": "Mezzo_di_trasporto",
+      "key": "2",
       "label": "Area di incontro",
       "filterValue": "Mezzo di trasporto",
       "expanded": true,
@@ -17,7 +17,7 @@
       ]
     },
     {
-      "key": "Area_di_attesa",
+      "key": "3",
       "label": "Area di attesa",
       "filterValue": "Area_di_attesa",
       "expanded": true,
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "key": "ZONA_GIALLA",
+      "key": "1",
       "label": "Zona Gialla",
       "color": "#FFFF00",
       "filterValue": "ZONA_GIALLA",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "key": "ZONA_ROSSA",
+      "key": "0",
       "label": "Zona Rossa",
       "filterValue": "ZONA_ROSSA",
       "expanded": true,
