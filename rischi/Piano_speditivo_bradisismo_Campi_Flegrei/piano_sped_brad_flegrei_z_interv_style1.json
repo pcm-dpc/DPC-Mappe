@@ -2,6 +2,26 @@
     "style_properties": [
         {
             "propertyKey": "Località",
+                  "patterns": [
+        {
+          "type": "point",
+          "value": "GIALLA",
+          "options": {
+            "angle": "0",
+            "color": "yellow",
+            "spaceWeight": 1
+          }
+        },
+        {
+          "type": "stripe",
+          "value": "ROSSA",
+          "options": {
+            "angle": "45",
+            "color": "red",
+            "spaceWeight": 1
+          }
+        }
+      ],
             "properties": [
                 {
                     "property": "color",
@@ -63,22 +83,6 @@
                             "value": "0.5"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "propertyKey": "Località",
-            "patterns": [
-                {
-                    "type": "stripe",
-                    "value": "area a mare",
-                    "options": {
-                        "angle": "45",
-                        "color": "#02c1f6",
-                        "spaceWeight": 1,
-                        "width": 20,
-                        "height": 20
-                    }
                 }
             ]
         }
