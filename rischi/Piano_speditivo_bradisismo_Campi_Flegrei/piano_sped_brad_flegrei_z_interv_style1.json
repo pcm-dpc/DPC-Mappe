@@ -4,17 +4,8 @@
             "propertyKey": "Località",
                   "patterns": [
         {
-          "type": "point",
-          "value": "GIALLA",
-          "options": {
-            "angle": "0",
-            "color": "yellow",
-            "spaceWeight": 1
-          }
-        },
-        {
           "type": "stripe",
-          "value": "ROSSA",
+          "value": "area a mare",
           "options": {
             "angle": "45",
             "color": "red",
