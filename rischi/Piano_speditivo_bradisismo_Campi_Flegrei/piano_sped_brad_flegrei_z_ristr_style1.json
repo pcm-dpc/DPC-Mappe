@@ -1,0 +1,79 @@
+https://maplite.protezionecivile.it/#/view/dashboard?x=14.18273971102174&y=40.961083051216605&zoom=11.831904700231664&basemap=OPEN_STREET_MAP&file=https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_stripe_cf.json&appname=Piano%20Nazionale%20Campi%20Flegrei
+
+
+
+{
+    "style_properties": [
+        {
+            "propertyKey": "Località",
+                  "patterns": [
+        {
+          "type": "stripe",
+          "value": "area a mare",
+          "options": {
+            "angle": "45",
+            "color": "#e85dff",
+            "spaceWeight": 6,
+            "weight": 2,
+            "opacity": 0.5
+          }
+        }
+      ],
+            "properties": [
+                {
+                    "property": "color",
+                    "values": [
+                        {
+                            "key": "*",
+                            "value": "#000000"
+                        }
+                      ]
+                },
+                {
+                    "property": "fillColor",
+                    "values": [
+                        {
+                            "key": "Pozzuoli",
+                            "value": "#e85dff"
+                        },
+                        {
+                            "key": "Napoli",
+                            "value": "#e85dff"
+                        }
+                    ]
+                },
+                {
+                    "property": "weight",
+                    "values": [
+                        {
+                            "key": "*",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "property": "opacity",
+                    "values": [
+                        {
+                            "key": "*",
+                            "value": "0.8"
+                        }
+                    ]
+                },
+                {
+                    "property": "fillOpacity",
+                    "values": [
+                        {
+                            "key": "Pozzuoli",
+                            "value": "0.5"
+                        },
+                        {
+                            "key": "Napoli",
+                            "value": "0.5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
