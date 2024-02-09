@@ -9,8 +9,8 @@
           "options": {
             "angle": "45",
             "color": "#02c1f6",
-            "spaceWeight": 4,
-            "weight": 1,
+            "spaceWeight": 6,
+            "weight": 2,
             "opacity": 0.5
           }
         }
@@ -20,15 +20,7 @@
                     "property": "color",
                     "values": [
                         {
-                            "key": "Bacoli",
-                            "value": "#000000"
-                        },
-                        {
-                            "key": "Pozzuoli",
-                            "value": "#000000"
-                        },
-                        {
-                            "key": "Napoli",
+                            "key": "*",
                             "value": "#000000"
                         }
                       ]
