@@ -8,8 +8,10 @@
           "value": "area a mare",
           "options": {
             "angle": "45",
-            "color": "red",
-            "spaceWeight": 1
+            "color": "#02c1f6",
+            "spaceWeight": 4,
+            "width": 8,
+            "height": 8  
           }
         }
       ],
