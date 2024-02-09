@@ -64,10 +64,7 @@
                         }
                     ]
                 }
-            ]
-        },
-        {
-            "propertyKey": "Località",
+            ]       
             "patterns": [
                 {
                     "type": "stripe",
