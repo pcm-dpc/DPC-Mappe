@@ -1,0 +1,83 @@
+{
+    "style_properties": [
+        {
+            "propertyKey": "Località",
+            "properties": [
+                {
+                    "property": "color",
+                    "values": [
+                        {
+                            "key": "*",
+                            "value": "#000000"
+                        }
+                    ]
+                },
+                {
+                    "property": "fillColor",
+                    "values": [
+                        {
+                            "key": "Bacoli",
+                            "value": "#02c1f6"
+                        },
+                        {
+                            "key": "Pozzuoli",
+                            "value": "#02c1f6"
+                        },
+                        {
+                            "key": "Napoli",
+                            "value": "#02c1f6"
+                        }
+                    ]
+                },
+                {
+                    "property": "weight",
+                    "values": [
+                        {
+                            "key": "*",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "property": "opacity",
+                    "values": [
+                        {
+                            "key": "*",
+                            "value": "0.8"
+                        }
+                    ]
+                },
+                {
+                    "property": "fillOpacity",
+                    "values": [
+                        {
+                            "key": "Bacoli",
+                            "value": "0.5"
+                        },
+                        {
+                            "key": "Pozzuoli",
+                            "value": "0.5"
+                        },
+                        {
+                            "key": "Napoli",
+                            "value": "0.5"
+                        }
+                    ]
+                }
+            ],
+            "patterns": [
+                {
+                    "type": "stripe",
+                    "value": "area a mare",
+                    "options": {
+                        "angle": "45",
+                        "color": "#02c1f6",
+                        "spaceWeight": 1,
+                        "width": 20,
+                        "height": 20
+                    }
+                }
+            ]
+        }
+    ]
+}
