@@ -20,10 +20,18 @@
                     "property": "color",
                     "values": [
                         {
-                            "key": "*",
+                            "key": "Bacoli",
+                            "value": "#000000"
+                        },
+                        {
+                            "key": "Pozzuoli",
+                            "value": "#000000"
+                        },
+                        {
+                            "key": "Napoli",
                             "value": "#000000"
                         }
-                    ]
+                      ]
                 },
                 {
                     "property": "fillColor",
