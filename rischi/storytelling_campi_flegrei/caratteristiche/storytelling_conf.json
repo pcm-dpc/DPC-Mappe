@@ -1,0 +1,69 @@
+{
+  "header": "Le caratteristiche dei Comuni interessati",
+  "sub_header": "Piano Nazionale Campi Flegrei",
+  "regions": ["Zona Rossa", "Zona Gialla"],
+  "views": [
+    {
+      "index": 1,
+      "homePage": true,
+      "image_url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/1_copertina/copertina_istat_destra.jpg",
+      "text": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/1_copertina/testostory.html"
+    },
+    {
+      "index": 2,
+      "tabs": [
+        {
+          "header": "Zona Rossa",
+          "image_urls": ""
+        },
+        {
+          "header": "Zona Gialla",
+          "image_urls": ""
+        }
+      ],
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.961702344759377&y=43.846546842023024&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Demografia&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_caratteristiche/2_demografia/demografia_conf.json&guide=true"
+    },
+    {
+      "index": 3,
+      "tabs": [
+        {
+          "header": "Zona Rossa",
+          "image_urls": ""
+        },
+        {
+          "header": "Zona Gialla",
+          "image_urls": ""
+        }
+      ],
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.961702344759377&y=43.846546842023024&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Attività produttive&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_caratteristiche/3_attivita_produttive/attivita_produttive_conf.json&guide=true"
+    },
+    {
+      "index": 4,
+      "tabs": [
+        {
+          "header": "Zona Rossa",
+          "image_urls": ""
+        },
+        {
+          "header": "Zona Gialla",
+          "image_urls": ""
+        }
+      ],
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.962547704540233&y=43.92453374875639&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Servizi&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_caratteristiche/4_servizi/servizi_conf.json&guide=true"
+    },
+    {
+      "index": 5,
+      "tabs": [
+        {
+          "header": "Zona Rossa",
+          "image_urls": ""
+        },
+        {
+          "header": "Zona Gialla",
+          "image_urls": ""
+        }
+      ],
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.962547704540233&y=43.92453374875639&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Turismo&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_caratteristiche/5_turismo/turismo_conf.json&guide=true"
+    }
+  ]
+}
