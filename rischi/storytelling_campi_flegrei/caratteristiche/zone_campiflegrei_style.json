@@ -1,0 +1,58 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "Zona",
+      "properties": [
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "#d19853"
+            }
+          ]
+        },
+        {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "GIALLA",
+              "value": "#FFFF00"
+            },
+            {
+              "key": "ROSSA",
+              "value": "#FF0000"
+            }
+          ]
+        },
+        {
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.8"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
