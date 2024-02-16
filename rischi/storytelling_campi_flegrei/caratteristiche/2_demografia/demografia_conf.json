@@ -1,1 +1,46 @@
+{
+  "global_legend": "",
+  "name": "",
+  "header_popup": "Demografia",
+  "strategy_features": "not_intersect",
+"layers": [
+    {
+      "key": 0,    
+      "label": "Zone pianificazione"
+    },
+    {
+      "key": 1,    
+      "label": "Comuni interessati"
+    },
+    {
+      "key": 2,
+      "label": "Demografia"
+    }
+  ],
+  "today": {
+    "attachment": [
+     {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campiflegrei.geojson"
+      }, 
+     {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/comuni_interessati_campiflegrei.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/2_demografia/demografia_dati.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campiflegrei.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/comuni_interessati_campiflegrei.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/2_demografia/demografia_dati.geojson"
 
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campiflegrei_style.json",
+     "https://github.com/pcm-dpc/DPC-Mappe/blob/master/rischi/storytelling_campi_flegrei/caratteristiche/comuni_interessati_campiflegrei_style.json"
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/2_demografia/demografia_style.json"
+  ],
+  "navigation_guide": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/2_demografia/demografia_guida.html"
+}
