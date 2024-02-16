@@ -21,7 +21,7 @@
           "image_urls": ""
         }
       ],
-      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.961702344759377&y=43.846546842023024&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Demografia&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_caratteristiche/2_demografia/demografia_conf.json&guide=true"
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.961702344759377&y=43.846546842023024&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Demografia&file=https://github.com/pcm-dpc/DPC-Mappe/blob/master/rischi/storytelling_campi_flegrei/caratteristiche/2_demografia/demografia_conf.json&guide=true"
     },
     {
       "index": 3,
