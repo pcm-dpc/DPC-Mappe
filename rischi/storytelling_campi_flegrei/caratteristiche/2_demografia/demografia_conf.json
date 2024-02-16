@@ -39,7 +39,7 @@
   },
   "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campiflegrei_style.json",
-     "https://github.com/pcm-dpc/DPC-Mappe/blob/master/rischi/storytelling_campi_flegrei/caratteristiche/comuni_interessati_campiflegrei_style.json"
+     "https://github.com/pcm-dpc/DPC-Mappe/blob/master/rischi/storytelling_campi_flegrei/caratteristiche/comuni_interessati_campiflegrei_style.json",
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/2_demografia/demografia_style.json"
   ],
   "navigation_guide": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/2_demografia/demografia_guida.html"
