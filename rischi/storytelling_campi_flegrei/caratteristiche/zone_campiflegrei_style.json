@@ -7,8 +7,12 @@
           "property": "color",
           "values": [
             {
-              "key": "*",
-              "value": "#d19853"
+              "key": "GIALLA",
+              "value": "#FFFF00"
+            },
+            {
+              "key": "ROSSA",
+              "value": "#FF0000"
             }
           ]
         },
@@ -39,7 +43,7 @@
           "values": [
             {
               "key": "*",
-              "value": "0.7"
+              "value": "0.8"
             }
           ]
         },
