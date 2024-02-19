@@ -49,7 +49,7 @@
           "image_urls": ""
         }
       ],
-      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.962547704540233&y=43.92453374875639&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Servizi&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_caratteristiche/4_servizi/servizi_conf.json&guide=true"
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=14.183306947471833&y=40.88627550747051&zoom=11.142282023494047&basemap=GOOGLE_SATELLITE&appname=Servizi&file=https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/4_servizi/sevizi_conf.json&guide=true&guide=true"
     },
     {
       "index": 5,
