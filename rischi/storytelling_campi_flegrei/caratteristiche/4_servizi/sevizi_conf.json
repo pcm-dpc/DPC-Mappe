@@ -1,1 +1,46 @@
+{
+  "global_legend": "",
+  "name": "",
+  "header_popup": "Servizi",
+  "strategy_features": "not_intersect",
+"layers": [
+    {
+      "key": 0,    
+      "label": "Comuni interessati"
+    },
+    {
+      "key": 1,    
+      "label": "Zone pianificazione"
+    },
+    {
+      "key": 2,
+      "label": "Servizi"
+    }
+  ],
+  "today": {
+    "attachment": [
+     {
+        "geojson":  "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/comuni_interessati_campiflegrei.geojson"
+      }, 
+     {
+       "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campi_flegrei_line.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/4_servizi/servizi_dati.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/comuni_interessati_campiflegrei.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campi_flegrei_line.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/4_servizi/servizi_dati.geojson"
 
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/comuni_interessati_campiflegrei_style1.json",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campiflegrei_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/4_servizi/servizi_style.json"
+  ],
+  "navigation_guide": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/4_servizi/servizi_guida.html"
+}

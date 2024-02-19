@@ -1,0 +1,17 @@
+{
+    "style_properties": [
+    {
+		"propertyKey": "Posti letto",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": "*",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/4_servizi/icona_servizi.png)"
+					} 
+				]
+			}
+		]
+	}
+    ]
+  }
