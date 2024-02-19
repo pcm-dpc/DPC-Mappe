@@ -1,0 +1,54 @@
+{
+    "style_properties": [
+      {
+        "propertyKey": "Regione",
+        "properties": [
+            {
+                "property": "fillColor",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "#343434"
+                  }
+                ]
+              },
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "0.5"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".9"
+                  }
+                ]
+              },
+              {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".5"
+                  }
+                ]
+              },
+              {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "white"
+                  }
+                ]
+              }
+        ]
+      }
+    ]
+  }
