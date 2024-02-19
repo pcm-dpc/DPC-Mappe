@@ -1,7 +1,7 @@
 {
     "style_properties": [
       {
-        "propertyKey": "Regione",
+        "propertyKey": "Densità popolazione (ab/kmq)",
         "properties": [
             {
                 "property": "fillColor",
