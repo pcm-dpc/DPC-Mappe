@@ -1,0 +1,17 @@
+{
+    "style_properties": [
+    {
+		"propertyKey": "Comune",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": "*",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa_turismo/dati/icona_turismo.png)"
+					} 
+				]
+			}
+		]
+	}
+    ]
+}
