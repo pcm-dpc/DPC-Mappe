@@ -64,6 +64,20 @@
         }
       ],
       "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=14.183306947471833&y=40.88627550747051&zoom=11.142282023494047&basemap=GOOGLE_SATELLITE&appname=Turismo&file=https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/5_turismo/turismo_conf.json&guide=true"
+    },
+    {
+      "index": 6,
+      "tabs": [
+        {
+          "header": "Zona Rossa",
+          "image_urls": ""
+        },
+        {
+          "header": "Zona Gialla",
+          "image_urls": ""
+        }
+      ],
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=14.183306947471833&y=40.88627550747051&zoom=11.142282023494047&basemap=GOOGLE_SATELLITE&appname=Cultura&file=https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/6_cultura/cultura_conf.json&guide=true"
     }
   ]
 }
