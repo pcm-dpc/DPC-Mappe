@@ -136,16 +136,7 @@
           "type": "values_for_key",
           "groupBy": "Comune",
           "header": "Indice di Vecchiaia",
-          "datasets": [
-            {
-              "options": {
-                "backgroundColor": "rgba(51, 138, 255, 0.8)"
-              },
-              "key": "Indice di vecchiaia",
-              "value": "Indice di vecchiaia"
-            },
-          ],
-          "externalDataset": [
+            "externalDataset": [
     {
       "label": "Riferimento Italiano",
       "backgroundColor": "rgba(255, 116, 51, 1)",
@@ -187,6 +178,15 @@
       ]
     }
   ],
+          "datasets": [
+            {
+              "options": {
+                "backgroundColor": "rgba(51, 138, 255, 0.8)"
+              },
+              "key": "Indice di vecchiaia",
+              "value": "Indice di vecchiaia"
+            }
+          ],
           "options": {
             "indexAxis": "x",
             "plugins": {
