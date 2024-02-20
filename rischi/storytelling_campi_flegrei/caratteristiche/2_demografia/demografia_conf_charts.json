@@ -44,6 +44,7 @@
   "navigation_guide": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/2_demografia/demografia_guida.html",
   "statistics": {
     "charts": {
+      "openOnStart": true,
       "values": [
         {
           "size": {
@@ -78,27 +79,6 @@
               "value": "Oltre 65 anni"
             }
           ],
-          "defaultDatasets": [
-    {
-      "label": "Riferimento Italiano",
-      "backgroundColor": "rgba(255, 99, 132, 0.8)",
-      "type": "line",
-      "data": [
-        150,
-        150,
-        150,
-        150,
-        150,
-        150,
-        150,
-        150,
-        150,
-        150,
-        150,
-        150
-      ]
-    }
-  ],
           "options": {
             "indexAxis": "y",
             "plugins": {
@@ -165,6 +145,27 @@
               "value": "Indice di vecchiaia"
             }
           ],
+           "defaultDatasets": [
+    {
+      "label": "Riferimento Italiano",
+      "backgroundColor": "rgba(255, 99, 132, 0.8)",
+      "type": "line",
+      "data": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150
+      ]
+    }
+  ],
           "options": {
             "indexAxis": "x",
             "plugins": {
