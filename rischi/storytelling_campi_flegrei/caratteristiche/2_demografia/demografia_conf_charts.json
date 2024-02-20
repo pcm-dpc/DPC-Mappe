@@ -150,6 +150,7 @@
     {
       "label": "Riferimento Italiano",
       "backgroundColor": "rgba(255, 116, 51, 1)",
+      "borderColor": "rgba(255, 116, 51, 1)",
       "type": "line",
       "order": 2,
       "data": [
@@ -170,6 +171,7 @@
     {
       "label": "Riferimento Regione Campania",
       "backgroundColor": "rgba(255, 212, 51, 1)",
+      "borderColor": "rgba(255, 212, 51, 1)",
       "type": "line",
       "order": 1,
       "data": [
