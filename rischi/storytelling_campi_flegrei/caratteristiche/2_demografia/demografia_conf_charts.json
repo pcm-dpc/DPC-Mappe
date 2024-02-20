@@ -78,6 +78,27 @@
               "value": "Oltre 65 anni"
             }
           ],
+          "defaultDatasets": [
+    {
+      "label": "Riferimento Italiano",
+      "backgroundColor": "rgba(255, 99, 132, 0.8)",
+      "type": "line",
+      "data": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150
+      ]
+    }
+  ],
           "options": {
             "indexAxis": "y",
             "plugins": {
