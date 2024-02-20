@@ -138,7 +138,7 @@
           "datasets": [
             {
               "options": {
-                "backgroundColor": "rgba(255, 99, 132, 0.2)"
+                "backgroundColor": "rgba(51, 138, 255, 0.8)"
               },
               "key": "Indice di vecchiaia",
               "value": "Indice di vecchiaia"
