@@ -150,6 +150,7 @@
       "label": "Riferimento Italiano",
       "backgroundColor": "rgba(255, 99, 132, 0.8)",
       "type": "line",
+      "order": 2,
       "data": [
         150,
         150,
