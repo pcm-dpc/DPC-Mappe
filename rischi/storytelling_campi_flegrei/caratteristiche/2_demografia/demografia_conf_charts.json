@@ -142,14 +142,6 @@
               },
               "key": "Indice di vecchiaia",
               "value": "Indice di vecchiaia"
-            },
-            {
-              "options": {
-                "backgroundColor": "rgba(255, 99, 132, 0.2)"
-              },
-            "type": "line",
-            "label": "Riferimento Italia",
-             "data": [165, 165, 165, 165],
             }
           ],
           "options": {
