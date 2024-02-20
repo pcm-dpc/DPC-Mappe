@@ -139,7 +139,8 @@
           "datasets": [
             {
               "options": {
-                "backgroundColor": "rgba(51, 138, 255, 0.8)"
+                "backgroundColor": "rgba(51, 138, 255, 0.8)",
+                "order": 3
               },
               "key": "Indice di vecchiaia",
               "value": "Indice di vecchiaia"
@@ -150,6 +151,7 @@
       "label": "Riferimento Italiano",
       "backgroundColor": "rgba(255, 116, 51, 1)",
       "type": "line",
+      "order": 2,
       "data": [
         180,
         180,
@@ -169,6 +171,7 @@
       "label": "Riferimento Regione Campania",
       "backgroundColor": "rgba(255, 212, 51, 1)",
       "type": "line",
+      "order": 1,
       "data": [
         146,
         146,
