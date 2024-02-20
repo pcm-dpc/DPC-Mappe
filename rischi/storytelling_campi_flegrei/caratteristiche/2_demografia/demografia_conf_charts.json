@@ -1,0 +1,131 @@
+{
+  "global_legend": "",
+  "name": "",
+  "header_popup": "Demografia",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Zone piano"
+    },
+    {
+      "key": 1,
+      "label": "Comuni interessati"
+    },
+    {
+      "key": 2,
+      "label": "Demografia"
+    }
+  ],
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campiflegrei.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/comuni_interessati_campiflegrei.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/2_demografia/demografia_dati.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campiflegrei.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/comuni_interessati_campiflegrei.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/2_demografia/demografia_dati.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campiflegrei_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/comuni_interessati_campiflegrei_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/2_demografia/demografia_style.json"
+  ],
+  "navigation_guide": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/2_demografia/demografia_guida.html",
+  "statistics": {
+    "charts": {
+      "values": [
+        {
+          "size": {
+            "width": "800px",
+            "height": "400px"
+          },
+          "layer": 2,
+          "chartType": "bar",
+          "header": "Demografia",
+          "type": "values_for_key",
+          "groupBy": "Comune",
+          "datasets": [
+            {
+              "options": {
+                "backgroundColor": "rgba(255, 99, 132, 0.2)"
+              },
+              "key": "0-14 anni",
+              "value": "0-14 anni"
+            },
+            {
+              "options": {
+                "backgroundColor": "rgba(255, 159, 64, 0.2)"
+              },
+              "key": "15-64 anni",
+              "value": "15-64 anni"
+            },
+            {
+              "options": {
+                "backgroundColor": "rgba(255, 205, 86, 0.2)"
+              },
+              "key": "Oltre 65 anni",
+              "value": "Oltre 65 anni"
+            }
+          ],
+          "options": {
+            "indexAxis": "y",
+            "plugins": {
+              "legend": {
+                "display": true
+              },
+              "title": {
+                "text": "Demografia",
+                "display": true,
+                "fontSize": 16
+              }
+            }
+          }
+        },
+        {
+          "size": {
+            "width": "800px",
+            "height": "400px"
+          },
+          "layer": 2,
+          "chartType": "bar",
+          "type": "values_for_key",
+          "groupBy": "Comune",
+          "header": "Densità",
+          "datasets": [
+            {
+              "options": {
+                "backgroundColor": "rgba(255, 99, 132, 0.2)"
+              },
+              "key": "Densità popolazione (ab/kmq)",
+              "value": "Densità popolazione (ab/kmq)"
+            }
+          ],
+          "options": {
+            "indexAxis": "y",
+            "plugins": {
+              "legend": {
+                "display": true
+              },
+              "title": {
+                "text": "Demografia",
+                "display": true,
+                "fontSize": 16
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
