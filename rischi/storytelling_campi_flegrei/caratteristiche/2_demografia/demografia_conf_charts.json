@@ -124,7 +124,39 @@
               }
             }
           }
-        }
+        },
+        {
+          "size": {
+            "width": "800px",
+            "height": "400px"
+          },
+          "layer": 2,
+          "chartType": "bar",
+          "type": "values_for_key",
+          "groupBy": "Comune",
+          "header": "Indice di Vecchiaia",
+          "datasets": [
+            {
+              "options": {
+                "backgroundColor": "rgba(255, 99, 132, 0.2)"
+              },
+              "key": "Indice di vecchiaia",
+              "value": "Indice di vecchiaia"
+            }
+          ],
+          "options": {
+            "indexAxis": "x",
+            "plugins": {
+              "legend": {
+                "display": true
+              },
+              "title": {
+                "text": "Indice di Vecchiaia",
+                "display": true,
+                "fontSize": 16
+              }
+            }
+          }
       ]
     }
   }
