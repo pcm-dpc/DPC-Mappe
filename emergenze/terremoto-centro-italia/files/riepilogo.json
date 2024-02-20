@@ -26,39 +26,37 @@
   ],
   "today": {
     "attachment": [
-      {     
+      {
         "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Comuni_terremoto.geojson"
-
       },
       {
         "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Progetti_Riepilogo.geojson"
       },
       {
-        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Progetti_L_B200.geojson" 
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Progetti_L_B200.geojson"
       },
       {
         "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Progetti_P_B200.geojson"
       },
       {
-        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Interventi_Strade.geojson" 
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Interventi_Strade.geojson"
       }
     ],
     "topo_json": [
-      
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Comuni_terremoto.geojson",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Progetti_Riepilogo.geojson",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Progetti_L_B200.geojson",
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Progetti_P_B200.geojson",      
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Interventi_Strade.geojson"  
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Progetti_P_B200.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/Interventi_Strade.geojson"
     ],
     "html_description": ""
   },
   "style": [
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/comuni_terremoto_style.geojson",
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/progetti_riepilogo_style.geojson",
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/progetti_l_b500_style.geojson",
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/progetti_p_b500_style.geojson",     
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/interventi_strade_style.geojson"
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/comuni_terremoto_style.geojson",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/progetti_riepilogo_style.geojson",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/progetti_l_b500_style.geojson",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/progetti_p_b500_style.geojson",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/ripristino_via/dati/interventi_strade_style.geojson"
   ],
   "info": {
     "header": "Legenda delle fasi di progetto",
@@ -66,6 +64,10 @@
   },
   "statistics": {
     "totals": {
+      "options": {
+        "width": "20vw",
+        "height": "60vh"
+      },
       "header": "Totali di interventi e progetti",
       "values": [
         {
@@ -78,27 +80,53 @@
         }
       ]
     },
-    "charts": [
-      {
-        "header": "Progetti per fase",
-        "description": "NUMERO DI PROGETTI PER FASE",
-        "layer": 1,
-        "properties_chart": "Fase_DPC"
-      }
-    ]
-  },
-  "filters": {
-    "header": " Contatore",
-    "filter": [
-      {
-        "layer": 1,
-        "field": [
-          {
-            "name": "Stato_di_avanzamento"
+    "charts": {
+      "values": [
+        {
+          "size": {
+            "width": "500px",
+            "height": "200px"
+          },
+          "layer": 1,
+          "chartType": "bar",
+          "type": "sum_occurrency_for_key",
+          "datasets": [
+            {
+              "options": {
+                "backgroundColor": "#42A5F5"
+              },
+              "key": "Fase_DPC"
+            }
+          ],
+          "options": {
+            "indexAxis": "y",
+            "plugins": {
+              "legend": {
+                "display": false
+              },
+              "title": {
+                "text": "Progetti per fase",
+                "display": true,
+                "fontSize": 16
+              }
+            }
           }
-        ]
-      }
-    ]
+        }
+      ]
+    },
+    "counters": {
+      "options": {
+        "width": "30vw",
+        "height": "90vh"
+      },
+      "header": " Contatore",
+      "values": [
+        {
+          "layer": 1,
+          "field": "Stato_di_avanzamento"
+        }
+      ]
+    }
   },
   "navigation_guide": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/navigation_guide_2/navigation_guide.html"
 }
