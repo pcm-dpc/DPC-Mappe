@@ -149,22 +149,42 @@
           "externalDataset": [
     {
       "label": "Riferimento Italiano",
-      "backgroundColor": "rgba(255, 99, 132, 1)",
+      "backgroundColor": "rgba(255, 116, 51, 1)",
       "type": "line",
       "order": 2,
       "data": [
-        150,
-        150,
-        150,
-        150,
-        150,
-        150,
-        150,
-        150,
-        150,
-        150,
-        150,
-        150
+        180,
+        180,
+        180,
+        180,
+        180,
+        180,
+        180,
+        180,
+        180,
+        180,
+        180,
+        180
+      ]
+    },
+    {
+      "label": "Riferimento Regione Campania",
+      "backgroundColor": "rgba(255, 212, 51, 1)",
+      "type": "line",
+      "order": 3,
+      "data": [
+        146,
+        146,
+        146,
+        146,
+        146,
+        146,
+        146,
+        146,
+        146,
+        146,
+        146,
+        146
       ]
     }
   ],
