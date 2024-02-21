@@ -59,8 +59,7 @@
           "datasets": [
             {
               "options": {
-                "backgroundColor": "rgba(255, 99, 132, 0.2)",
-                "outline": 1px solid black
+                "backgroundColor": "rgba(255, 99, 132, 0.2)
               },
               "key": "0-14 anni",
               "value": "0-14 anni"
