@@ -128,8 +128,8 @@
         },
         {
           "size": {
-            "width": "400px",
-            "height": "200px"
+            "width": "200px",
+            "height": "400px"
           },
           "layer": 2,
           "chartType": "bar",
