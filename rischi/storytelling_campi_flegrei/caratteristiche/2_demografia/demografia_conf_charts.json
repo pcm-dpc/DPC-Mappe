@@ -48,8 +48,8 @@
       "values": [
         {
           "size": {
-            "width": "800px",
-            "height": "400px"
+            "width": "400px",
+            "height": "200px"
           },
           "layer": 2,
           "chartType": "bar",
@@ -95,8 +95,8 @@
         },
         {
           "size": {
-            "width": "800px",
-            "height": "400px"
+            "width": "400px",
+            "height": "200px"
           },
           "layer": 2,
           "chartType": "bar",
@@ -128,8 +128,8 @@
         },
         {
           "size": {
-            "width": "800px",
-            "height": "400px"
+            "width": "400px",
+            "height": "200px"
           },
           "layer": 2,
           "chartType": "bar",
