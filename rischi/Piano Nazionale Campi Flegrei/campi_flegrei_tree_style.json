@@ -19,7 +19,7 @@
       ]
     },
     {
-      "key": "0",
+      "key": "1",
       "label": "Area Di Attesa",
       "filterKey": "Area_di_attesa",
       "filterValue": "*",
@@ -37,13 +37,14 @@
       ]
     },
     {
-      "key": "0",
+      "key": "2",
       "label": "Zona Gialla",
       "color": "#FFFF00",
       "filterKey": "Zona",
       "filterValue": "GIALLA",
       "expanded": true,
       "visible": true,
+      "layerKey": 0,
       "type": "default",
       "children": [
         {
@@ -55,12 +56,13 @@
       ]
     },
     {
-      "key": "0",
+      "key": "3",
       "label": "Zona Rossa",
       "filterKey": "Zona",
       "filterValue": "ROSSA",
       "expanded": true,
       "visible": true,
+      "layerKey": 0,
       "type": "default",
       "children": [
         {
