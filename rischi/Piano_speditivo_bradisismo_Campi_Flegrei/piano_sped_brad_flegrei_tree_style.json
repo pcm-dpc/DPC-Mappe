@@ -19,7 +19,7 @@
     },
     {
       "key": "1",
-      "label": "Zona ristretta",
+      "label": "Zona int. ristretta",
       "filterKey": "Zona",
       "filterValue": "Zona di intervento ristretta",
       "expanded": true,
