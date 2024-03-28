@@ -8,5 +8,80 @@
   },
   "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/settimana-protezione-civile-style.json"
-  ]
+  ],
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/spc-filter-conf.json",
+    "refresh": false,
+    "filters_type": [
+      {
+        "filter_function": "textInclude",
+        "binding_key": "regione",
+        "operator": "and",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "regione"
+        ]
+      },
+      {
+        "filter_function": "textInclude",
+        "binding_key": "provincia",
+        "operator": "and",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "provincia"
+        ]
+      },
+      {
+        "filter_function": "textInclude",
+        "binding_key": "comune",
+        "operator": "and",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "comune"
+        ]
+      },
+      {
+        "filter_function": "equalsDateString",
+        "binding_key": "date",
+        "operator": "or",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "data_1",
+          "data_2",
+          "data_3",
+          "data_4",
+          "data_5"
+        ]
+      },
+      {
+        "filter_function": "spcTipologie",
+        "operator": "and",
+        "filter_on_fields": [
+          "tipologia_altro"
+        ],
+        "binding_key": "tipologie",
+        "layers": [
+          0
+        ]
+      },
+      {
+        "filter_function": "spcOrganizzatori",
+        "filter_on_fields": [
+          "organizzatori"
+        ],
+        "binding_key": "organizzatori",
+        "layers": [
+          0
+        ]
+      }
+    ]
+  }
 }
