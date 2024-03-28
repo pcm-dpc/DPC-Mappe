@@ -1,25 +1,125 @@
 {
   "header_popup": "Report Messaggio",
-  "budibase": {
-    "url": "https://dataproxy.geosdi.org/proxy?url=https://webapp.protezionecivile.it/api/public/v1/queries/query_datasource_plus_13c361a866e14f7fb8542c588a901257_ed03f5abf7b0487188e17f97f1e0715b",
-    "appId": "app_9c121e7620cc49528b4eac056f5ee8cf",
-    "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert_style.geojson",
-    "params": {
-      "lat": "latitudine_localizzazione",
-      "lon": "longitudine_localizzazione",
-      "zona_allerta": {
-        "url": "https://dataproxy.geosdi.org/proxy?url=https://webapp.protezionecivile.it/api/public/v1/tables/datasource_plus_13c361a866e14f7fb8542c588a901257__test/rows/search"
+  "today": {
+    "topo_json": [
+      {
+        "layer": 0,
+        "geojson": "https://dataproxy.geosdi.org/proxy?url=https://webapp.protezionecivile.it/api/public/v1/queries/query_datasource_plus_13c361a866e14f7fb8542c588a901257_ed03f5abf7b0487188e17f97f1e0715b",
+        "budibase": {
+          "appId": "app_9c121e7620cc49528b4eac056f5ee8cf",
+          "params": {
+            "lat": "latitudine_localizzazione",
+            "lon": "longitudine_localizzazione",
+            "zona_allerta": {
+              "url": "https://dataproxy.geosdi.org/proxy?url=https://webapp.protezionecivile.it/api/public/v1/tables/datasource_plus_13c361a866e14f7fb8542c588a901257__test/rows/search"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert_style.geojson"
+  ],
+  "feature_properties": [
+    [
+      "codice_compilatore",
+      "data_ora_rilevazione",
+      "produttore",
+      "operatore",
+      "tecnologia",
+      "ricezione_messaggio",
+      "ora_ricezione",
+      "entita_organizzatrice"
+    ]
+  ],
+  "refresh_config": {
+    "refresh_time": 30000
+  },
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert-filter-conf.json",
+    "refresh": true,
+    "fixed_filters": [
+      {
+        "value": false,
+        "binding_key": "cancellata"
+      }
+    ],
+    "filters_url": [
+      {
+        "value": "data_messaggio",
+        "binding_key": "data_messaggio"
       },
-      "features": [
-        "codice_compilatore",
-        "data_ora_rilevazione",
-        "produttore",
-        "operatore",
-        "tecnologia",
-        "ricezione_messaggio",
-        "ora_ricezione",
-        "entita_organizzatrice"
-      ]
-    }
+      {
+        "value": "entita_organizzatrice",
+        "binding_key": "entita_organizzatrice"
+      },
+      {
+        "value": "operatore",
+        "binding_key": "operatore"
+      },
+      {
+        "value": "ricevuto",
+        "binding_key": "ricezione_messaggio"
+      }
+    ],
+    "filters_type": [
+      {
+        "filter_function": "boolean",
+        "binding_key": "cancellata",
+        "filter_on_fields": [
+          "cancellata"
+        ],
+        "layers": [
+          0
+        ],
+        "operator": "and"
+      },
+      {
+        "filter_function": "textInclude",
+        "binding_key": "operatore",
+        "filter_on_fields": [
+          "operatore"
+        ],
+        "layers": [
+          0
+        ],
+        "operator": "and"
+      },
+      {
+        "operator": "and",
+        "filter_function": "textInclude",
+        "binding_key": "entita_organizzatrice",
+        "filter_on_fields": [
+          "entita_organizzatrice"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "filter_function": "singleDate",
+        "operator": "and",
+        "binding_key": "data_messaggio",
+        "filter_on_fields": [
+          "data_ora_rilevazione"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "operator": "or",
+        "filter_function": "textInclude",
+        "binding_key": "ricezione_messaggio",
+        "filter_on_fields": [
+          "ricezione_messaggio"
+        ],
+        "layers": [
+          0
+        ]
+      }
+    ]
   }
 }
+
