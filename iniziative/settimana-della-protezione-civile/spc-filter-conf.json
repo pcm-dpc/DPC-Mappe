@@ -1,0 +1,95 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+        {
+          "field_type": "TEXT",
+          "placeholder": "spc-filters.regione",
+          "binding_key": "regione"
+        },
+        {
+          "field_type": "TEXT",
+          "placeholder": "spc-filters.provincia",
+          "binding_key": "provincia"
+        },
+        {
+          "field_type": "TEXT",
+          "placeholder": "spc-filters.comune",
+          "binding_key": "comune"
+        },
+        {
+          "field_type": "DATE",
+          "date_selection_mode": "single",
+          "placeholder": "spc-filters.choose_date",
+          "binding_key": "date"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "field_type": "MULTISELECT",
+          "placeholder": "spc-filters.event_type",
+          "options": [
+            {
+              "name": "Mostra / Esposizione",
+              "value": "Mostra / Esposizione"
+            },
+            {
+              "name": "Incontro tecnico",
+              "value": "Incontro tecnico"
+            },
+            {
+              "name": "Incontro pubblico",
+              "value": "Incontro pubblico"
+            },
+            {
+              "name": "Convegno / Conferenza",
+              "value": "Convegno / Conferenza"
+            },
+            {
+              "name": "Workshop",
+              "value": "Workshop"
+            },
+            {
+              "name": "Iniziative per le scuole",
+              "value": "Iniziative per le scuole"
+            },
+            {
+              "name": "Esercitazione di protezione civile",
+              "value": "Esercitazione di protezione civile"
+            },
+            {
+              "name": "Laboratorio / Attività formative",
+              "value": "Laboratorio / Attività formative"
+            },
+            {
+              "name": "Altro",
+              "value": "Altro"
+            }
+          ],
+          "binding_key": "tipologie"
+        },
+        {
+          "field_type": "MULTISELECT",
+          "placeholder": "spc-filters.organizer",
+          "options": [
+            {
+              "name": "Dipartimento della Protezione Civile",
+              "value": "Dipartimento della Protezione Civile"
+            },
+            {
+              "name": "Altri enti, istituzioni, organizzazioni",
+              "value": "Altri enti, istituzioni, organizzazioni"
+            }
+          ],
+          "binding_key": "organizzatori"
+        },
+        {
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ],
+  "label_total": "spc-filters.tot_events"
+}
