@@ -1,0 +1,71 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+        {
+          "field_type": "TEXT",
+          "placeholder": "iononrischio-filters.regione",
+          "binding_key": "regione"
+        },
+        {
+          "field_type": "TEXT",
+          "placeholder": "iononrischio-filters.provincia",
+          "binding_key": "provincia"
+        },
+        {
+          "field_type": "TEXT",
+          "placeholder": "iononrischio-filters.comune",
+          "binding_key": "comune"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "field_type": "MULTISELECT",
+          "options": [
+            {
+              "name": "Alluvione",
+              "value": "Alluvione"
+            },
+            {
+              "name": "Terremoto, Maremoto",
+              "value": "Terremoto Maremoto"
+            },
+            {
+              "name": "Campi Flegrei",
+              "value": "Flegrei"
+            },
+            {
+              "name": "Stromboli, Vulcano",
+              "value": "Stromboli Vulcano"
+            }
+          ],
+          "placeholder": "iononrischio-filters.risk",
+          "multiselect_all_header": true,
+          "binding_key": "rischi"
+        },
+        {
+          "field_type": "MULTISELECT",
+          "options": [
+            {
+              "name": "14 Ottobre",
+              "value": "14/10/2023"
+            },
+            {
+              "name": "15 Ottobre",
+              "value": "15/10/2023"
+            }
+          ],
+          "placeholder": "iononrischio-filters.date",
+          "binding_key": "quando",
+          "multiselect_all_header": true
+        },
+        {
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ],
+  "label_total": "iononrischio-filters.tot_piazze"
+}
