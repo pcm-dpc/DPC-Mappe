@@ -5,21 +5,77 @@
   "layers": [
     {
       "key": 0,
-      "label": "Piazze"
+      "label": "iononrischio"
     }
   ],
   "today": {
-   
     "topo_json": [
-      
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/giornate-nazionali/2023/data/iononrischio_map_data.geojson"
-
     ],
     "html_descrition": ""
   },
   "style": [
-   
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/giornate-nazionali/iononrischio_map_style.json"
-  ]
-   
+  ],
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/giornate-nazionali/iononrischio-filter-conf.json",
+    "refresh": false,
+    "filters_type": [
+      {
+        "filterFunction": "textInclude",
+        "binding_key": "regione",
+        "operator": "and",
+        "filter_on_fields": [
+          "Regione"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "filterFunction": "textInclude",
+        "binding_key": "provincia",
+        "operator": "and",
+        "filter_on_fields": [
+          "Provincia"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "filterFunction": "textInclude",
+        "binding_key": "comune",
+        "operator": "and",
+        "filter_on_fields": [
+          "Comune"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "filterFunction": "textIncludeSingleValue",
+        "binding_key": "rischi",
+        "operator": "or",
+        "filter_on_fields": [
+          "Rischi"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "filterFunction": "textInclude",
+        "binding_key": "quando",
+        "operator": "or",
+        "filter_on_fields": [
+          "Quando"
+        ],
+        "layers": [
+          0
+        ]
+      }
+    ]
+  }
 }
