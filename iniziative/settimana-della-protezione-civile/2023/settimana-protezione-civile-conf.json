@@ -63,7 +63,7 @@
       },
       {
         "filter_function": "spcTipologie",
-        "operator": "and",
+        "operator": "or",
         "filter_on_fields": [
           "tipologia_altro"
         ],
