@@ -95,96 +95,10 @@
           "binding_key": "categorie"
         },
         {
-          "field_type": "DROPDOWN",
-          "placeholder": "it-alert-filters.region",
-          "options": [
-            {
-              "name": "Dipartimento della Protezione Civile",
-              "value": "Dipartimento della Protezione Civile"
-            },
-            {
-              "name": "Marche",
-              "value": "Marche"
-            },
-            {
-              "name": "Campania",
-              "value": "Campania"
-            },
-            {
-              "name": "Liguria",
-              "value": "Liguria"
-            },
-            {
-              "name": "Provincia Autonoma di Bolzano",
-              "value": "Provincia Autonoma di Bolzano"
-            },
-            {
-              "name": "Piemonte",
-              "value": "Piemonte"
-            },
-            {
-              "name": "Sicilia",
-              "value": "Sicilia"
-            },
-            {
-              "name": "Lazio",
-              "value": "Lazio"
-            },
-            {
-              "name": "Valle d'Aosta",
-              "value": "Valle d'Aosta"
-            },
-            {
-              "name": "Sardegna",
-              "value": "Sardegna"
-            },
-            {
-              "name": "Basilicata",
-              "value": "Basilicata"
-            },
-            {
-              "name": "Toscana",
-              "value": "Toscana"
-            },
-            {
-              "name": "Abruzzo",
-              "value": "Abruzzo"
-            },
-            {
-              "name": "Friuli Venezia Giulia",
-              "value": "Friuli Venezia Giulia"
-            },
-            {
-              "name": "Emilia-Romagna",
-              "value": "Emilia-Romagna"
-            },
-            {
-              "name": "Calabria",
-              "value": "Calabria"
-            }
-          ],
-          "binding_key": "entita_organizzatrice"
-        },
-        {
           "field_type": "DATE",
           "date_selection_mode": "single",
-          "placeholder": "it-alert-filters.received_date",
-          "binding_key": "data_messaggio"
-        },
-        {
-          "field_type": "MULTISELECT",
-          "placeholder": "it-alert-filters.status",
-          "options": [
-            {
-              "name": "Ricevuto",
-              "value": "S"
-            },
-            {
-              "name": "Non Ricevuto",
-              "value": "N"
-            }
-          ],
-          "binding_key": "ricezione_messaggio"
+          "placeholder": "data esercitazione",
+          "binding_key": "data_segnalazione"
         },
         {
           "field_type": "BUTTON"
@@ -192,5 +106,5 @@
       ]
     }
   ],
-  "label_total": "it-alert-filters.tot_messages"
+  "label_total": "Totale segnalazioni"
 }
