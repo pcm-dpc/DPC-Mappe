@@ -4,67 +4,95 @@
       "fields": [
         {
           "field_type": "DROPDOWN",
-          "placeholder": "it-alert-filters.operator",
+          "placeholder": "Scegli la categoria",
           "show_clear": true,
           "options": [
             {
-              "name": "Iliad",
-              "value": "Iliad"
+              "name": "Coordinamento",
+              "value": "Coordinamento"
             },
             {
-              "name": "TIM",
-              "value": "TIM"
+              "name": "Strutture operative",
+              "value": "Strutture operative"
             },
             {
-              "name": "Vodafone",
-              "value": "Vodafone"
+              "name": "Assistenza alla popolazione",
+              "value": "Assistenza alla popolazione"
             },
             {
-              "name": "WindTre",
-              "value": "WindTre"
+              "name": "Sanità e assistenza sociale",
+              "value": "Sanità e assistenza sociale"
             },
             {
-              "name": "CoopVoce",
-              "value": "CoopVoce"
+              "name": "Logistica-Strutture accoglienza",
+              "value": "Logistica-Strutture accoglienza"
             },
             {
-              "name": "Very Mobile",
-              "value": "Very Mobile"
+              "name": "Telecomunicazioni emergenza",
+              "value": "Telecomunicazioni emergenza"
             },
             {
-              "name": "Tiscali Mobile",
+              "name": "Accessibilità e mobilità-Strade",
               "value": "Tiscali Mobile"
             },
             {
-              "name": "Kena Mobile",
-              "value": "Kena Mobile"
+              "name": "Accessibilità e mobilità-Ferrovie",
+              "value": "Accessibilità e mobilità-Ferrovie"
             },
             {
-              "name": "BT Mobile",
-              "value": "BT Mobile"
+              "name": "Accessibilità e mobilità-Porti",
+              "value": "Accessibilità e mobilità-Porti"
             },
             {
-              "name": "1Mobile",
-              "value": "1Mobile"
+              "name": "Accessibilità e mobilità-Aeroporti",
+              "value": "Accessibilità e mobilità-Aeroporti"
             },
             {
-              "name": "PosteMobile",
-              "value": "PosteMobile"
+              "name": "Servizi essenziali-Acqua e fognatura",
+              "value": "Servizi essenziali-Acqua e fognatura"
             },
             {
-              "name": "Ho.",
-              "value": "Ho."
+              "name": "Servizi essenziali-Gas",
+              "value": "Servizi essenziali-Gas"
             },
             {
-              "name": "Fastweb",
-              "value": "Fastweb"
+              "name": "Servizi essenziali-Elettricità",
+              "value": "Servizi essenziali-Elettricità"
             },
             {
-              "name": "Altro",
-              "value": "Altro"
+              "name": "Servizi essenziali-Telefonia",
+              "value": "Servizi essenziali-Telefonia"
+            },
+            {
+              "name": "Scenario evento",
+              "value": "Scenario evento"
+            },
+           {
+              "name": "Censimento danni",
+              "value": "Censimento danni"
+            },
+            {
+              "name": "Verifica speditiva edifici",
+              "value": "Verifica speditiva edifici"
+            },
+            {
+              "name": "Volontariato",
+              "value": "Volontariato"
+            },
+            {
+              "name": "Beni Culturali",
+              "value": "Beni Culturali"
+            },
+            {
+              "name": "Stampa e comunicazione",
+              "value": "Stampa e comunicazione"
+            },
+            {
+              "name": "Continuità amministrativa",
+              "value": "Continuità amministrativa"
             }
           ],
-          "binding_key": "operatore"
+          "binding_key": "categorie"
         },
         {
           "field_type": "DROPDOWN",
