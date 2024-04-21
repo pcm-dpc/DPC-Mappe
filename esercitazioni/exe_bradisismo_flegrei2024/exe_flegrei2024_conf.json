@@ -44,20 +44,8 @@
     ],
     "filters_url": [
       {
-        "value": "data_messaggio",
-        "binding_key": "data_messaggio"
-      },
-      {
-        "value": "entita_organizzatrice",
-        "binding_key": "entita_organizzatrice"
-      },
-      {
-        "value": "operatore",
-        "binding_key": "operatore"
-      },
-      {
-        "value": "ricevuto",
-        "binding_key": "ricezione_messaggio"
+        "value": "data_esercitazione",
+        "binding_key": "data_segnalazione"
       }
     ],
     "filters_type": [
@@ -72,45 +60,13 @@
         ],
         "operator": "and"
       },
-      {
-        "filter_function": "textInclude",
-        "binding_key": "operatore",
-        "filter_on_fields": [
-          "operatore"
-        ],
-        "layers": [
-          0
-        ],
-        "operator": "and"
-      },
-      {
-        "operator": "and",
-        "filter_function": "textInclude",
-        "binding_key": "entita_organizzatrice",
-        "filter_on_fields": [
-          "entita_organizzatrice"
-        ],
-        "layers": [
-          0
-        ]
-      },
-      {
-        "filter_function": "singleDate",
-        "operator": "and",
-        "binding_key": "data_messaggio",
-        "filter_on_fields": [
-          "data_ora_rilevazione"
-        ],
-        "layers": [
-          0
-        ]
-      },
+
       {
         "operator": "or",
         "filter_function": "textInclude",
-        "binding_key": "ricezione_messaggio",
+        "binding_key": "categorie",
         "filter_on_fields": [
-          "ricezione_messaggio"
+          "nome_categoria"
         ],
         "layers": [
           0
