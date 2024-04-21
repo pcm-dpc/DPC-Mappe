@@ -12,17 +12,6 @@
             "lon": "lon"
           }
         }
-      },
-      {
-        "layer": 1,
-        "geojson": "https://eme-management.protezionecivile.it/api/public/v1/tables/datasource_plus_cf002dea39ad4c1ca1a285e99015546b__cf_centri_coordinamento/rows/search",
-        "budibase": {
-          "appId": "app_3aad1beff3f044bc955b0aa1779f382b",
-          "params": {
-            "lat": "lat",
-            "lon": "lon"
-          }
-        }
       }
     ]
   },
