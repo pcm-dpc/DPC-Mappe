@@ -60,7 +60,6 @@
         ],
         "operator": "and"
       },
-
       {
         "operator": "or",
         "filter_function": "textInclude",
