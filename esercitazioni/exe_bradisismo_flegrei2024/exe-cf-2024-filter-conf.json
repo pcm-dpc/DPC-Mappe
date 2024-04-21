@@ -90,6 +90,10 @@
             {
               "name": "Continuità amministrativa",
               "value": "Continuità amministrativa"
+            },
+            {
+              "name": "Attivazione centro coordinamento",
+              "value": "Attivazione centro coordinamento"
             }
           ],
           "binding_key": "categorie"
