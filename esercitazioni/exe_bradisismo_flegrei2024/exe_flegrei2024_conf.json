@@ -16,6 +16,21 @@
             }
           }
         }
+      },
+      {
+        "layer": 1,
+        "geojson": "https://eme-management.protezionecivile.it/api/public/v1/queries/query_datasource_plus_cf002dea39ad4c1ca1a285e99015546b_d095de830949446baa8744da5be38015",
+        "budibase": {
+          "appId": "app_3aad1beff3f044bc955b0aa1779f382b",
+          "xBudibaseApiKey": "add0f72e15e5964e7257a64f9ff1aa84-8113211b194f7fad175298d0cd69684ad1dbe1c1b071c82aa62dabb84e26a11fc3c9a8213401c81f",
+          "params": {
+            "lat": "lat",
+            "lon": "lon",
+             "zona_allerta": {
+              "url": "https://dataproxy.geosdi.org/proxy?url=https://webapp.protezionecivile.it/api/public/v1/tables/datasource_plus_13c361a866e14f7fb8542c588a901257__test/rows/search"
+            }
+          }
+        }
       }
     ]
   },
