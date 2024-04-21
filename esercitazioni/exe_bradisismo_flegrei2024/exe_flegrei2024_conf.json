@@ -9,7 +9,10 @@
           "appId": "app_3aad1beff3f044bc955b0aa1779f382b",
           "params": {
             "lat": "lat",
-            "lon": "lon"
+            "lon": "lon",
+             "zona_allerta": {
+              "url": "https://dataproxy.geosdi.org/proxy?url=https://webapp.protezionecivile.it/api/public/v1/tables/datasource_plus_13c361a866e14f7fb8542c588a901257__test/rows/search"
+            }
           }
         }
       }
