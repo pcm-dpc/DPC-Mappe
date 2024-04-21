@@ -89,6 +89,10 @@
                                        {
 						"key": "Continuità amministrativa",
 						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_cont_amm.png)"
+					},
+					{
+						"key": "Attivazione centro coordinamento",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/centro_coord.png)"
 					}
 				]
 			}
