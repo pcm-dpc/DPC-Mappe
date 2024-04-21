@@ -1,27 +1,54 @@
 {
-   "style_properties":[
-      {
-         "propertyKey":"ricezione_messaggio",
-         "properties":[
-            {
-               "property":"divIcon",
-               "values":[
-                  {
-                     "key":"S",
-                     "value":"<div style='background-color:#008000; width:100%; height:100%;'></div>"
-                  }
-               ]
-            },
-            {
-               "property":"divIcon",
-               "values":[
-                  {
-                     "key":"N",
-                     "value":"<div style='background-color:#FF0000; width:100%; height:100%;'></div>"
-                  }
-               ]
-            }
-         ]
-      }
-   ]
+    "style_properties": [
+    {
+		"propertyKey": "nome_categoria",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [
+				    {
+						"key": "Interruzione servizi essenziali",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/dicomac.png)"
+					},
+				    {
+						"key": "Assistenza alla popolazione",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/sor.png)"
+					},
+					{
+						"key": "Censimento danni",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/ccs.png)"
+					},
+					{
+						"key": "Verifica speditiva edifici",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+					},
+					{
+						"key": "Allestimento strutture accoglienza",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+					},
+					{
+						"key": "Evacuazione edifici pubblici",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+					},
+					{
+						"key": "Criticità alla viabilità",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+					},
+					{
+						"key": "Evento sismico",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+					},
+               {
+						"key": "Accessibilità e mobilità-Ferrovie",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/dicomac.png)"
+					},
+               {
+						"key": "Accessibilità e mobilità-Porti",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+					}
+				]
+			}
+		]
+	}
+    ]
 }
