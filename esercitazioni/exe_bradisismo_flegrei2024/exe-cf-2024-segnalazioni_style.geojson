@@ -1,0 +1,27 @@
+{
+   "style_properties":[
+      {
+         "propertyKey":"ricezione_messaggio",
+         "properties":[
+            {
+               "property":"divIcon",
+               "values":[
+                  {
+                     "key":"S",
+                     "value":"<div style='background-color:#008000; width:100%; height:100%;'></div>"
+                  }
+               ]
+            },
+            {
+               "property":"divIcon",
+               "values":[
+                  {
+                     "key":"N",
+                     "value":"<div style='background-color:#FF0000; width:100%; height:100%;'></div>"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
