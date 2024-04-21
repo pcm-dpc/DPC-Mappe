@@ -19,7 +19,7 @@
     ]
   },
   "style": [
-    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert_style.geojson"
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/exe-cf-2024-segnalazioni_style.json"
   ],
   "feature_properties": [
     [
