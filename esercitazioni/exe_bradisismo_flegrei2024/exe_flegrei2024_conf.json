@@ -34,7 +34,7 @@
     "refresh_time": 30000
   },
   "filter_config": {
-    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert-filter-conf.json",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/exe-cf-2024-filter-conf.json",
     "refresh": true,
     "fixed_filters": [
       {
