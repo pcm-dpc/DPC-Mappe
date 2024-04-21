@@ -6,45 +6,89 @@
 			{
 				"property": "icon",
 				"values": [
-				    {
-						"key": "Interruzione servizi essenziali",
-						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/dicomac.png)"
+				       {
+						"key": "Coordinamento",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_coordinamento.png)"
 					},
-				    {
+				       {
+						"key": "Strutture operative",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_strutt_operative.png)"
+					},
+					{
 						"key": "Assistenza alla popolazione",
-						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/sor.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_assist_pop.png)"
+					},
+					{
+						"key": "Sanità e assistenza sociale",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_sanita.png)"
+					},
+					{
+						"key": "Logistica-Strutture accoglienza",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_strutture_accoglienza.png)"
+					},
+					{
+						"key": "Telecomunicazioni emergenza",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_tlc.png)"
+					},
+					{
+						"key": "Accessibilità e mobilità-Strade",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_crit_strade.png)"
+					},
+					{
+						"key": "Accessibilità e mobilità-Ferrovie",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_crit_ferrovie.png)"
+					},
+                                       {
+						"key": "Accessibilità e mobilità-Porti",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_crit_porti.png)"
+					},
+                                      {
+						"key": "Accessibilità e mobilità-Aeroporti",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_crit_aeroporti.png)"
+					},
+				       {
+						"key": "Servizi essenziali-Acqua e fognatura,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_crit_acqua.png)"
+					},
+					{
+						"key": "Servizi essenziali-Gas",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_gas.png)"
+					},
+					{
+						"key": "Servizi essenziali-Elettricità",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_elettricita.png)"
+					},
+                                        {
+						"key": "Servizi essenziali-Telefonia",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_telefonia.png)"
+					},
+					{
+						"key": "Scenario evento",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_ev_sismico.png)"
 					},
 					{
 						"key": "Censimento danni",
-						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/ccs.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_censimento_danni.png)"
 					},
-					{
+                                         {
 						"key": "Verifica speditiva edifici",
-						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_verif_sped_edif.png)"
+					},
+                                       {
+						"key": "Volontariato",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_volontariato.png)"
 					},
 					{
-						"key": "Allestimento strutture accoglienza",
-						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+						"key": "Beni Culturali",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_beni_cult.png)"
 					},
 					{
-						"key": "Evacuazione edifici pubblici",
-						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+						"key": "Stampa e comunicazione",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_stampa_comun.png)"
 					},
-					{
-						"key": "Criticità alla viabilità",
-						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
-					},
-					{
-						"key": "Evento sismico",
-						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
-					},
-               {
-						"key": "Accessibilità e mobilità-Ferrovie",
-						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/dicomac.png)"
-					},
-               {
-						"key": "Accessibilità e mobilità-Porti",
-						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+                                       {
+						"key": "Continuità amministrativa",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_cont_amm.png)"
 					}
 				]
 			}
