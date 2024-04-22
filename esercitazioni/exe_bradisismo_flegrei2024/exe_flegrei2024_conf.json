@@ -71,6 +71,17 @@
         "layers": [
           0
         ]
+      },
+            {
+        "filter_function": "singleDate",
+        "operator": "and",
+        "binding_key": "data_segnalazione",
+        "filter_on_fields": [
+          "data_ora_segnalazione"
+        ],
+        "layers": [
+          0
+        ]
       }
     ]
   }
