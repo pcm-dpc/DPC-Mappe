@@ -37,12 +37,6 @@
   "filter_config": {
     "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/exe-cf-2024-filter-conf.json",
     "refresh": true,
-    "fixed_filters": [
-      {
-        "value": false,
-        "binding_key": "cancellata"
-      }
-    ],
     "filters_url": [
       {
         "value": "data_esercitazione",
