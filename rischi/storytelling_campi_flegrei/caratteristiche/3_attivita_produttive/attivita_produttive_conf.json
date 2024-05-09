@@ -42,5 +42,18 @@
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campiflegrei_style.json",
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/3_attivita_produttive/attivita_produttive_style.json"
   ],
-  "navigation_guide": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/3_attivita_produttive/attivita_produttive_guida.html"
+  "navigation_guide": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/3_attivita_produttive/attivita_produttive_guida.html",
+      "leaflet": {
+    "tooltip": [
+    {
+      "key": 0,
+      "properties": [
+       {
+          "key": "Comune",
+         "label": "Comune"
+       }
+       ]
+    }
+   ]
+  }
 }
