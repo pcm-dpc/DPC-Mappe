@@ -104,7 +104,7 @@
       },
       {
         "operator": "and",
-        "filter_function": "textIncludeSingleValue",
+        "filter_function": "textInclude",
         "binding_key": "codice_test",
         "filter_on_fields": [
           "codice_test"
