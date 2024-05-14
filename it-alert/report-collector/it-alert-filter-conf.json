@@ -107,8 +107,12 @@
               "value": "Valle d'Aosta"
             },
             {
-              "name": "Sardegna",
-              "value": "Sardegna"
+              "name": "Sardegna-test1",
+              "value": "Sardegna1"
+            },
+            {
+              "name": "Sardegna-test2",
+              "value": "Sardegna2"
             },
             {
               "name": "Basilicata",
