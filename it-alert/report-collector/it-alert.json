@@ -56,6 +56,10 @@
         "binding_key": "entita_organizzatrice"
       },
       {
+        "value": "codice_test",
+        "binding_key": "codice_test"
+      },
+      {
         "value": "operatore",
         "binding_key": "operatore"
       },
@@ -93,6 +97,17 @@
         "binding_key": "entita_organizzatrice",
         "filter_on_fields": [
           "entita_organizzatrice"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "operator": "and",
+        "filter_function": "textInclude",
+        "binding_key": "codice_test",
+        "filter_on_fields": [
+          "codice_test"
         ],
         "layers": [
           0
