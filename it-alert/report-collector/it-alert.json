@@ -22,18 +22,45 @@
   "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert_style.geojson"
   ],
-  "feature_properties": [
-    [
-      "codice_compilatore",
-      "data_ora_rilevazione",
-      "produttore",
-      "operatore",
-      "tecnologia",
-      "ricezione_messaggio",
-      "ora_ricezione",
-      "entita_organizzatrice"
+"features_detail": [
+  {
+    "key": 0,
+    "featureInfo": [
+      {
+        "name": "codice_compilatore",
+        "label": "codice_compilatore"
+      },
+      {
+        "name": "data_ora_rilevazione",
+        "label": "data_ora_rilevazione"
+      },
+      {
+        "name": "produttore",
+        "label": "produttore"
+      },
+      {
+        "name": "operatore",
+        "label": "operatore"
+      },
+      {
+        "name": "tecnologia",
+        "label": "tecnologia"
+      },
+      {
+        "name": "ricezione_messaggio",
+        "label": "ricezione_messaggio"
+      },
+      {
+        "name": "ora_ricezione",
+        "label": "ora_ricezione"
+      },
+      {
+        "name": "entita_organizzatrice",
+        "label": "entita_organizzatrice"
+      }
     ]
-  ],
+  }
+],
   "refresh_config": {
     "refresh_time": 30000
   },
