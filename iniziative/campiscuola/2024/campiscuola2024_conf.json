@@ -28,7 +28,7 @@
       {
         "filter_function": "textInclude",
         "binding_key": "regione",
-        "operator": "and",
+        "operator": "or",
         "layers": [
           0
         ],
@@ -37,9 +37,9 @@
         ]
       },
       {
-        "filter_function": "textInclude",
+        "filter_function": "exactValue",
         "binding_key": "provincia",
-        "operator": "and",
+        "operator": "or",
         "layers": [
           0
         ],
@@ -50,7 +50,7 @@
       {
         "filter_function": "textInclude",
         "binding_key": "comune",
-        "operator": "and",
+        "operator": "or",
         "layers": [
           0
         ],
