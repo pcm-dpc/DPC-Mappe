@@ -1,0 +1,27 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+        {
+          "field_type": "TEXT",
+          "placeholder": "Regione",
+          "binding_key": "regione"
+        },
+        {
+          "field_type": "TEXT",
+          "placeholder": "Sigla provincia",
+          "binding_key": "provincia"
+        },
+        {
+          "field_type": "TEXT",
+          "placeholder": "Comune",
+          "binding_key": "comune"
+        },
+		{
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ],
+  "label_total": "Totale"
+}
