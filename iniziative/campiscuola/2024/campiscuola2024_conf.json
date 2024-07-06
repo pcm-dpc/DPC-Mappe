@@ -1,7 +1,7 @@
 {
   "global_legend": "",
-  "name": "Campi scuola-Anch'io sono la protezione civile",
-  "header_popup": "Edizione 2024",
+  "name": "Edizione 2024",
+  "header_popup": "Campi scuola",
   "layers": [
     {
       "key": 0,
@@ -12,7 +12,7 @@
    
     "topo_json": [
       
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/campiscuola2023/campi_scuola_2023_dati.geojson"
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/2024/campi_scuola_2024.geojson"
 
     ],
     "html_descrition": ""
