@@ -1,4 +1,4 @@
-{
+ {
   "global_legend": "",
   "name": "Edizione 2024",
   "header_popup": "Campi scuola",
@@ -20,6 +20,45 @@
   "style": [
    
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/campiscuola_style.json"
-  ]
-   
+  ],
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/spc-filter-conf.json",
+    "refresh": false,
+    "filters_type": [
+      {
+        "filter_function": "textInclude",
+        "binding_key": "regione",
+        "operator": "and",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "Regione"
+        ]
+      },
+      {
+        "filter_function": "textInclude",
+        "binding_key": "provincia",
+        "operator": "and",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "Provincia"
+        ]
+      },
+      {
+        "filter_function": "textInclude",
+        "binding_key": "comune",
+        "operator": "and",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "Comune"
+        ]
+      }
+    ]
+  }  
 }
+ 
