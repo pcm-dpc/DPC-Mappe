@@ -1,13 +1,16 @@
 {
-	"style_properties": [{
-		"propertyKey": "Regione",
-		"properties": [
-			{
-				"property": "icon",
-				"values": [{
-						"key": "*",
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/icona_campiscuola.png)"
-					} 
+"style_properties": [{
+	"propertyKey": "Regione",
+	"properties": [
+		{
+		"property": "icon",
+			"values": [{
+				"key": "*",
+				"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/icona_campiscuola.png)",
+				"options": {
+                                	"iconSize": [12, 15]
+                                           }
+				  } 
 				]
 			}
 		]
