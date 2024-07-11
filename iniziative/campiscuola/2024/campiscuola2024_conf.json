@@ -24,6 +24,9 @@
   "filter_config": {
     "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/campiscuola2024_filter_conf.json",
     "refresh": false,
+        "excluded_layers": [
+      1
+    ],
     "filters_type": [
       {
         "filter_function": "textInclude",
