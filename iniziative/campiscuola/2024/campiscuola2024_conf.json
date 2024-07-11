@@ -28,13 +28,13 @@
       {
         "filter_function": "textInclude",
         "binding_key": "regione",
-        "operator": "or",
+        "operator": "and",
+       "filter_on_fields": [
+          "Regione"
+        ],
         "layers": [
           0
-        ],
-        "filter_on_fields": [
-          "Regione"
-        ]
+        ] 
       },
       {
         "filter_function": "exactValue",
