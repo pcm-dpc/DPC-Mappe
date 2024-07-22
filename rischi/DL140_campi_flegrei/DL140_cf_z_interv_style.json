@@ -13,6 +13,15 @@
           ]
         },
         {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "Zona di intervento",
+              "value": "#02c1f6"
+            }
+          ]
+        },
+        {
           "property": "weight",
           "values": [
             {
@@ -35,7 +44,7 @@
           "values": [
             {
               "key": "*",
-              "value": "0.0"
+              "value": "0.2"
             }
           ]
         }
