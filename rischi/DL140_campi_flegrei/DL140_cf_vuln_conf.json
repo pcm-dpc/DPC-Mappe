@@ -24,7 +24,7 @@
   },
   "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json",
-    "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/exe_flegrei/griglia_vuln_plinivs_style.json"
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/DL140_campi_flegrei/DL140_cf_vuln_style.json"
   ] ,
    "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/exe_flegrei/exe_flegrei_tree_style.json",
    "feature_sidebar": {
