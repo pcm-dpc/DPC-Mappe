@@ -1,0 +1,35 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+
+        {
+          "field_type": "MULTISELECT",
+          "placeholder": "Filtro: Vulnerabilità cella",
+          "options": [
+            {
+              "name": "Molto basso",
+              "value": "molto basso"
+            },
+            {
+              "name": "Basso",
+              "value": "basso"
+            },
+            {
+              "name": "Medio",
+              "value": "medio"
+            },
+            {
+              "name": "Alto",
+              "value": "alto"
+            }
+          ],
+          "binding_key": "ind_vuln"
+        },
+        {
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ]
+}
