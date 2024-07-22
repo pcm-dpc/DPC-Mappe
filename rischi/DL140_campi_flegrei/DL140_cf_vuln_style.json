@@ -1,0 +1,66 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "Indice_vulnerabilità",
+      "properties": [
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "black"
+            }
+          ]
+        },
+        {
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.6"
+            }
+          ]
+        },
+        {
+          "property": "fillColor",
+          "values": [
+                   {
+						"key": "molto basso",
+						"value": "#c8c8c8"
+					},
+					{
+						"key": "basso",
+						"value": "#fddbc7"
+					},
+					{
+						"key": "medio",
+						"value": "#d6604d"
+					},
+					{
+						"key": "alto",
+						"value": "#67001f"
+					}
+          ]
+        }
+      ]
+    }
+  ]
+}
