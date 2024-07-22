@@ -7,7 +7,7 @@
     {
       "key": 0,    
       "label": "Zona intervento",
-      "visible": false
+      "visible": true
     },
 	{
       "key": 1,
