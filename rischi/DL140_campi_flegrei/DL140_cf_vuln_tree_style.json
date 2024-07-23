@@ -11,9 +11,9 @@
       "children": [
         {
           "selectable": false,
-          "color": "#02c1f6",
+          "color": rgba(2,193,246,0.3),
           "type": "icon",
-          "css_style": "height: 15px;width: 30px;display: inline-block; border: 1px solid; opacity:0.4"
+          "css_style": "height: 15px;width: 30px;display: inline-block; border: 1px solid;"
         }
       ]
     },  
