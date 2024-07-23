@@ -31,21 +31,21 @@
           "color": "#c8c8c8",
 		  "description": "Ind vuln: molto basso",
           "type": "icon",
-          "css_style": "height: 15px; width: 30px;display: inline-block; border: 1px solid; opacity:0.6"
+          "css_style": "height: 15px; width: 30px;display: inline-block; border: 1.5px solid; opacity:0.6"
         },
 		{
           "selectable": false,
           "color": "#fddbc7",
 		  "description": "Ind vuln: basso",
           "type": "icon",
-          "css_style": "height: 15px; width: 30px;display: inline-block; border: 1px solid; opacity:0.6"
+          "css_style": "height: 15px; width: 30px;display: inline-block; border: 1.5px solid; opacity:0.6"
         },
 		{
           "selectable": false,
           "color": "#d6604d",
 		  "description": "Ind vuln: medio",
           "type": "icon",
-          "css_style": "height: 15px; width: 30px;display: inline-block; border: 1px solid; opacity:0.6"
+          "css_style": "height: 15px; width: 30px;display: inline-block; border: 1.5px solid; opacity:0.6"
         },
 		{
           "selectable": false,
