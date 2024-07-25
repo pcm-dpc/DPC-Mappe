@@ -30,7 +30,7 @@
    "address_marker": false,
    "map_zoom": 17,	
     "feature_sidebar": {
-    "header": "Indice di vulnerabilità"
+    "header": ""
   },
    "feature_table": {
   "load_on_startup": false
