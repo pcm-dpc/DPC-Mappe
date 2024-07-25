@@ -20,7 +20,7 @@
     {
       "key": "1",
       "label": "Indice di vulnerabilità",
-      "filterKey": "classe",
+      "filterKey": "Indice_vulnerabilità",
       "filterValue": "*",
       "expanded": true,
       "visible": true,
