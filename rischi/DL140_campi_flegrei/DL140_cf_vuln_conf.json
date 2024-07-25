@@ -32,9 +32,6 @@
     "feature_sidebar": {
     "header": ""
   },
-   "feature_table": {
-  "load_on_startup": false
-  },
   "filter_config": {
     "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/DL140_campi_flegrei/DL140_cf_vuln_filter_conf.json",
     "refresh": false,
