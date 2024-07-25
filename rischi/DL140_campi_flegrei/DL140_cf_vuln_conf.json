@@ -27,7 +27,9 @@
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/DL140_campi_flegrei/DL140_cf_vuln_style.json"
   ] ,
    "treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/DL140_campi_flegrei/DL140_cf_vuln_tree_style.json",
-   "feature_sidebar": {
+   "address_marker": false,
+   "map_zoom": 17,	
+    "feature_sidebar": {
     "header": "Indice di vulnerabilità"
   },
    "feature_table": {
