@@ -20,7 +20,7 @@
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_dati_z_interv_comuni.geojson",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/DL140_campi_flegrei/griglia_vuln_plinivs_2023_new.geojson"  
       ],
-    "html_description": ""
+    "html_description": "test-test"
   },
   "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/DL140_campi_flegrei/DL140_cf_z_interv_style.json",
