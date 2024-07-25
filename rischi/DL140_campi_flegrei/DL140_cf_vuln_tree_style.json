@@ -2,7 +2,7 @@
   "nodes": [
     {
       "key": "0",
-      "label": "Zona intervento\n(Piano speditivo)",
+      "label": "Zona di intervento",
       "filterKey": "Zona",
       "filterValue": "Zona di intervento",
       "expanded": true,
@@ -19,7 +19,7 @@
     },  
     {
       "key": "1",
-      "label": "Vulnerabilità 2023",
+      "label": "Indice di vulnerabilità",
       "filterKey": "classe",
       "filterValue": "*",
       "expanded": true,
@@ -29,28 +29,28 @@
         {
           "selectable": false,
           "color": "rgba(200,200,200,0.6)",
-		  "description": "Ind vuln: molto basso",
+		  "description": "molto basso",
           "type": "icon",
           "css_style": "height: 15px; width: 30px;display: inline-block; border: 2px solid black;"
         },
 		{
           "selectable": false,
           "color": "rgba(253,219,199,0.6)",
-		  "description": "Ind vuln: basso",
+		  "description": "basso",
           "type": "icon",
           "css_style": "height: 15px; width: 30px;display: inline-block; border: 2px solid black;"
         },
 		{
           "selectable": false,
           "color": "rgba(214,96,77,0.6)",
-		  "description": "Ind vuln: medio",
+		  "description": "medio",
           "type": "icon",
           "css_style": "height: 15px; width: 30px;display: inline-block; border: 2px solid black;"
         },
 		{
           "selectable": false,
           "color": "rgba(103,0,31,0.6)",
-		  "description": "Ind vuln: alto",
+		  "description": "alto",
           "type": "icon",
           "css_style": "height: 15px; width: 30px;display: inline-block; border: 2px solid black;"
         }	
