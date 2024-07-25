@@ -2,7 +2,7 @@
   "nodes": [
     {
       "key": "0",
-      "label": "Zona intervento (Piano speditivo)",
+      "label": "Zona intervento\n(Piano speditivo)",
       "filterKey": "Zona",
       "filterValue": "Zona di intervento",
       "expanded": true,
