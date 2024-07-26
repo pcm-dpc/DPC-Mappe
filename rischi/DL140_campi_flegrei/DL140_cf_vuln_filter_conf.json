@@ -9,19 +9,19 @@
           "options": [
             {
               "name": "Molto bassa",
-              "value": "molto basso"
+              "value": "molto bassa"
             },
             {
               "name": "Bassa",
-              "value": "basso"
+              "value": "bassa"
             },
             {
               "name": "Media",
-              "value": "medio"
+              "value": "media"
             },
             {
               "name": "Alta",
-              "value": "alto"
+              "value": "alta"
             }
           ],
           "binding_key": "ind_vuln"
