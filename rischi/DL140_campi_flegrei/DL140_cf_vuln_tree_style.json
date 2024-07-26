@@ -19,8 +19,8 @@
     },  
     {
       "key": "1",
-      "label": "Indice di vulnerabilità",
-      "filterKey": "Indice_vulnerabilità",
+      "label": "Vulnerabilità",
+      "filterKey": "Vulnerabilità",
       "filterValue": "*",
       "expanded": true,
       "visible": true,
@@ -29,28 +29,28 @@
         {
           "selectable": false,
           "color": "rgba(200,200,200,0.6)",
-		  "description": "molto basso",
+		  "description": "molto bassa",
           "type": "icon",
           "css_style": "height: 15px; width: 30px;display: inline-block; border: 2px solid black;"
         },
 		{
           "selectable": false,
           "color": "rgba(253,219,199,0.6)",
-		  "description": "basso",
+		  "description": "bassa",
           "type": "icon",
           "css_style": "height: 15px; width: 30px;display: inline-block; border: 2px solid black;"
         },
 		{
           "selectable": false,
           "color": "rgba(214,96,77,0.6)",
-		  "description": "medio",
+		  "description": "media",
           "type": "icon",
           "css_style": "height: 15px; width: 30px;display: inline-block; border: 2px solid black;"
         },
 		{
           "selectable": false,
           "color": "rgba(103,0,31,0.6)",
-		  "description": "alto",
+		  "description": "alta",
           "type": "icon",
           "css_style": "height: 15px; width: 30px;display: inline-block; border: 2px solid black;"
         }	
