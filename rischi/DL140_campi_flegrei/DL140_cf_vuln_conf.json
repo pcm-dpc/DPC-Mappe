@@ -45,6 +45,28 @@
     "feature_sidebar": {
     "header": ""
   },
+   "features_detail": [
+  {
+    "key": 1,
+    "featureInfo": [
+      {
+        "name": "Numero_cella",
+        "label": "Numero cella",
+        "options": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "Vulnerabilità",
+        "label": "Vulnerabilità"
+      },
+      {
+        "name": "Comune",
+        "label": "Comune"
+      }
+    ]
+  }
+],
   "filter_config": {
     "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/DL140_campi_flegrei/DL140_cf_vuln_filter_conf.json",
     "refresh": false,
