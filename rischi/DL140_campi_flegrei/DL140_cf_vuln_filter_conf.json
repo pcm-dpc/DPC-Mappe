@@ -5,22 +5,22 @@
 
         {
           "field_type": "MULTISELECT",
-          "placeholder": "Indice vulnerabilità",
+          "placeholder": "Vulnerabilità",
           "options": [
             {
-              "name": "Molto basso",
+              "name": "Molto bassa",
               "value": "molto basso"
             },
             {
-              "name": "Basso",
+              "name": "Bassa",
               "value": "basso"
             },
             {
-              "name": "Medio",
+              "name": "Media",
               "value": "medio"
             },
             {
-              "name": "Alto",
+              "name": "Alta",
               "value": "alto"
             }
           ],
