@@ -11,7 +11,7 @@
     },
 	{
       "key": 1,
-      "label": "Griglia vuln 2023",
+      "label": "Vulnerabilità",
        "visible": true	     
     }
   ],
@@ -35,7 +35,7 @@
       "key": 1,
       "properties": [
        {
-          "key": "Indice_vulnerabilità",
+          "key": "Vulnerabilità",
           "label": "Indice vulnerabilità cella"
         }
        ]
