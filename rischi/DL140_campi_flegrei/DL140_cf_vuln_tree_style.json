@@ -28,7 +28,7 @@
       "children": [
         {
           "selectable": false,
-          "color": "rgba(200,200,200,0.6)",
+          "color": "rgba(215,215,215,0.6)",
 		  "description": "molto bassa",
           "type": "icon",
           "css_style": "height: 15px; width: 30px;display: inline-block; border: 2px solid black;"
