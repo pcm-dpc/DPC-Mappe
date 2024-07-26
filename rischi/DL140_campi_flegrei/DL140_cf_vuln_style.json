@@ -1,7 +1,7 @@
 {
   "style_properties": [
     {
-      "propertyKey": "Indice_vulnerabilità",
+      "propertyKey": "Vulnerabilità",
       "properties": [
         {
           "property": "color",
@@ -43,19 +43,19 @@
           "property": "fillColor",
           "values": [
                    {
-						"key": "molto basso",
+						"key": "molto bassa",
 						"value": "#c8c8c8"
 					},
 					{
-						"key": "basso",
+						"key": "bassa",
 						"value": "#fddbc7"
 					},
 					{
-						"key": "medio",
+						"key": "media",
 						"value": "#d6604d"
 					},
 					{
-						"key": "alto",
+						"key": "alta",
 						"value": "#67001f"
 					}
           ]
