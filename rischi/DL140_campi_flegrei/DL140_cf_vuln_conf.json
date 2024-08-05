@@ -16,6 +16,14 @@
     }
   ],
 "today": {
+	"attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_dati_z_interv_comuni.geojson"
+      },
+     {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/DL140_campi_flegrei/griglia_vuln_plinivs_2024.geojson"
+     }
+    ],
     "topo_json": [
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_dati_z_interv_comuni.geojson",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/DL140_campi_flegrei/griglia_vuln_plinivs_2024.geojson"  
