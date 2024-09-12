@@ -59,7 +59,8 @@
         "binding_key": "rischi",
         "operator": "or",
         "filter_on_fields": [
-          "Rischi"
+          "Rischi",
+          "Rischio"
         ],
         "layers": [
           0
