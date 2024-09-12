@@ -30,7 +30,7 @@
             },
             {
               "name": "Terremoto, Maremoto",
-              "value": "Terremoto, Maremoto"
+              "value": "Terremoto Maremoto"
             },
             {
               "name": "Campi Flegrei",
@@ -38,7 +38,7 @@
             },
             {
               "name": "Stromboli, Vulcano",
-              "value": "Stromboli, Vulcano"
+              "value": "Stromboli Vulcano"
             }
           ],
           "placeholder": "iononrischio-filters.risk",
