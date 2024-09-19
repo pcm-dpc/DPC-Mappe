@@ -33,22 +33,5 @@
        ]
     }
    ]
-  },
-  "filter_config": {
-    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/segn_crit_eme_emr_18_09_23_filter_conf.json",
-    "refresh": false,
-  "filters_type": [
-      {
-        "operator": "or",
-        "filter_function": "exactValue",
-        "binding_key": "Tipo_segnalazione",
-        "filter_on_fields": [
-          "Tipo segnalazione"
-        ],
-        "layers": [
-          0
-        ]
-      }
-    ]
   }
 }
