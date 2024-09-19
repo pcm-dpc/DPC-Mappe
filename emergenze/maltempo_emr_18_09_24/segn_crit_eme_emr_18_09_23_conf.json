@@ -20,6 +20,18 @@
   "style": [
    
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/segn_crit_eme_emr_18_09_23_style.json"
-  ]
-   
+  ],
+      "leaflet": {
+    "tooltip": [
+    {
+      "key": 0,
+      "properties": [
+       {
+          "key": "Tipo segnalazione",
+          "label": ""
+        }
+       ]
+    }
+   ]
+  }   
 }
