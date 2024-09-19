@@ -14,37 +14,37 @@
           "selectable": false,
           "description": "Esondazione",
           "type": "icon",
-          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/disaster_flood_64px_icon_bluebox.png'); width:15px; height:15px;"
+          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/disaster_flood_64px_icon_bluebox.png'); width:20px; height:20px;"
         },
         {
           "selectable": false,
           "description": "Frana",
           "type": "icon",
-          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/disaster_landslide_64px_icon_bluebox.png'); width:15px; height:15px;"
+          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/disaster_landslide_64px_icon_bluebox.png'); width:20px; height:20px;"
         },
         {
           "selectable": false,
           "description": "Interruzione viabilità",
           "type": "icon",
-          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/damage_road_destroyed_64px_icon_bluebox.png'); width:15px; height:15px;"
+          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/damage_road_destroyed_64px_icon_bluebox.png'); width:20px; height:20px;"
         },
 		 {
           "selectable": false,
           "description": "Rotta",
           "type": "icon",
-          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/rotta.png'); width:15px; height:15px;"
+          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/rotta.png'); width:20px; height:20px;"
         },
         {
           "selectable": false,
-          "description": "TracimazioneE",
+          "description": "Tracimazione",
           "type": "icon",
-          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/overflow.png'); width:15px; height:15px;"
+          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/overflow.png'); width:20px; height:20px;"
         },
 		{
           "selectable": false,
           "description": "Altro",
           "type": "icon",
-          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/Warning.png'); width:15px; height:15px;"
+          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/Warning.png'); width:20px; height:20px;"
         }
       ]
     }	  	
