@@ -1,0 +1,45 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+
+        {
+          "field_type": "MULTISELECT",
+          "placeholder": "Filtra per vulnerabilità",
+          "options": [
+            {
+              "name": "Esondazione",
+              "value": "Esondazione"
+            },
+            {
+              "name": "Frana",
+              "value": "Frana"
+            },
+            {
+              "name": "Interruzione viabilità",
+              "value": "Interruzione viabilità"
+            },
+            {
+              "name": "Rotta",
+              "value": "Rotta"
+            },
+			{
+              "name": "Tracimazione",
+              "value": "Tracimazione"
+            },
+			{
+              "name": "Altro",
+              "value": "Altro"
+            },
+			
+          ],
+          "binding_key": "Tipo_segnalazione"
+        },
+        {
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ],
+   "label_total": "Totale"
+}
