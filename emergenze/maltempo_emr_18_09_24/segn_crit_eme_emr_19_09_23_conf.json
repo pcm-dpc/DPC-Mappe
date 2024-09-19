@@ -1,0 +1,25 @@
+{
+  "global_legend": "",
+  "name": "Emergenza maltempo Emilia-Romagna 18/09/2024",
+  "header_popup": "",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Interventi e segnalazioni"
+    }
+  ],
+  "today": {
+   
+    "topo_json": [
+      
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/segnalazioni_eme_emr_18_09_24.geojson"
+
+    ],
+    "html_descrition": ""
+  },
+  "style": [
+   
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/segnalazioni_eme_emr_18_09_24_style.json"
+  ]
+   
+}

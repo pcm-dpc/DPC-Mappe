@@ -1,0 +1,38 @@
+{
+    "style_properties": [
+    {
+		"propertyKey": "Tipo segnalazione",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [
+				       {
+						"key": "Esondazione",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/disaster_flood_64px_icon_bluebox.png)"
+					},
+				       {
+						"key": "Frana",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/disaster_landslide_64px_icon_bluebox.png)"
+					},
+					{
+						"key": "Interruzione viabilità",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/damage_road_destroyed_64px_icon_bluebox.png)"
+					},
+					{
+						"key": "Rotta",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/rotta.png)"
+					},
+					{
+						"key": "Tracimazione",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/overflow.png)"
+					},
+					{
+						"key": "Altro",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/Warning.png)"
+					}
+				]
+			}
+		]
+	}
+    ]
+}
