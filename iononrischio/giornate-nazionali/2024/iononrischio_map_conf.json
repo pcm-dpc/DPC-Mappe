@@ -18,7 +18,7 @@
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/giornate-nazionali/iononrischio_map_style.json"
   ],
   "filter_config": {
-    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/giornate-nazionali/iononrischio-filter-conf.json",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/giornate-nazionali/iononrischio-filter-conf-2024.json",
     "refresh": false,
     "filters_type": [
       {
