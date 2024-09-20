@@ -6,20 +6,32 @@
     {
       "key": 0,
       "label": "Interventi e segnalazioni"
-    }
+    },
+     {
+      "key": 1,
+      "label": "Aree allagate (Copernicus)"
+    },
+    {
+      "key": 2,
+      "label": "AOI (Copernicus)"
+    },    
   ],
   "today": {
    
     "topo_json": [
       
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/segnalazioni_eme_emr_18_09_24.geojson"
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/segnalazioni_eme_emr_18_09_24.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/copernicus_aree_allagate.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/copernicus_AOI.geojson"
 
     ],
     "html_descrition": ""
   },
   "style": [
    
-    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/segn_crit_eme_emr_18_09_23_style.json"
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/segn_crit_eme_emr_18_09_23_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/copernicus_aree_allagate_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/copernicus_AOI_style.json"
   ],
   "treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/segn_crit_eme_emr_18_09_23_tree_style.json",
       "leaflet": {
