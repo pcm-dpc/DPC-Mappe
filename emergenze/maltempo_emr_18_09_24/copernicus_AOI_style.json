@@ -1,0 +1,37 @@
+{
+    "style_properties": [
+      {
+        "propertyKey": "area_id",
+        "properties": [
+            
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "2"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "#ff2323"
+                  }
+                ]
+              }
+        ]
+      }
+    ]
+  }
