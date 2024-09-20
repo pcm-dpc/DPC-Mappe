@@ -44,6 +44,27 @@
           "label": "Tipo segnalazione"
         }
        ]
+    },
+      {
+      "key": 1,
+      "properties": [
+       {
+          "key": "notation",
+          "label": "Tipo"
+        }
+       ]
+    },
+      {
+      "key": 2,
+      "properties": [
+       {
+          "key": "area_id",
+          "label": "AOI"
+        },
+        {
+          "key": "locality"
+        }
+       ]
     }
    ]
   },
