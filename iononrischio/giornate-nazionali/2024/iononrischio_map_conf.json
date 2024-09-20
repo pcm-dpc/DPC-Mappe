@@ -65,17 +65,6 @@
         "layers": [
           0
         ]
-      },
-      {
-        "filterFunction": "textInclude",
-        "binding_key": "quando",
-        "operator": "or",
-        "filter_on_fields": [
-          "Quando"
-        ],
-        "layers": [
-          0
-        ]
       }
     ]
   }
