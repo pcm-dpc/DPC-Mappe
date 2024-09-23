@@ -47,6 +47,23 @@
           "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/Warning.png'); width:20px; height:20px;"
         }
       ]
-    }	  	
+    },
+	  {
+      "key": "1",
+      "label": "AOI (Copernicus)",
+      "filterKey": "Zona",
+      "filterValue": "*",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#ff2323",
+          "type": "icon",
+          "css_style": "height: 15px;width: 30px;display: inline-block; border: 1px solid #ff2323; opacity:0.1"
+        }
+      ]
+    }
   ]
 }
