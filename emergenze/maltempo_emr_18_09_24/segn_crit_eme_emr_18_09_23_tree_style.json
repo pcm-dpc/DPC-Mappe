@@ -59,9 +59,9 @@
       "children": [
         {
           "selectable": false,
-          "color": "#ff2323",
+          "color": "rgba(255,35,35,0.1)",
           "type": "icon",
-          "css_style": "height: 15px;width: 30px;display: inline-block; border: 1px solid #ff2323; opacity:0.1"
+          "css_style": "height: 15px;width: 30px;display: inline-block; border: 1px solid #ff2323;"
         }
       ]
     }
