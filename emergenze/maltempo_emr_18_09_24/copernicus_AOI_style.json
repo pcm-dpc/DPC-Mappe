@@ -30,6 +30,24 @@
                     "value": "#ff2323"
                   }
                 ]
+              },
+            {
+                "property": "fillColor",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "#ff2323"
+                  }
+                ]
+              },
+            {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".8"
+                  }
+                ]
               }
         ]
       }
