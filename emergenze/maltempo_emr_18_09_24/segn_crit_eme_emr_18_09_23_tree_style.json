@@ -51,7 +51,7 @@
 	  {
       "key": "1",
       "label": "AOI (Copernicus)",
-      "filterKey": "Zona",
+      "filterKey": "locality",
       "filterValue": "*",
       "expanded": true,
       "visible": true,
