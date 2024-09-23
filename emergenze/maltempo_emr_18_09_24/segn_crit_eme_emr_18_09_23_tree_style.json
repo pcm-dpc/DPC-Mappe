@@ -78,7 +78,7 @@
           "selectable": false,
           "color": "#1f78b4",
           "type": "icon",
-          "css_style": "height: 15px;width: 30px;display: inline-block; border: 1px solid #ff2323; opacity:0.75"
+          "css_style": "height: 15px;width: 30px;display: inline-block; border: 1px solid #1f78b4; opacity:0.75"
         }
       ]
     }
