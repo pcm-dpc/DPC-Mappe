@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "gate_1_livello",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Comuni serviti": "Pozzuoli A", "Svincolo": "Svincolo \"Cuma/Arco Felice\"", "Strada": "SS7quater", "Direzione": "Nord" }, "geometry": { "type": "Point", "coordinates": [ 14.083712, 40.84354 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Pozzuoli B", "Svincolo": "Svincolo \"Monteruscello Sud\"", "Strada": "SS7quater", "Direzione": "Nord" }, "geometry": { "type": "Point", "coordinates": [ 14.085882, 40.858594 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Monte di Procida", "Svincolo": "Svincolo \"Cuma/Arco Felice\"", "Strada": "A56", "Direzione": "Est" }, "geometry": { "type": "Point", "coordinates": [ 14.08387, 40.841572 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Giugliano in Campania", "Svincolo": "Svincolo \"Licola\"", "Strada": "A56", "Direzione": "Nord" }, "geometry": { "type": "Point", "coordinates": [ 14.081666, 40.889134 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Quarto", "Svincolo": "Svincolo \"Quarto\"", "Strada": "SS7quater", "Direzione": "Nord" }, "geometry": { "type": "Point", "coordinates": [ 14.092727, 40.880911 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Napoli Bagnoli", "Svincolo": "Svincolo \"Agnano\"", "Strada": "A56", "Direzione": "Est" }, "geometry": { "type": "Point", "coordinates": [ 14.16316, 40.838702 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Napoli Fuorigrotta A", "Svincolo": "Svincolo \"Italia90\"", "Strada": "A56", "Direzione": "Ovest" }, "geometry": { "type": "Point", "coordinates": [ 14.177966, 40.83577 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Napoli Fuorigrotta B", "Svincolo": "Svincolo \"Fuorigrotta\"", "Strada": "A56", "Direzione": "Ovest" }, "geometry": { "type": "Point", "coordinates": [ 14.19126, 40.83571 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Napoli Pianura", "Svincolo": "Svincolo \"Vomero\"", "Strada": "A56", "Direzione": "Est" }, "geometry": { "type": "Point", "coordinates": [ 14.21694, 40.843454 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Napoli Soccavo", "Svincolo": "Svincolo \"Camaldoli\"", "Strada": "A56", "Direzione": "Est" }, "geometry": { "type": "Point", "coordinates": [ 14.220616, 40.854415 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Napoli Vomero", "Svincolo": "Svincolo \"Arenella\"", "Strada": "A56", "Direzione": "Est" }, "geometry": { "type": "Point", "coordinates": [ 14.233235, 40.858479 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Napoli - Chiaiano/Arenella, Marano di Napoli", "Svincolo": "Svincolo \"Capodimonte\"", "Strada": "A56", "Direzione": "Est" }, "geometry": { "type": "Point", "coordinates": [ 14.245277, 40.866527 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Napoli - San Ferdinando/Montecalvario/Chiaia", "Svincolo": "Ingresso A3 Via Marina", "Strada": "A3", "Direzione": "Est" }, "geometry": { "type": "Point", "coordinates": [ 14.28901, 40.841924 ] } },
+{ "type": "Feature", "properties": { "Comuni serviti": "Bacoli", "Svincolo": "Svincolo \"Cuma/Arco Felice\"", "Strada": "A56", "Direzione": "Est" }, "geometry": { "type": "Point", "coordinates": [ 14.093181191309524, 40.839783400588558 ] } }
+]
+}
