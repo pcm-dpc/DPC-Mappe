@@ -1,0 +1,39 @@
+{
+  "date": "20210526",
+  "global_legend": "",
+  "name": "Rischio vulcanico",
+  "header_popup": " ",
+  "image_url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/logo_regione_campania.png",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,    
+      "label": " "
+    },
+    {
+      "key": 1,
+      "label": "Gate liv1"
+    }
+  ],
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_features.json"
+      },
+	  {
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_gate_liv1.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_features.json",
+	  "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_gate_liv1.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_style.json",
+	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_gate_style.json"
+	
+  ],
+  "treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_tree_style.json"
+}
