@@ -2,7 +2,7 @@
   "global_legend": "",
   "name": "Fenomeno del bradisismo",
   "header_popup": " ",
-  "image_url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/logo_regione_campania.png",
+  "external_logo": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/logo_regione_campania.png",
   "strategy_features": "not_intersect",
   "layers": [
     {
