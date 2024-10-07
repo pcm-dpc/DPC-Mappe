@@ -30,7 +30,7 @@
   },
   "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/DL140_campi_flegrei/DL140_cf_vuln_style.json",
-	"https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/campiflegrei_maggio2024/segnalazioni_style.json"
+	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exe_flegrei_ott2024/istanze_style.json"
   ],
   "refresh_config": {
     "refresh_time": 120000
