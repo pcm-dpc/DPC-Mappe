@@ -8,9 +8,9 @@
 				"values": [
 					{
 						"key": "*",
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_censimento_danni.png)",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exe_flegrei_ott2024/istanze.png)",
 						"options": {
-                                                             "iconSize": [12, 12]
+                                                             "iconSize": [15, 15]
                                                            }
 					}
 				]
