@@ -1,0 +1,38 @@
+{
+  "name": "Istanze",
+  "header_popup": "",
+  "mapid": "11880-8151",
+  "layers": [
+    {
+      "key": 0,    
+      "label": "Vulnerabilità",
+      "visible": true
+    },
+	{
+      "key": 1,
+      "label": "Istanze",
+       "visible": true	     
+    }
+  ],
+  "today": {
+    "topo_json": [
+	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/DL140_campi_flegrei/griglia_vuln_plinivs_2024.geojson",
+      {
+        "layer": 0,
+        "geojson": "https://dataproxy.geosdi.org/proxy?url=https://webapp.protezionecivile.it/api/public/v1/queries/query_datasource_plus_3bb1cc9c50cb4d2ca658ad9bca15aeca_93fd76b533f445ac8e3ecdb97eb3754c",
+        "budibase": {
+          "appId": "app_38675a0b72904e54b917a095853367c1",
+          "xBudibaseApiKey": "d96777f3716a3f6282aaa359c4f02c61-5d81bce29bd6acb976925d11edeb3b8df5695e80c269991944c41011bd55cc90adda7347b3cd1934"
+        }
+      }
+	  
+    ]
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/DL140_campi_flegrei/DL140_cf_vuln_style.json",
+	"https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/campiflegrei_maggio2024/segnalazioni_style.json"
+  ],
+  "refresh_config": {
+    "refresh_time": 120000
+  }
+}
