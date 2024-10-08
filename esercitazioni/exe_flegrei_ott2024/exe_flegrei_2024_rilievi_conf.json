@@ -20,6 +20,6 @@
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exe_flegrei_ott2024/rilievi_eff_territorio_style.json"
   ],
   "refresh_config": {
-    "refresh_time": 60000
+    "refresh_time": 120000
   }
 }
