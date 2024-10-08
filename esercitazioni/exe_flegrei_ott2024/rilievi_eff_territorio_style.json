@@ -1,0 +1,39 @@
+{
+    "style_properties": [
+    {
+		"propertyKey": "categorie",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [
+				       {
+						"key": "Allagamento",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/disaster_flood_64px_icon_bluebox.png)"
+					},
+				       {
+						"key": "Frana",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/disaster_landslide_64px_icon_bluebox.png)"
+					},
+					{
+						"key": "Sinkhole",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/Warning.png)"
+					},
+					{
+						"key": "Inondazione",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/overflow.png)"
+					},
+					{
+						"key": "FranaAllagamento",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/Warning.png)"
+					},
+					{
+						"key": "FranaInondazione",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/maltempo_emr_18_09_24/icone/Warning.png)"
+					}
+					
+				]
+			}
+		]
+	}
+    ]
+}
