@@ -1,1 +1,25 @@
-
+{
+  "header_popup": "Rilievi",
+  "today": {
+    "topo_json": [
+      {
+        "layer": 0,
+        "geojson": "https://dataproxy.geosdi.org/proxy?url=https://lcahq.protezionecivile.it/api/public/v1/queries/query_datasource_plus_28b8fbf69adb4cb6a08df00e749c5ec3_f2755be643d14f1c9d8c570206b2086c",
+        "budibase": {
+          "appId": "app_9e85984e9f3c48a7ab28ca8bf17fbde3",
+          "xBudibaseApiKey": "eb192a8d2ad414a6711b1d1f7c8d9bda-d9bda071f67ee0f332f0a3f56c5143bc7e11bb96fe0daa39b9bb9af45878fb07808efef3823fb868",
+          "params": {
+            "lat": "latitudine",
+            "lon": "longitudine"
+          }
+        }
+      }
+    ]
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert_style.geojson"
+  ],
+  "refresh_config": {
+    "refresh_time": 60000
+  }
+}
