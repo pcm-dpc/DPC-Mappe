@@ -9,19 +9,19 @@
                 "values": [
                   {
                     "key": [0,0.2],
-                    "value": "#ffffb2"
+                    "value": "#3399ff"
                   },
                   {
                     "key": [0.2,0.4],
-                    "value": "#fecc5c"
+                    "value": "#66ff66"
                   },
                   {
                     "key": [0.4,0.6],
-                    "value": "#fd8d3c"
+                    "value": "#ff9933"
                   },
                   {
                     "key": [0.6,1000],
-                    "value": "#f03b20"
+                    "value": "#cc0000"
                   }
                 ]
               },
@@ -30,7 +30,7 @@
                 "values": [
                   {
                     "key": "*",
-                    "value": "0.5"
+                    "value": "2"
                   }
                 ]
               },
@@ -48,7 +48,7 @@
                 "values": [
                   {
                     "key": "*",
-                    "value": ".5"
+                    "value": "1"
                   }
                 ]
               },
