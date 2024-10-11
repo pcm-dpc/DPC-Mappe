@@ -1,0 +1,31 @@
+
+{
+  "name": "Triage VVF EXE FLEGREI 2024",
+  "header_popup": "",
+  "mapid": "13500-8151",
+  "layers": [
+    {
+      "key": 0,    
+      "label": "Vulnerabilità",
+      "visible": true
+    },
+	{
+      "key": 1,
+      "label": "Istanze",
+       "visible": true	     
+    }
+  ],
+  "today": {
+    "topo_json": [
+	"https://dati-exe-flegrei-2024.s3.eu-south-1.amazonaws.com/geojson/gts_iter_pfail_cf_transformed.geojson",
+      }
+	  
+    ]
+  },
+  "style": [
+    ""
+  ],
+  "refresh_config": {
+    "refresh_time": 120000
+  }
+}
