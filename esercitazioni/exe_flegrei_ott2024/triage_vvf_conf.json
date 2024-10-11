@@ -6,7 +6,7 @@
     {
       "key": 0,    
       "label": "Valutazione viabilità",
-      "visible": true
+      "visible": false
     },
 {
       "key": 1,    
