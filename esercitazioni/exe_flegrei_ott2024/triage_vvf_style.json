@@ -5,7 +5,7 @@
         "propertyKey": "pfail",
         "properties": [
             {
-                "property": "fillColor",
+                "property": "color",
                 "values": [
                   {
                     "key": [0,0.2],
@@ -49,15 +49,6 @@
                   {
                     "key": "*",
                     "value": "1"
-                  }
-                ]
-              },
-              {
-                "property": "color",
-                "values": [
-                  {
-                    "key": "*",
-                    "value": "white"
                   }
                 ]
               }
