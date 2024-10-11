@@ -1,0 +1,67 @@
+
+{
+    "style_properties": [
+      {
+        "propertyKey": "pfail",
+        "properties": [
+            {
+                "property": "fillColor",
+                "values": [
+                  {
+                    "key": [0,0.2],
+                    "value": "#ffffb2"
+                  },
+                  {
+                    "key": [0.2,0.4],
+                    "value": "#fecc5c"
+                  },
+                  {
+                    "key": [0.4,0.6],
+                    "value": "#fd8d3c"
+                  },
+                  {
+                    "key": [0.6,1000],
+                    "value": "#f03b20"
+                  }
+                ]
+              },
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "0.5"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".9"
+                  }
+                ]
+              },
+              {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".5"
+                  }
+                ]
+              },
+              {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "white"
+                  }
+                ]
+              }
+        ]
+      }
+    ]
+  }
