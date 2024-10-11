@@ -6,13 +6,8 @@
   "layers": [
     {
       "key": 0,    
-      "label": "Vulnerabilità",
+      "label": "Valutazione viabilità",
       "visible": true
-    },
-	{
-      "key": 1,
-      "label": "Istanze",
-       "visible": true	     
     }
   ],
   "today": {
