@@ -1,4 +1,3 @@
-
 {
   "name": "Valutazione vie di allontanamento",
   "header_popup": "",
@@ -8,11 +7,17 @@
       "key": 0,    
       "label": "Valutazione viabilità",
       "visible": true
+    },
+{
+      "key": 1,    
+      "label": "Livello interruzione",
+      "visible": true
     }
   ],
   "today": {
     "topo_json": [
-	"https://dati-exe-flegrei-2024.s3.eu-south-1.amazonaws.com/geojson/gts_iter_pfail_cf_transformed.geojson"
+	"https://dati-exe-flegrei-2024.s3.eu-south-1.amazonaws.com/geojson/gts_iter_pfail_cf_transformed.geojson",
+        "https://dati-exe-flegrei-2024.s3.eu-south-1.amazonaws.com/geojson/gts_iter_pfail_cf_transformed.geojson"
     ]
   },
   "style": [
