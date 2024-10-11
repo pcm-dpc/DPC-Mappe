@@ -21,7 +21,7 @@
     ]
   },
   "style": [
-    ""
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exe_flegrei_ott2024/triage_vvf_style.json"
   ],
   "refresh_config": {
     "refresh_time": 120000
