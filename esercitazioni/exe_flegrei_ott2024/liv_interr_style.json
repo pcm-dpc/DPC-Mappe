@@ -1,0 +1,65 @@
+{
+    "style_properties": [
+      {
+        "propertyKey": "livello_interruzione",
+        "properties": [
+            {
+                "property": "color",
+                "values": [
+                  {
+                    "key": 0,
+                    "value": "#109b04"
+                  },
+                  {
+                    "key": 1,
+                    "value": "#679313"
+                  },
+                  {
+                    "key": 2,
+                    "value": "#aab413"
+                  },
+                  {
+                    "key": 3,
+                    "value": "#f6e203"
+                  },
+                  {
+                    "key": 4,
+                    "value": "#b85a4e"
+                  },
+{
+                    "key": 5,
+                    "value": "#e0105d"
+                  },
+                ]
+              },
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "8"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".8"
+                  }
+                ]
+              },
+              {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "1"
+                  }
+                ]
+              }
+        ]
+      }
+    ]
+  }
