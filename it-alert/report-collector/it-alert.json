@@ -65,7 +65,7 @@
     }
   ],
   "refresh_config": {
-    "refresh_time": 30000
+    "refresh_time": 60000
   },
   "filter_config": {
     "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert-filter-conf.json",
