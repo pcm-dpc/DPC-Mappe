@@ -19,7 +19,7 @@
     },  
     {
       "key": "1",
-      "label": "Vulnerabilità",
+      "label": "Concentrazione edifici vulnerabili",
       "filterKey": "Vulnerabilità",
       "filterValue": "*",
       "expanded": true,
