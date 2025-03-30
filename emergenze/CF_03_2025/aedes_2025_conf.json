@@ -1,0 +1,85 @@
+{
+  "global_legend": "",
+  "name": "Rilievi Aedes",
+  "header_popup": " ",  
+  "strategy_features": "not_intersect",
+  "mapid": "13604-8151",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Esiti AGITEC-edifici"
+    },
+    {
+      "key": 1,
+      "label": "Esiti AGITEC-centroidi"
+    },
+	{
+      "key": 2,
+      "label": "Aggregati/Edifici-centroidi"
+    }
+  ],
+"today": {
+	"attachment": [	
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_centroidi.geojson",
+	  "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/centroidi_aggr_edif.json"
+      
+      ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_centroidi_style.json",
+	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/centroidi_aggr_edif_style.json"
+  ] ,
+   "treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/aedes_2025_tree_style.json",
+   "feature_sidebar": {
+    "header": " "
+  },
+   "feature_table": {
+  "load_on_startup": false
+  },
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/campi_flegrei_maggio_2024_filter_conf.json",
+    "refresh": false,
+   "excluded_layers": [
+    ],
+  "filters_type": [
+      	  {
+        "operator": "or",
+        "filter_function": "textInclude",
+        "binding_key": "esito_AGITEC",
+        "filter_on_fields": [
+          "esito_agitec_2025"
+        ],
+        "layers": [
+          0, 1
+        ]
+      },
+      {
+        "operator": "or",
+        "filter_function": "textInclude",
+        "binding_key": "idag",
+        "filter_on_fields": [
+          "idag_ided"
+        ],
+        "layers": [
+          2
+        ]
+      },
+	  {
+        "filter_function": "rangeDate",
+        "operator": "and",
+        "binding_key": "data_agitec",
+        "filter_on_fields": [
+          "data_rilievo_scheda_2025"
+        ],
+        "layers": [
+          0,1
+        ]
+      }
+    ]
+  }
+}
