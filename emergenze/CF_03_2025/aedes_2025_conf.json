@@ -12,10 +12,6 @@
     {
       "key": 1,
       "label": "Esiti AGITEC-centroidi"
-    },
-	{
-      "key": 2,
-      "label": "Aggregati/Edifici-centroidi"
     }
   ],
 "today": {
@@ -23,16 +19,14 @@
     ],
     "topo_json": [
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec.geojson",
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_centroidi.geojson",
-	  "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/centroidi_aggr_edif.json"
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_centroidi.geojson"
       
       ],
     "html_description": ""
   },
   "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_style.json",
-    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_centroidi_style.json",
-	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/centroidi_aggr_edif_style.json"
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_centroidi_style.json"
   ] ,
    "treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/aedes_2025_tree_style.json",
    "feature_sidebar": {
@@ -61,12 +55,12 @@
       {
         "operator": "or",
         "filter_function": "textInclude",
-        "binding_key": "idag",
+        "binding_key": "scheda_agitec",
         "filter_on_fields": [
-          "idag_ided"
+          "id_scheda_agitec_2025"
         ],
         "layers": [
-          2
+          0,1
         ]
       },
 	  {
