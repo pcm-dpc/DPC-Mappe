@@ -1,0 +1,91 @@
+{
+    "style_properties": [
+    {
+		"propertyKey": "esito_agitec_2025",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [
+					{
+						"key": "A",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_a.png)",
+						"options": {
+                                                             "iconSize": [12, 12]
+                                                           }
+					},
+					{
+						"key": "B",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_b.png)",
+						"options": {
+                                                             "iconSize": [12, 12]
+                                                           }
+					},
+					{
+						"key": "C",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_c.png)",
+						"options": {
+                                                             "iconSize": [12, 12]
+                                                           }
+					},
+					{
+						"key": "D",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_d.png)",
+						"options": {
+                                                             "iconSize": [12, 12]
+                                                           }
+					},
+					{
+						"key": "E",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_e.png)",
+						"options": {
+                                                             "iconSize": [12, 12]
+                                                           }
+					},
+					{
+						"key": "A - F",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_a-f.png)",
+						"options": {
+                                                             "iconSize": [12, 12]
+                                                           }
+					},
+					{
+						"key": "B - F",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_b-f.png)",
+						"options": {
+                                                             "iconSize": [12, 12]
+                                                           }
+					},
+					{
+						"key": "C - F",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_c-f.png)",
+						"options": {
+                                                             "iconSize": [12, 12]
+                                                           }
+					},
+					{
+						"key": "D - F",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_d-f.png)",
+						"options": {
+                                                             "iconSize": [12, 12]
+                                                           }
+					},
+					{
+						"key": "E - F",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_e-f.png)",
+						"options": {
+                                                             "iconSize": [12, 12]
+                                                           }
+					},
+					{
+						"key": "nd",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_nd.png)",
+						"options": {
+                                                             "iconSize": [12, 12]
+                                                           }
+					}
+				]
+			}
+		]
+	}
+    ]
+}
