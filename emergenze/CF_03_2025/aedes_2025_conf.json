@@ -42,7 +42,7 @@
   "load_on_startup": false
   },
   "filter_config": {
-    "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/campi_flegrei_maggio_2024_filter_conf.json",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/aedes_2025_filter_conf.json",
     "refresh": false,
    "excluded_layers": [
     ],
