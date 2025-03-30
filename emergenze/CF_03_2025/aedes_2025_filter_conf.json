@@ -5,7 +5,7 @@
 
         {
           "field_type": "MULTISELECT",
-          "placeholder": "Filtro: esiti rilievi AEDES",
+          "placeholder": "Filtro: esiti rilievi",
           "options": [
             {
               "name": "A (agibile)",
@@ -37,12 +37,12 @@
         {
           "field_type": "DATE",
           "date_selection_mode": "range",
-          "placeholder": "Filtro: data rilievo AGITEC",
+          "placeholder": "Filtro: data rilievo",
           "binding_key": "data_agitec"
         },
         {
           "field_type": "TEXT",
-          "placeholder": "Cerca aggregato",
+          "placeholder": "Cerca scheda agitec",
           "binding_key": "idag"
         },
         {
