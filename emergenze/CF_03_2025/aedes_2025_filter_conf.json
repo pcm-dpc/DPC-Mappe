@@ -1,0 +1,54 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+
+        {
+          "field_type": "MULTISELECT",
+          "placeholder": "Filtro: esiti rilievi AEDES",
+          "options": [
+            {
+              "name": "A (agibile)",
+              "value": "A"
+            },
+            {
+              "name": "B (temp. inag. ma agibile con provved. di P.I.)",
+              "value": "B"
+            },
+            {
+              "name": "C (parzialmente inagibile)",
+              "value": "C"
+            },
+            {
+              "name": "D (temp. inag. da rivedere con approfondimento)",
+              "value": "D"
+            },
+            {
+              "name": "E (inagibile)",
+              "value": "E"
+            },
+            {
+              "name": "F (inagibile per rischio esterno)",
+              "value": "F"
+            }
+          ],
+          "binding_key": "esito_AGITEC"
+        },
+        {
+          "field_type": "DATE",
+          "date_selection_mode": "range",
+          "placeholder": "Filtro: data rilievo AGITEC",
+          "binding_key": "data_agitec"
+        },
+        {
+          "field_type": "TEXT",
+          "placeholder": "Cerca aggregato",
+          "binding_key": "idag"
+        },
+        {
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ]
+}
