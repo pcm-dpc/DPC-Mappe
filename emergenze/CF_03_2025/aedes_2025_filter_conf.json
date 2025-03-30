@@ -43,7 +43,7 @@
         {
           "field_type": "TEXT",
           "placeholder": "Cerca scheda agitec",
-          "binding_key": "idag"
+          "binding_key": "scheda_agitec"
         },
         {
           "field_type": "BUTTON"
