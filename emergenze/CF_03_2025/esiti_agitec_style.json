@@ -1,0 +1,116 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "esito_agitec_2025",
+      "properties": [
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "black"
+            }
+          ]
+        },
+        {
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.7"
+            }
+          ]
+        },
+        {
+          "property": "fillColor",
+          "values": [
+                   {
+						"key": "A",
+						"value": "#33a02c"
+					},
+					{
+						"key": "B",
+						"value": "#fce3a9"
+					},
+					{
+						"key": "C",
+						"value": "#fdbf37"
+					},
+					{
+						"key": "D",
+						"value": "#ff6a00"
+					},
+					{
+						"key": "E",
+						"value": "#e31a1c"
+					},
+					{
+						"key": "A - F",
+						"value": "#33a02c"
+					},
+					{
+						"key": "B - F",
+						"value": "#fce3a9"
+					},
+					{
+						"key": "C - F",
+						"value": "#fdbf37"
+					},
+					{
+						"key": "D - F",
+						"value": "#ff6a00"
+					},
+					{
+						"key": "E - F",
+						"value": "#e31a1c"
+					}
+          ]
+        },
+        {
+          "property": "fill",
+          "values": [
+                   {
+						"key": "A - F",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/stripe_agitec.png)"
+					},
+					{
+						"key": "B - F",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/stripe_agitec.png)"
+					},
+					{
+						"key": "C - F",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/stripe_agitec.png)"
+					},
+					{
+						"key": "D - F",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/stripe_agitec.png)"
+					},
+					{
+						"key": "E - F",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/stripe_agitec.png)"
+					}
+			
+          ]
+        }
+      ]
+    }
+  ]
+}
