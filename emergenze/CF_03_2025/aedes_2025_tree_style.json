@@ -3,7 +3,7 @@
 	{
       "key": "0",
       
-      "label": "Esiti AGITEC",
+      "label": "Esiti AGITEC 2025",
       "filterKey": "esito_agitec_2025",
       "filterValue": "*",
       "expanded": true,
@@ -75,7 +75,7 @@
 	  	{
       "key": "1",
       
-      "label": "Esiti AGITEC-centroidi",
+      "label": "Esiti AGITEC 2025-centroidi",
       "filterKey": "esito_agitec_2025",
       "filterValue": "*",
       "expanded": true,
@@ -83,11 +83,89 @@
       "type": "default"
       
     },
-	{
+	  	{
       "key": "2",
       
-      "label": "Aggregati/Edifici-centroidi",
-      "filterKey": "comune",
+      "label": "Esiti AGITEC 2024",
+      "filterKey": "esito_agitec",
+      "filterValue": "*",
+      "expanded": true,
+      "visible": false,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "description": "A",
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_a.png'); width:30px; height:15px;"
+        },
+        {
+          "selectable": false,
+          "description": "B",
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_b.png'); width:30px; height:15px;"
+        },
+        {
+          "selectable": false,
+          "description": "C",
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_c.png'); width:30px; height:15px;"
+        },
+		 {
+          "selectable": false,
+          "description": "D",
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_d.png'); width:30px; height:15px;"
+        },
+        {
+          "selectable": false,
+          "description": "E",
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_e.png'); width:30px; height:15px;"
+        },
+		{
+          "selectable": false,
+          "description": "A-F",
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_a-f.png'); width:30px; height:15px;"
+        },
+		{
+          "selectable": false,
+          "description": "B-F",
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_b-f.png'); width:30px; height:15px;"
+        },
+		{
+          "selectable": false,
+          "description": "C-F",
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_c-f.png'); width:30px; height:15px;"
+        },
+		{
+          "selectable": false,
+          "description": "D-F",
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_d-f.png'); width:30px; height:15px;"
+        },
+		{
+          "selectable": false,
+          "description": "E-F",
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_e-f.png'); width:30px; height:15px;"
+        },
+		{
+          "selectable": false,
+          "description": "non eseguito",
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_nd.png'); width:30px; height:15px;"
+        }
+      ]
+    },
+	  	{
+      "key": "3",
+      
+      "label": "Esiti AGITEC 2024-centroidi",
+      "filterKey": "esito_agitec",
       "filterValue": "*",
       "expanded": true,
       "visible": false,
