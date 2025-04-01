@@ -15,11 +15,13 @@
     },
     {
       "key": 2,
-      "label": "Esiti AGITEC2024-edifici"
+      "label": "Esiti AGITEC2024-edifici",
+      "visible": false	
     },
     {
       "key": 3,
-      "label": "Esiti AGITEC2024-centroidi"
+      "label": "Esiti AGITEC2024-centroidi",
+"visible": false	
     }
   ],
 "today": {
