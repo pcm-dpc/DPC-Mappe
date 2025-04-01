@@ -89,7 +89,7 @@
       "label": "Esiti AGITEC 2024",
       "filterKey": "esito_agitec",
       "filterValue": "*",
-      "expanded": true,
+      "expanded": false,
       "visible": false,
       "type": "default",
       "children": [
@@ -167,7 +167,7 @@
       "label": "Esiti AGITEC 2024-centroidi",
       "filterKey": "esito_agitec",
       "filterValue": "*",
-      "expanded": true,
+      "expanded": false,
       "visible": false,
       "type": "default"
       
