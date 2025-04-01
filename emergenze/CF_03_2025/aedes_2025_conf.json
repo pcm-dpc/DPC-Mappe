@@ -12,6 +12,14 @@
     {
       "key": 1,
       "label": "Esiti AGITEC-centroidi"
+    },
+    {
+      "key": 2,
+      "label": "Esiti AGITEC2024-edifici"
+    },
+    {
+      "key": 3,
+      "label": "Esiti AGITEC2024-centroidi"
     }
   ],
 "today": {
@@ -19,14 +27,18 @@
     ],
     "topo_json": [
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec.geojson",
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_centroidi.geojson"
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_centroidi.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edif_plinivs.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edif_plinivs_centroidi.geojson"
       
       ],
     "html_description": ""
   },
   "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_style.json",
-    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_centroidi_style.json"
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_centroidi_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edifici_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edifici_centroidi_style.json"
   ] ,
    "treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/aedes_2025_tree_style.json",
    "feature_sidebar": {
@@ -38,7 +50,7 @@
   "filter_config": {
     "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/aedes_2025_filter_conf.json",
     "refresh": false,
-   "excluded_layers": [
+   "excluded_layers": [2,3
     ],
   "filters_type": [
       	  {
