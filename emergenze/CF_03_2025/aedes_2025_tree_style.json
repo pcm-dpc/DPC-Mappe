@@ -91,7 +91,7 @@
       "filterValue": "*",
       "expanded": true,
       "visible": false,
-      "type": "default",
+      "type": "default"
     },
 	  	{
       "key": "3",
@@ -102,11 +102,6 @@
       "expanded": true,
       "visible": false,
       "type": "default"
-      
-    }
-    
-  ]
-}
       
     }
     
