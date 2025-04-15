@@ -83,8 +83,55 @@
       "type": "default"
       
     },
-	  	{
+	{
       "key": "2",
+      
+      "label": "Triage VVF ",
+      "filterKey": "giudizio_complessivo_esteso",
+      "filterValue": "*",
+      "expanded": true,
+      "visible": false,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#ff0004",
+          "description": "Criticità gravi non evitabili",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.7"
+        },
+        {
+          "selectable": false,
+          "color": "#ff8c00",
+          "description": "Criticità lievi o evitabili",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.7"
+        },
+        {
+          "selectable": false,
+          "color": "#c3d400",
+          "description": "Senza criticità apparenti (esterno)",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px; display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.7"
+        },
+		{
+          "selectable": false,
+          "color": "#009f00",
+          "description": "Senza criticità apparenti (esterno/interno)",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px; display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.7"
+        },
+                {
+          "selectable": false,
+          "color": "#808080",
+          "description": "Da rivedere",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px; display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.7"
+        }
+      ]
+    },
+	  	{
+      "key": "3",
       
       "label": "Esiti AGITEC 2024",
       "filterKey": "esito_agitec",
@@ -94,7 +141,7 @@
       "type": "default"
     },
 	  	{
-      "key": "3",
+      "key": "4",
       
       "label": "Esiti AGITEC 2024-centroidi",
       "filterKey": "esito_agitec",
@@ -105,7 +152,7 @@
       
     },
 	  {
-      "key": "4",
+      "key": "5",
       "label": "Zona intervento",
       "filterKey": "Zona",
       "filterValue": "*",
