@@ -108,7 +108,7 @@
       "key": "4",
       "label": "Zona intervento",
       "filterKey": "Zona",
-      "filterValue": "Zona di intervento",
+      "filterValue": "*",
       "expanded": true,
       "visible": false,
       "type": "default",
