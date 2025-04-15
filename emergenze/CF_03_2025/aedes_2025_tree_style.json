@@ -110,7 +110,7 @@
       "filterKey": "Zona",
       "filterValue": "Zona di intervento",
       "expanded": true,
-      "visible": true,
+      "visible": false,
       "type": "default",
       "children": [
         {
