@@ -15,7 +15,8 @@
     },
 	{
       "key": 2,
-      "label": "Triage VVF"
+      "label": "Triage VVF",
+      "visible": false	
     },
     {
       "key": 3,
