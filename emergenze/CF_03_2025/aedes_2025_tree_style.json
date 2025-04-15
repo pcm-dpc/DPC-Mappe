@@ -103,7 +103,24 @@
       "visible": false,
       "type": "default"
       
-    }
+    },
+	  {
+      "key": "4",
+      "label": "Zona intervento",
+      "filterKey": "Zona",
+      "filterValue": "Zona di intervento",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#02c1f6",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        }
+      ]
+    },
     
   ]
 }
