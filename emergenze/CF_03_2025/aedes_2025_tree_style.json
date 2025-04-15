@@ -110,14 +110,14 @@
         {
           "selectable": false,
           "color": "#c3d400",
-          "description": "Senza criticità apparenti (esterno)",
+          "description": "Senza critic. apparenti (esterno)",
           "type": "icon",
           "css_style": "height: 15px;width: 15px; display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.7"
         },
 		{
           "selectable": false,
           "color": "#009f00",
-          "description": "Senza criticità apparenti (esterno/interno)",
+          "description": "Senza critic. apparenti (est./int.)",
           "type": "icon",
           "css_style": "height: 15px;width: 15px; display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.7"
         },
