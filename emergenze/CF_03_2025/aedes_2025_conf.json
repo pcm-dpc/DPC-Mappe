@@ -22,6 +22,11 @@
       "key": 3,
       "label": "Esiti AGITEC2024-centroidi",
 "visible": false	
+    },
+	      {
+      "key": 4,
+      "label": "Zona intervento",
+"visible": false	
     }
   ],
 "today": {
@@ -31,16 +36,17 @@
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec.geojson",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_centroidi.geojson",
       "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edif_plinivs.geojson",
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edif_plinivs_centroidi.geojson"
-      
-      ],
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edif_plinivs_centroidi.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_dati_z_interv_comuni.geojson"	
+       ],
     "html_description": ""
   },
   "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_style.json",
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/esiti_agitec_centroidi_style.json",
     "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edifici_style.json",
-    "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edifici_centroidi_style.json"
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edifici_centroidi_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json"	  
   ] ,
    "treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/aedes_2025_tree_style.json",
    "feature_sidebar": {
@@ -52,7 +58,7 @@
   "filter_config": {
     "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/CF_03_2025/aedes_2025_filter_conf.json",
     "refresh": false,
-   "excluded_layers": [2,3
+   "excluded_layers": [2,3,4
     ],
   "filters_type": [
       	  {
