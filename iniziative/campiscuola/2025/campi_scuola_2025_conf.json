@@ -1,0 +1,67 @@
+ {
+  "global_legend": "",
+  "name": "Campi scuola-Edizione 2024",
+  "header_popup": "Campi scuola",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Campi scuola"
+    }
+  ],
+  "today": {
+   
+    "topo_json": [
+      
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/2025/campi_scuola_2025.geojson"
+
+    ],
+    "html_descrition": ""
+  },
+  "style": [
+   
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/campiscuola_style.json"
+  ],
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/campiscuola2024_filter_conf.json",
+    "refresh": false,
+        "excluded_layers": [
+      1
+    ],
+    "filters_type": [
+      {
+        "filter_function": "textInclude",
+        "binding_key": "regione",
+        "operator": "and",
+       "filter_on_fields": [
+          "Regione"
+        ],
+        "layers": [
+          0
+        ] 
+      },
+      {
+        "filter_function": "exactValue",
+        "binding_key": "provincia",
+        "operator": "or",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "Provincia"
+        ]
+      },
+      {
+        "filter_function": "textInclude",
+        "binding_key": "comune",
+        "operator": "or",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "Comune"
+        ]
+      }
+    ]
+  }  
+}
+ 
