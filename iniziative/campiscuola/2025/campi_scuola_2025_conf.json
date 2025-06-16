@@ -22,7 +22,7 @@
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/campiscuola_style.json"
   ],
   "filter_config": {
-    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/campiscuola2024_filter_conf.json",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/campiscuola_filter_conf.json",
     "refresh": false,
         "excluded_layers": [
       1
