@@ -21,6 +21,9 @@
    
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/campiscuola_style.json"
   ],
+     "feature_sidebar": {
+    "header": "Campi scuola"
+  }, 
   "filter_config": {
     "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/campiscuola_filter_conf.json",
     "refresh": false,
