@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "campi_scuola_2025",
+"name": "campi_scuola_2025datastringa",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "OdV/Regione": "A2A", "Comune": "LOVERO", "Provincia": "SONDRIO", "Regione": "LOMBARDIA", "Indirizzo": "VIA DELLA PIANA SNC", "Data inizio": "2025-09-01", "Data fine": "2025-09-07", "Associazione territoriale": "AVPC A2A" }, "geometry": { "type": "Point", "coordinates": [ 10.23029598, 46.23584025 ] } },
