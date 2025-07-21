@@ -1,1 +1,106 @@
-
+{
+  "global_legend": "",
+  "name": "Giubileo dei giovani-2025",
+  "strategy_features": "not_intersect",
+  "external_logo": "https://raw.githubusercontent.com/geosdi/funerali-papa-francesco/refs/heads/main/roma-pc-giubileo_ridotto.png",
+  "hide_popup": true,
+  "geo_location": true,
+  "type_app": "pope",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Punti partenza"
+    },
+    {
+      "key": 1,
+      "label": "Servizi"
+    },
+    {
+      "key": 2,
+      "label": "Area Tor Vergata"
+    }
+  ],
+  "today": {
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/iniziative/giubileo_giovani_2025/gate.geojson",
+      "https://raw.githubusercontent.com/geosdi/Messa-inizio-pontificato-Papa-Leone-XIV/refs/heads/main/servizi.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/iniziative/giubileo_giovani_2025/area_tor_vergata.geojson"
+    ]
+  },
+  "percorsi": [
+    {
+      "layer": 0,
+      "file": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/iniziative/giubileo_giovani_2025/percorsi.geojson",
+      "keys": [
+        "id",
+        "percorso"
+      ],
+      "options": {
+        "delay": 800,
+        "dashArray": [
+          48,
+          20
+        ],
+        "weight": 5,
+        "color": "#e106f1",
+        "pulseColor": "#FFFFFF",
+        "paused": false,
+        "reverse": false,
+        "hardwareAccelerated": true
+      }
+    }
+  ],
+  "extra_layers": [
+    {
+      "file": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/iniziative/giubileo_giovani_2025/accessi.geojson",
+      "key": 0,
+      "properties_keys": [
+        "percorso",
+        "percorso"
+      ],
+      "tooltip": {
+        "property_key": "codice"
+      },
+      "json_style": {
+        "radius": 8,
+        "fillColor": "#ff7800",
+        "color": "#000",
+        "weight": 1,
+        "opacity": 1,
+        "fillOpacity": 0.8
+      },
+      "layer": 0
+    }
+  ],
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/Messa-inizio-pontificato-Papa-Leone-XIV/refs/heads/main/gate_style.json",
+    "https://raw.githubusercontent.com/geosdi/Messa-inizio-pontificato-Papa-Leone-XIV/refs/heads/main/servizi_style.json",
+    "https://raw.githubusercontent.com/geosdi/Messa-inizio-pontificato-Papa-Leone-XIV/refs/heads/main/zona_calda_style.json"
+  ],
+  "leaflet": {
+    "tooltip": [
+      {
+        "key": 0,
+        "permanent": true,
+        "className": "tooltip-yellow",
+        "properties": [
+          {
+            "key": "nome"
+          },
+		  {
+            "key": "distanza"
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "permanent": false,
+        "properties": [
+          {
+            "key": "tipo"
+          }
+        ]
+      }
+    ]
+  }
+}
