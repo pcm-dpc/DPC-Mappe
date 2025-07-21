@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "gate",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "nome": "Viale della Primavera", "percorso": 1, "distanza": 9.8 }, "geometry": { "type": "Point", "coordinates": [ 12.558177545737905, 41.876786146155659 ] } },
+{ "type": "Feature", "properties": { "nome": "Viale Palmiro Togliatti", "percorso": 2, "distanza": 9.5 }, "geometry": { "type": "Point", "coordinates": [ 12.573171679299408, 41.881942395122479 ] } },
+{ "type": "Feature", "properties": { "nome": "Metro Alessandrino", "percorso": 3, "distanza": 7.8 }, "geometry": { "type": "Point", "coordinates": [ 12.57889353338938, 41.871302856520693 ] } },
+{ "type": "Feature", "properties": { "nome": "Metro Torre Spaccata", "percorso": 4, "distanza": 6.7 }, "geometry": { "type": "Point", "coordinates": [ 12.587258384012408, 41.868616174457436 ] } },
+{ "type": "Feature", "properties": { "nome": "Metro Torre Maura", "percorso": 5, "distanza": 5.9 }, "geometry": { "type": "Point", "coordinates": [ 12.597185256066314, 41.866615236879234 ] } },
+{ "type": "Feature", "properties": { "nome": "Metro Giardinetti", "percorso": 6, "distanza": 3.1 }, "geometry": { "type": "Point", "coordinates": [ 12.610463101418322, 41.864081305214114 ] } },
+{ "type": "Feature", "properties": { "nome": "Piazza di Cinecittà", "percorso": 7, "distanza": 7.6 }, "geometry": { "type": "Point", "coordinates": [ 12.570137706609541, 41.85252184649547 ] } },
+{ "type": "Feature", "properties": { "nome": "Metro Anagnina", "percorso": 8, "distanza": 6.3 }, "geometry": { "type": "Point", "coordinates": [ 12.586453044452639, 41.84246216474245 ] } },
+{ "type": "Feature", "properties": { "nome": "Stazione Ciampino", "percorso": 9, "distanza": 7.7 }, "geometry": { "type": "Point", "coordinates": [ 12.600022112738447, 41.804478895071156 ] } },
+{ "type": "Feature", "properties": { "nome": "Metro Torre Gaia", "percorso": 10, "distanza": 5.5 }, "geometry": { "type": "Point", "coordinates": [ 12.6355727916522, 41.864182052439979 ] } },
+{ "type": "Feature", "properties": { "nome": "Metro Grotte Celoni", "percorso": 11, "distanza": 4.9 }, "geometry": { "type": "Point", "coordinates": [ 12.646060277551529, 41.862717958107588 ] } }
+]
+}
