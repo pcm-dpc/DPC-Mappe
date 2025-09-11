@@ -1,1 +1,89 @@
-
+{
+  "global_legend": "",
+  "name": "Tutti gli eventi sul territorio",
+  "today": {
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/2025/settimana-protezione-civile-data.json"
+    ]
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/settimana-protezione-civile-style.json"
+  ],
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/spc-filter-conf2024.json",
+    "refresh": false,
+    "filters_type": [
+      {
+        "filter_function": "textInclude",
+        "binding_key": "regione",
+        "operator": "and",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "regione"
+        ]
+      },
+      {
+        "filter_function": "textInclude",
+        "binding_key": "provincia",
+        "operator": "and",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "provincia"
+        ]
+      },
+      {
+        "filter_function": "textInclude",
+        "binding_key": "comune",
+        "operator": "and",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "comune"
+        ]
+      },
+      {
+        "filter_function": "equalsDateString",
+        "binding_key": "date",
+        "operator": "or",
+        "layers": [
+          0
+        ],
+        "filter_on_fields": [
+          "data_1",
+          "data_2",
+          "data_3",
+          "data_4",
+          "data_5",
+          "data_6",
+          "data_7"
+        ]
+      },
+      {
+        "filter_function": "spcTipologie",
+        "operator": "or",
+        "filter_on_fields": [
+          "tipologia_altro"
+        ],
+        "binding_key": "tipologie",
+        "layers": [
+          0
+        ]
+      },
+      {
+        "filter_function": "spcOrganizzatori",
+        "filter_on_fields": [
+          "organizzatori"
+        ],
+        "binding_key": "organizzatori",
+        "layers": [
+          0
+        ]
+      }
+    ]
+  }
+}
