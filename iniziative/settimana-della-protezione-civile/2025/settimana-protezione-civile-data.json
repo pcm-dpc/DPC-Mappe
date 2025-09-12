@@ -4,7 +4,7 @@
     "id": "5bddb213-1319-414c-9cfd-d952a7f10d68",
     "id_organizzatore": "ro_ta_users_us_4fe5cb19c39e44b792a782f4027462ad",
     "id_evento_dpc": "ab1d4ff0-fedf-4b10-8015-62d67e6dd582",
-    "organizzatore": "test",
+    "organizzatore": "Dipartimento protezione civile",
     "organizzazioni_collaborazione": "nessuno",
     "titolo_evento": "test 2025",
     "descrizione_evento": "test descrizione",
@@ -132,3 +132,4 @@
     }
   ]
 }
+
