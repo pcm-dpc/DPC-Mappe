@@ -10,7 +10,7 @@
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/settimana-protezione-civile-style.json"
   ],
    "refresh_config": {
-    "refresh_time": 1800000
+    "refresh_time": 60000
   },
   "filter_config": {
     "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/spc-filter-conf2024.json",
