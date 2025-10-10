@@ -1,6 +1,7 @@
 {
   "global_legend": "",
   "name": "Tutti gli eventi sul territorio",
+  "strategy_features": "intersect",
   "today": {
     "topo_json": [
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/2025/settimana-protezione-civile-data.json"
