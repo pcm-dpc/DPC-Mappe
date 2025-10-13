@@ -1,7 +1,10 @@
 {
   "global_legend": "",
-  "name": "Tutti gli eventi sul territorio",
+  "sub_header": "Tutti gli eventi sul territorio",
   "strategy_features": "intersect",
+  "logo": {
+    "src": "./assets/spc-plugin/logo/logo_spc.png"
+  },
   "today": {
     "topo_json": [
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/settimana-della-protezione-civile/2025/settimana-protezione-civile-data.json"
@@ -78,7 +81,8 @@
       {
         "filter_function": "spcOrganizzatori",
         "filter_on_fields": [
-          "organizzatori","organizzazioni_collaborazione"
+          "organizzatore",
+          "organizzazioni_collaborazione"
         ],
         "binding_key": "organizzatori",
         "layers": [
