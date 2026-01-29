@@ -8,5 +8,5 @@
     ],
     "html_descrition": ""
   },
-  "style": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/RBZQ3PRC/RBZQ3PRC_style.json"]
+  "style": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/RBZQ3PRC/RBZQ3PRC_style.json", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/RBZQ3PRC/linePoinStyle.json","https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/RBZQ3PRC/bufferStyle.json"]
 }
