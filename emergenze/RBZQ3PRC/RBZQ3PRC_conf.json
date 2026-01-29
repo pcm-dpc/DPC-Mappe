@@ -3,22 +3,10 @@
   "name": "Rientro incontrollato del sistema di iniezione RB ZQ 3 PRC",
   "header_popup": "Punti Ingresso/Uscita",
   "today": {
-    "layers": [
-    {
-      "key": 0,
-      "label": "Punti Ingresso/Uscita"
-    }
-    ],
-   
     "topo_json": [
-      
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/RBZQ3PRC/punti_satellite.geojson"
-
     ],
-    "html_descrition": "",
-    
+    "html_descrition": ""
   },
-  "style": [
-    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/RBZQ3PRC/RBZQ3PRC_style.json"
-  ]
+  "style": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/RBZQ3PRC/RBZQ3PRC_style.json"]
 }
