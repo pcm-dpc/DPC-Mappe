@@ -2,12 +2,6 @@
   "global_legend": "",
   "name": "Rientro incontrollato del sistema di iniezione RB ZQ 3 PRC",
   "header_popup": "Punti Ingresso/Uscita",
-  "layers": [
-    {
-      "key": 0,
-      "label": "Punti"
-    }
-  ],
   "today": {
    
     "topo_json": [
