@@ -12,7 +12,7 @@
    
     "topo_json": [
       
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/RBZQ3PRC/punti_satellite.geojson"
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/RBZQ3PRC/punti_satellite.geojson"
 
     ],
     "html_descrition": ""
