@@ -1,0 +1,64 @@
+
+{
+  "style_properties": [
+    {
+      "propertyKey": "*",
+      "properties": [
+        {
+          "property": "radius",
+          "values": [
+            {
+              "key": "*",
+              "value": "6"
+            }
+          ]
+        },
+        {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "*",
+              "value": "#ff0000"
+            }
+          ]
+        },
+        {
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.5"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "black"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
