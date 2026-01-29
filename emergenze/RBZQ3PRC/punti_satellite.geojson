@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "punti_satellite",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "punti": "ingresso 1", "X": 8.4844155, "Y": 40.1262476 }, "geometry": { "type": "Point", "coordinates": [ 8.4844155, 40.1262476 ] } },
+{ "type": "Feature", "properties": { "punti": "ingresso 2", "X": 11.4316652, "Y": 42.3878817 }, "geometry": { "type": "Point", "coordinates": [ 11.4316652, 42.3878817 ] } },
+{ "type": "Feature", "properties": { "punti": "uscita 1", "X": 9.6065791, "Y": 41.0173815 }, "geometry": { "type": "Point", "coordinates": [ 9.6065791, 41.0173815 ] } },
+{ "type": "Feature", "properties": { "punti": "uscita 2", "X": 13.2839822, "Y": 43.6844214 }, "geometry": { "type": "Point", "coordinates": [ 13.2839822, 43.6844214 ] } }
+]
+}
