@@ -16,8 +16,9 @@
 
     ],
     "html_descrition": "",
-    "style": [
+    
+  },
+  "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/RBZQ3PRC/RBZQ3PRC_style.json"
   ]
-  }
 }
