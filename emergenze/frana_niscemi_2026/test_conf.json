@@ -35,5 +35,22 @@
   ],
       "feature_sidebar": {
     "header": "Info"
-  }  
+  },
+    "filter_config": {
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/edifici_filter_conf.json",
+    "refresh": false,
+  "filters_type": [
+      	  {
+        "operator": "or",
+        "filter_function": "textInclude",
+        "binding_key": "zona",
+        "filter_on_fields": [
+          "zona"
+        ],
+        "layers": [
+          0
+        ]
+      }
+    ]
+  }
 }
