@@ -1,0 +1,29 @@
+
+{
+  "form_groups": [
+    {
+      "fields": [
+
+        {
+          "field_type": "MULTISELECT",
+          "placeholder": "Filtro: Zone",
+          "options": [
+            {
+              "name": "area in frana",
+              "value": "area in frana"
+            },
+            {
+              "name": "fascia 100m",
+              "value": "fascia 100m"
+            },
+            {
+              "name": "fascia 150m",
+              "value": "fascia 150m"
+            }
+          ],
+          "binding_key": "zona"
+        }
+      ]
+    }
+  ]
+}
