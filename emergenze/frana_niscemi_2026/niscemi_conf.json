@@ -16,7 +16,7 @@
     {
       "key": 2,
       "label": "Edificato",
-      
+      "visible": true	
     }
     ],
   "today": {
