@@ -46,6 +46,8 @@
     "filter_config": {
     "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/edifici_filter_conf.json",
     "refresh": false,
+    "excluded_layers": [1,2,3
+    ],
   "filters_type": [
       	  {
         "operator": "or",
