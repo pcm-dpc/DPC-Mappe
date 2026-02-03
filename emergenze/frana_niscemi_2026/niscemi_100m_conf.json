@@ -4,25 +4,25 @@
   "header_popup": "Info",
   "layers": [
     {
+      "key": 0,
+      "label": "Edificato - Aggregati",
+      "visible": true	
+    },
+    {
+      "key": 1,
+      "label": "Fascia Sicurezza - OS11_26_01_2026",
+      "visible": true	
+    },
+    {
       "key": 2,
       "label": "Fascia 100 metri",
       "visible": true	
     },
     {
-      "key": 2,
-      "label": "Fascia Sicurezza - OS11_26_01_2026",
-      "visible": true	
-    },
-    {
-      "key": 1,
+      "key": 3,
       "label": "Area Interdetta - OS14_01_02_2026",
       "visible": true	
-    },
-    {
-      "key": 0,
-      "label": "Edificato - Aggregati",
-      "visible": true	
-    }
+    } 
     ],
   "today": {
     "topo_json": [
