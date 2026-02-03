@@ -30,5 +30,10 @@
     ],
     "html_descrition": ""
   },
-  "style": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/fascia_100m_style.json","https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/fascia_sicurezza_style.json", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/area_interdetta_style.json","https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/edificato_style.json"]
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/fascia_100m_style.json","https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/fascia_sicurezza_style.json", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/area_interdetta_style.json","https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/edificato_style.json"
+  ],
+      "feature_sidebar": {
+    "header": "Info"
+  },  
 }
