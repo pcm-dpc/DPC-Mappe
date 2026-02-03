@@ -19,6 +19,9 @@
             {
               "name": "fascia 150m",
               "value": "fascia 150m"
+            },
+            {
+              "field_type": "BUTTON"
             }
           ],
           "binding_key": "zona"
