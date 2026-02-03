@@ -4,7 +4,7 @@
   "header_popup": "Info",
   "layers": [
     {
-      "key": 0,
+      "key": 2,
       "label": "Fascia Sicurezza - OS11_26_01_2026",
       "visible": true	
     },
@@ -14,7 +14,7 @@
       "visible": true	
     },
     {
-      "key": 2,
+      "key": 0,
       "label": "Edificato",
       "visible": true	
     }
