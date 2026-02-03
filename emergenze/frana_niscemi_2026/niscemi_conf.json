@@ -4,18 +4,18 @@
   "header_popup": "Info",
   "layers": [
     {
-      "key": 2,
-      "label": "Fascia Sicurezza - OS11_26_01_2026",
+      "key": 0,
+      "label": "Edificato - Aggregati",
       "visible": true	
     },
     {
       "key": 1,
-      "label": "Area Interdetta - OS14_01_02_2026",
+      "label": "Fascia Sicurezza - OS11_26_01_2026",
       "visible": true	
     },
     {
-      "key": 0,
-      "label": "Edificato - Aggregati",
+      "key": 2,
+      "label": "Area Interdetta - OS14_01_02_2026",
       "visible": true	
     }
     ],
