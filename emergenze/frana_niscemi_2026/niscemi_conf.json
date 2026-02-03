@@ -6,15 +6,18 @@
     "layers": [
     {
       "key": 0,
-      "label": "Fascia Sicurezza - OS11_26_01_2026"
+      "label": "Fascia Sicurezza - OS11_26_01_2026",
+      "visible": true	
     },
     {
       "key": 1,
-      "label": "Area Interdetta - OS14_01_02_2026"
+      "label": "Area Interdetta - OS14_01_02_2026",
+      "visible": true	
     },
     {
       "key": 2,
-      "label": "Edificato"
+      "label": "Edificato",
+      "visible": true	
     }
     ],
     "topo_json": [
