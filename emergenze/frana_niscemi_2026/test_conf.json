@@ -1,64 +1,77 @@
 {
   "global_legend": "",
-  "name": "Emergenza Frana Niscemi 2026",
-  "header_popup": "Info",
+  "sub_header": "Emergenza Frana Niscemi 2026",
   "layers": [
     {
       "key": 0,
       "label": "Edificato - Aggregati",
-      "visible": true	
+      "visible": true
     },
     {
       "key": 1,
       "label": "Fascia Sicurezza - OS11_26_01_2026",
-      "visible": true	
+      "visible": true
     },
     {
       "key": 2,
       "label": "Fascia 100 metri",
-      "visible": true	
+      "visible": true
     },
     {
       "key": 3,
       "label": "Area Interdetta - OS14_01_02_2026",
-      "visible": true	
-    } 
-    ],
+      "visible": false
+    }
+  ],
   "today": {
     "topo_json": [
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/edificato_aree_iterdette.geojson", 
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/fascia_sicurezza_OS11_26_01_2026.geojson", 
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/fascia_100m.geojson", 
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/edificato_aree_iterdette.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/fascia_sicurezza_OS11_26_01_2026.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/fascia_100m.geojson",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/area_interdetta_OS14_01_02_2026.geojson"
     ],
     "html_descrition": ""
   },
   "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/edificato_style.json",
-    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/fascia_sicurezza_style.json", 
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/fascia_sicurezza_style.json",
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/fascia_100m_style.json",
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/area_interdetta_style.json"
-    
   ],
-      "feature_sidebar": {
-    "header": "Info"
+  "feature_sidebar": false,
+  "sidebar_config": {
+    "header": true,
+    "values": [
+      {
+        "layer": 0,
+        "prefix": "Info"
+      },
+      {
+        "layer": 1,
+        "prefix": "Info"
+      },
+      {
+        "layer": 2,
+        "prefix": "Info"
+      },
+      {
+        "layer": 3,
+        "prefix": "Info"
+      }
+    ]
   },
-    "filter_config": {
+
+  "filter_config": {
     "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/edifici_filter_conf.json",
     "refresh": false,
-    "excluded_layers": [1,2,3
-    ],
-  "filters_type": [
-      	  {
+    "excluded_layers": [1, 2, 3],
+    "filters_type": [
+      {
         "operator": "or",
         "filter_function": "textInclude",
         "binding_key": "zona",
-        "filter_on_fields": [
-          "zona"
-        ],
-        "layers": [
-          0
-        ]
+        "filter_on_fields": ["zona"],
+        "layers": [0]
       }
     ]
   }
