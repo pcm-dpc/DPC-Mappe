@@ -1,0 +1,18 @@
+{
+  "global_legend": "",
+  "name": "Rilievi Aedes",
+  "header_popup": " ",  
+  "strategy_features": "not_intersect",
+  "mapid": "13605-8151",
+  "layers": [],
+"today": {
+	"attachment": [],
+    "topo_json": [],
+    "html_description": ""
+  },
+  "style": [] ,
+   "treeStyle": "",
+   "feature_table": {
+  "load_on_startup": false
+  }
+}
