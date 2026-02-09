@@ -38,7 +38,7 @@
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/fascia_100m_style.json",
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/emergenze/frana_niscemi_2026/area_interdetta_style.json"
   ],
-  "feature_sidebar": false,
+  "feature_sidebar": true,
   "sidebar_config": {
     "header": true,
     "values": [
