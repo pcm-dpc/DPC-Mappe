@@ -27,7 +27,7 @@
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/attivita_exepo2026_style.json",
 	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/attivita_exepo2026_style.json" 
   ],
-  "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/stato_allerte_vulcani_con_sottomarini_tree_style.json",
+	
   "leaflet": {
     "tooltip": [
       {
