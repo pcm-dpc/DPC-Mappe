@@ -21,7 +21,7 @@
               "key": "Attivazione treno sanitario",
               "value": "circle",
               "options": {
-                "fillColor": "#0084ff",
+                "fillColor": "#ff1493",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.5,
@@ -41,7 +41,7 @@
             },
             {
               "key": "Interventi operativi rischio alluvione",
-              "value": "triangle",
+              "value": "circle",
               "options": {
                 "fillColor": "#0084ff",
                 "color": "#000000",
@@ -52,9 +52,9 @@
             },
             {
               "key": "Rilievo e ricognizione con droni",
-              "value": "triangle",
+              "value": "circle",
               "options": {
-                "fillColor": "#0084ff",
+                "fillColor": "#7fff00",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.5,
@@ -63,9 +63,9 @@
             },
             {
               "key": "Soccorso e assistenza animali",
-              "value": "triangle",
+              "value": "circle",
               "options": {
-                "fillColor": "#0084ff",
+                "fillColor": "#e6e6fa",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.5,
@@ -74,9 +74,9 @@
             },
             {
               "key": "Sopralluogo rischio frane",
-              "value": "triangle",
+              "value": "circle",
               "options": {
-                "fillColor": "#0084ff",
+                "fillColor": "#da70d6",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.5,
@@ -85,9 +85,9 @@
             },
             {
               "key": "Strutture temporanee e strategiche",
-              "value": "triangle",
+              "value": "circle",
               "options": {
-                "fillColor": "#0084ff",
+                "fillColor": "#bc8f8f",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.5,
@@ -96,9 +96,9 @@
             },
             {
               "key": "Test di Telecomunicazioni",
-              "value": "triangle",
+              "value": "circle",
               "options": {
-                "fillColor": "#0084ff",
+                "fillColor": "#ff6347",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.5,
@@ -107,7 +107,7 @@
             },
             {
               "key": "Test IT-alert rischio grandi dighe",
-              "value": "triangle",
+              "value": "circle",
               "options": {
                 "fillColor": "#0084ff",
                 "color": "#000000",
@@ -120,7 +120,7 @@
               "key": "Verifica procedure rischio grandi dighe",
               "value": "circle",
               "options": {
-                "fillColor": "#00ced1",
+                "fillColor": "#008080",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.5,
