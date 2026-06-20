@@ -1,1 +1,80 @@
+{
+  "global_legend": "",
+  "name": "Attività sul territorio",
+  "header_popup": "Attività sul territorio",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Attività",
+       "visible": true
+    }
+  ],
+  "today": {
+    "attachment": [],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/attivita_exepo2026.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/attivita_exepo2026_style.json"
+  ],
+  "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/stato_allerte_vulcani_con_sottomarini_tree_style.json",
+  "leaflet": {
+    "tooltip": [
+      {
+        "key": 0,
+        "properties": [
+          {
+            "key": "Tipo attività",
+            "label": "Tipo attività"
+          }
+        ]
+      }
+    ]
+  },
+  "feature_sidebar": {
+    "header": "Attività sul territorio"
+  },
+  "feature_properties": [
+    {
+      "key": 0,
+      "visible_properties": ["Regione", "Provincia", "Comune o Località", "Data", "Tipo attività", "Descrizione"],
+      "detail_properties": [
+        {
+          "name": "Regione",
+          "label": "Regione",
+          "options": {
+            "type": "string"
+          }
+        },
+        {
+          "name": "Provincia",
+          "label": "Provincia"
+        },
+        {
+          "name": "Comune o  Località",
+          "label": "Comune/Località",
+          "options": {
+            "type": "string"
+          }
+        },
+        {
+          "name": "Data",
+          "label": "Data"
+        },
+        {
+          "name": "Tipo attività",
+          "label": "Tipo attività"
+        },
+		{
+          "name": "Descrizione",
+          "label": "Descrizione"
+        }
+      ]
+    }
+      ]
+    }
+
 
