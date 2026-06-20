@@ -15,77 +15,77 @@
 		  "color": "#8b0000",
           "description": "Assistenza popolazione",
           "type": "icon",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.5"
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.6"
         },
                 {
           "selectable": false,
 		  "color": "#ff1493",
           "description": "Treno sanitario",
           "type": "icon",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.5"
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.6"
         },
                 {
           "selectable": false,
 		  "color": "#0084ff",
           "description": "Interventi rischio alluvione",
           "type": "icon",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.5"
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.6"
         },
                 {
           "selectable": false,
 		  "color": "#7fff00",
           "description": "Rilievi droni",
           "type": "icon",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.5"
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.6"
         },
 		        {
           "selectable": false,
 		  "color": "#e6e6fa",
           "description": "Soccorso animali",
           "type": "icon",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.5"
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.6"
         },
 		        {
           "selectable": false,
 		  "color": "#da70d6",
           "description": "Sopralluogo frane",
           "type": "icon",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.5"
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.6"
         },
 		{
           "selectable": false,
 		  "color": "#bc8f8f",
           "description": "Strutture temporanee",
           "type": "icon",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.5"
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.6"
         },
 		{
           "selectable": false,
 		  "color": "#ff6347",
           "description": "Test Telecomunicazioni",
           "type": "icon",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.5"
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.6"
         },
 		{
           "selectable": false,
 		  "color": "#FF0000",
           "description": "Test IT-alert dighe",
           "type": "icon",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.5"
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.6"
         },
 		{
           "selectable": false,
 		  "color": "#008080",
           "description": "Verifica procedure dighe",
           "type": "icon",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.5"
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.6"
         },
 		{
           "selectable": false,
 		  "color": "#ff8c00",
           "description": "Verifica procedure industrie",
           "type": "icon",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.5"
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; border-radius: 50%; opacity:0.6"
         }
       ]
     },
