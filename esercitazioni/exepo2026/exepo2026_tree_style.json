@@ -93,7 +93,7 @@
       "key": "1",
       
       "label": "Centri ccordinamento",
-      "filterKey": "nome",
+      "filterKey": "Tipo attività",
       "filterValue": "*",
       "expanded": true,
       "visible": true,
