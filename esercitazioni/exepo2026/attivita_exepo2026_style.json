@@ -32,7 +32,7 @@
               "key": "Centri di coordinamento",
               "value": "triangle",
               "options": {
-                "fillColor": "#696969",
+                "fillColor": "#000000",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.5,
