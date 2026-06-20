@@ -1,0 +1,147 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "Tipo attività",
+      "properties": [
+        {
+          "property": "shape",
+          "values": [
+            {
+              "key": "Assistenza alla popolazione",
+              "value": "circle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+            },
+			{
+              "key": "Attivazione treno sanitario",
+              "value": "circle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+              },
+			  {
+              "key": "Centri di coordinamento",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+              },
+			  {
+              "key": "Interventi operativi rischio alluvione",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+              },
+			  {
+              "key": "Rilievo e ricognizione con droni",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+              },
+			  {
+              "key": "Soccorso e assistenza animali",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+              },
+			  {
+              "key": "Sopralluogo rischio frane",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+              },
+			  {
+              "key": "Strutture temporanee e strategiche",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+              },
+			  {
+              "key": "Test di Telecomunicazioni",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+              },
+			  {
+              "key": "Test IT-alert rischio grandi dighe",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+              },
+			  {
+              "key": "Verifica procedure rischio grandi dighe",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+              },
+			  {
+              "key": "Verifica procedure rischio industriale indotto",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+              }  
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
