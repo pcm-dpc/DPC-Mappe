@@ -109,7 +109,7 @@
               "key": "Test IT-alert rischio grandi dighe",
               "value": "circle",
               "options": {
-                "fillColor": "#DC143C",
+                "fillColor": "#FF0000",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.5,
