@@ -28,7 +28,7 @@
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/attivita_exepo2026_style.json",
 	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/attivita_exepo2026_style.json" 
   ],
-	"treestyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/exepo2026_tree_style.json"
+"treestyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/exepo2026_tree_style.json",
   "leaflet": {
     "tooltip": [
       {
