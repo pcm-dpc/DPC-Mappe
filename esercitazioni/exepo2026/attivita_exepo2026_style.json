@@ -17,7 +17,7 @@
                 "radius": 9
               }
             },
-			{
+            {
               "key": "Attivazione treno sanitario",
               "value": "circle",
               "options": {
@@ -27,8 +27,8 @@
                 "fillOpacity": 0.8,
                 "radius": 9
               }
-              },
-			  {
+            },
+            {
               "key": "Centri di coordinamento",
               "value": "triangle",
               "options": {
@@ -38,8 +38,8 @@
                 "fillOpacity": 0.8,
                 "radius": 9
               }
-              },
-			  {
+            },
+            {
               "key": "Interventi operativi rischio alluvione",
               "value": "triangle",
               "options": {
@@ -49,8 +49,8 @@
                 "fillOpacity": 0.8,
                 "radius": 9
               }
-              },
-			  {
+            },
+            {
               "key": "Rilievo e ricognizione con droni",
               "value": "triangle",
               "options": {
@@ -60,8 +60,8 @@
                 "fillOpacity": 0.8,
                 "radius": 9
               }
-              },
-			  {
+            },
+            {
               "key": "Soccorso e assistenza animali",
               "value": "triangle",
               "options": {
@@ -71,8 +71,8 @@
                 "fillOpacity": 0.8,
                 "radius": 9
               }
-              },
-			  {
+            },
+            {
               "key": "Sopralluogo rischio frane",
               "value": "triangle",
               "options": {
@@ -82,8 +82,8 @@
                 "fillOpacity": 0.8,
                 "radius": 9
               }
-              },
-			  {
+            },
+            {
               "key": "Strutture temporanee e strategiche",
               "value": "triangle",
               "options": {
@@ -93,8 +93,8 @@
                 "fillOpacity": 0.8,
                 "radius": 9
               }
-              },
-			  {
+            },
+            {
               "key": "Test di Telecomunicazioni",
               "value": "triangle",
               "options": {
@@ -104,8 +104,8 @@
                 "fillOpacity": 0.8,
                 "radius": 9
               }
-              },
-			  {
+            },
+            {
               "key": "Test IT-alert rischio grandi dighe",
               "value": "triangle",
               "options": {
@@ -115,8 +115,8 @@
                 "fillOpacity": 0.8,
                 "radius": 9
               }
-              },
-			  {
+            },
+            {
               "key": "Verifica procedure rischio grandi dighe",
               "value": "triangle",
               "options": {
@@ -126,8 +126,8 @@
                 "fillOpacity": 0.8,
                 "radius": 9
               }
-              },
-			  {
+            },
+            {
               "key": "Verifica procedure rischio industriale indotto",
               "value": "triangle",
               "options": {
@@ -137,7 +137,6 @@
                 "fillOpacity": 0.8,
                 "radius": 9
               }
-              }  
             }
           ]
         }
