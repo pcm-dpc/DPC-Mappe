@@ -19,7 +19,7 @@
     "attachment": [],
     "topo_json": [
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/attivita_exepo2026.geojson",
-	  "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/attivita_exepo2026.geojson",
+	  "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/attivita_exepo2026.geojson"
     ],
     "html_description": ""
   },
@@ -89,7 +89,7 @@
         }
       ]
     },
-	  
+	  {
       "key": 1,
       "visible_properties": ["Regione", "Provincia", "Comune o Località", "Data", "Tipo attività", "Descrizione"],
       "detail_properties": [
@@ -127,5 +127,3 @@
     }
       ]
     }
-
-
