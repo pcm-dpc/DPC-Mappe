@@ -1,6 +1,7 @@
 {
   "global_legend": "",
   "name": "Attività sul territorio e Centri di coordinamento",
+	"external_logo": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/logo_regione_campania.png",
   "header_popup": " ",
   "strategy_features": "not_intersect",
   "layers": [
