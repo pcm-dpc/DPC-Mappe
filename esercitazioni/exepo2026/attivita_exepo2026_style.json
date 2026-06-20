@@ -129,9 +129,9 @@
             },
             {
               "key": "Verifica procedure rischio industriale indotto",
-              "value": "triangle",
+              "value": "circle",
               "options": {
-                "fillColor": "#0084ff",
+                "fillColor": "#ff8c00",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.6,
