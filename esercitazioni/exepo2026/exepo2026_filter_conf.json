@@ -3,9 +3,27 @@
     {
       "fields": [
         {
-          "field_type": "TEXT",
+          "field_type": "MULTISELECT",
           "placeholder": "Regione",
           "binding_key": "regione"
+		  "options": [
+            {
+              "name": "Emila-Romagna",
+              "value": "Emilia"
+            },
+			{
+              "name": "Lombardia",
+              "value": "Lomb"
+            },
+            {
+              "name": "Piemonte",
+              "value": "Piem"
+            },
+			{
+              "name": "Veneto",
+              "value": "Ven"
+            }		
+          ],
         },
 		{
           "field_type": "MULTISELECT",
