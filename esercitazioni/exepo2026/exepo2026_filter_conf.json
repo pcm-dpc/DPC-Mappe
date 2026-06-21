@@ -31,51 +31,51 @@
           "options": [
             {
               "name": "Assistenza popolazione",
-              "value": "Assistenza alla popolazione"
+              "value": "popolazione"
             },
 			{
               "name": "Centri coordinamento",
-              "value": "Centri di coordinamento"
+              "value": "coordinamento"
             },
             {
               "name": "Interventi rischio alluvione",
-              "value": "Interventi operativi rischio alluvione"
+              "value": "rischio alluvione"
             },
 			{
               "name": "Rilievi droni",
-              "value": "Rilievo e ricognizione con droni"
+              "value": "droni"
             },
            {
               "name": "Soccorso animali",
-              "value": "27"
+              "value": "animali"
             },
            {
               "name": "Sopralluogo frane",
-              "value": "Sopralluogo rischio frane"
+              "value": "rischio frane"
             },
            {
               "name": "Strutture temporanee",
-              "value": "Strutture temporanee e strategiche"
+              "value": "Strutture"
             },
 			{
               "name": "Test Telecomunicazioni",
-              "value": "Test di Telecomunicazioni"
+              "value": "Telecomunicazioni"
             },
 			{
               "name": "Test IT-alert dighe",
-              "value": "Test IT-alert rischio grandi dighe"
+              "value": "IT-alert"
             },
 			{
               "name": "Treno sanitario",
-              "value": "treno"
+              "value": "Treno"
             },
 			{
               "name": "Verifica procedure dighe",
-              "value": "Verifica procedure rischio grandi dighe"
+              "value": "Verifica procedure dighe"
             },
 			{
               "name": "Verifica procedure industrie",
-              "value": "Verifica procedure rischio industriale indotto"
+              "value": "rischio industriale"
             }					
           ],
           "binding_key": "attivita"
