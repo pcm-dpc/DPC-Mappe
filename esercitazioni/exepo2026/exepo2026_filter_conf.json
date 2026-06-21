@@ -31,19 +31,19 @@
           "options": [
             {
               "name": "Assistenza popolazione",
-              "value": ""
+              "value": "Assistenza alla popolazione"
             },
 			{
               "name": "Centri coordinamento",
-              "value": "27"
+              "value": "Centri di coordinamento"
             },
             {
               "name": "Interventi rischio alluvione",
-              "value": "27"
+              "value": "Interventi operativi rischio alluvione"
             },
 			{
               "name": "Rilievi droni",
-              "value": "27"
+              "value": "Rilievo e ricognizione con droni"
             },
            {
               "name": "Soccorso animali",
@@ -51,31 +51,31 @@
             },
            {
               "name": "Sopralluogo frane",
-              "value": "27"
+              "value": "Sopralluogo rischio frane"
             },
            {
               "name": "Strutture temporanee",
-              "value": "27"
+              "value": "Strutture temporanee e strategiche"
             },
 			{
               "name": "Test Telecomunicazioni",
-              "value": "27"
+              "value": "Test di Telecomunicazioni"
             },
 			{
               "name": "Test IT-alert dighe",
-              "value": "27"
+              "value": "Test IT-alert rischio grandi dighe"
             },
 			{
               "name": "Treno sanitario",
-              "value": "26-"
+              "value": "treno"
             },
 			{
               "name": "Verifica procedure dighe",
-              "value": "27"
+              "value": "Verifica procedure rischio grandi dighe"
             },
 			{
               "name": "Verifica procedure industrie",
-              "value": "27"
+              "value": "Verifica procedure rischio industriale indotto"
             }					
           ],
           "binding_key": "attivita"
