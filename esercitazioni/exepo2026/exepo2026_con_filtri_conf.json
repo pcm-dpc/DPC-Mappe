@@ -128,7 +128,7 @@
     }
       ],
 	  "filter_config": {
-    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/campiscuola_filter_conf.json",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/exepo2026_filter_conf.json",
     "refresh": false,
         "excluded_layers": [],
     "filters_type": [
