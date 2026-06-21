@@ -1,0 +1,73 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+        {
+          "field_type": "TEXT",
+          "placeholder": "Regione",
+          "binding_key": "regione"
+        },
+		{
+          "field_type": "MULTISELECT",
+          "placeholder": "Tipo attività",
+          "options": [
+            {
+              "name": "Assistenza popolazione",
+              "value": ""
+            },
+			{
+              "name": "Centri coordinamento",
+              "value": "27"
+            },
+            {
+              "name": "Interventi rischio alluvione",
+              "value": "27"
+            },
+			{
+              "name": "Rilievi droni",
+              "value": "27"
+            },
+           {
+              "name": "Soccorso animali",
+              "value": "27"
+            },
+           {
+              "name": "Sopralluogo frane",
+              "value": "27"
+            },
+           {
+              "name": "Strutture temporanee",
+              "value": "27"
+            },
+			{
+              "name": "Test Telecomunicazioni",
+              "value": "27"
+            },
+			{
+              "name": "Test IT-alert dighe",
+              "value": "27"
+            },
+			{
+              "name": "Treno sanitario",
+              "value": "26-"
+            },
+			{
+              "name": "Verifica procedure dighe",
+              "value": "27"
+            },
+			{
+              "name": "Verifica procedure industrie",
+              "value": "27"
+            }					
+          ],
+          "binding_key": "attivita"
+        },
+		
+		{
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ],
+  "label_total": "Totale"
+}

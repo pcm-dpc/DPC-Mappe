@@ -1,0 +1,151 @@
+{
+  "global_legend": "",
+  "name": "Attività sul territorio e Centri di coordinamento",
+	"external_logo": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/logo_exepo_2026.png",
+  "header_popup": " ",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Attività",
+       "visible": true
+    },
+	  {
+      "key": 1,
+      "label": "Centri coordinamento",
+       "visible": true
+    }
+  ],
+  "today": {
+    "attachment": [],
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/attivita_exepo2026.geojson",
+	  "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/centri_coord_exepo2026.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/attivita_exepo2026_style.json",
+	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/attivita_exepo2026_style.json" 
+  ],
+"treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/esercitazioni/exepo2026/exepo2026_tree_style.json",
+  "leaflet": {
+    "tooltip": [
+      {
+        "key": 0,
+        "properties": [
+          {
+            "key": "Tipo attività",
+            "label": "Tipo attività"
+          }
+        ]
+      },
+		      {
+        "key": 1,
+        "properties": [
+          {
+            "key": "Descrizione"
+          }
+        ]
+      }
+    ]
+  },
+  "feature_sidebar": {
+    "header": "Attività e Centri di coordinamento"
+  },
+  "feature_properties": [
+    {
+      "key": 0,
+      "visible_properties": ["Regione", "Provincia", "Comune o Località", "Data", "Tipo attività", "Descrizione"],
+      "detail_properties": [
+        {
+          "name": "Regione",
+          "label": "Regione",
+          "options": {
+            "type": "string"
+          }
+        },
+        {
+          "name": "Provincia",
+          "label": "Provincia"
+        },
+        {
+          "name": "Comune o  Località",
+          "label": "Comune/Località",
+          "options": {
+            "type": "string"
+          }
+        },
+        {
+          "name": "Data",
+          "label": "Data"
+        },
+        {
+          "name": "Tipo attività",
+          "label": "Tipo attività"
+        },
+		{
+          "name": "Descrizione",
+          "label": "Descrizione"
+        }
+      ]
+    },
+	  {
+      "key": 1,
+      "visible_properties": ["Regione", "Provincia", "Comune o Località", "Data", "Tipo attività", "Descrizione"],
+      "detail_properties": [
+        {
+          "name": "Regione",
+          "label": "Regione",
+          "options": {
+            "type": "string"
+          }
+        },
+        {
+          "name": "Provincia",
+          "label": "Provincia"
+        },
+        {
+          "name": "Comune o  Località",
+          "label": "Comune/Località",
+          "options": {
+            "type": "string"
+          }
+        },
+        {
+          "name": "Data",
+          "label": "Data"
+        },
+        {
+          "name": "Tipo attività",
+          "label": "Tipo attività"
+        },
+		{
+          "name": "Descrizione",
+          "label": "Descrizione"
+        }
+      ]
+    }
+      ],
+	  "filter_config": {
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iniziative/campiscuola/campiscuola_filter_conf.json",
+    "refresh": false,
+        "excluded_layers": [],
+    "filters_type": [
+      {
+        "filter_function": "textInclude",
+        "binding_key": "regione",
+        "operator": "and",
+       "filter_on_fields": ["Regione"],
+        "layers": [0,1] 
+      },
+	  {
+        "filter_function": "textInclude",
+        "operator": "or",
+        "binding_key": "attivita",
+        "filter_on_fields": ["Tipo attività"],
+        "layers": [0,1]
+      }
+    ]
+  } 
+    }
