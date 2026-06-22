@@ -1,14 +1,14 @@
 {
   "style_properties": [
     {
-      "propertyKey": "Zona",
+      "propertyKey": "entita_organizzatrice",
       "properties": [
         {
           "property": "color",
           "values": [
             {
               "key": "*",
-              "value": "#d19853"
+              "value": "#FFFF00"
             }
           ]
         },
@@ -35,7 +35,7 @@
           "values": [
             {
               "key": "*",
-              "value": "0.8"
+              "value": "0.7"
             }
           ]
         },
@@ -44,7 +44,7 @@
           "values": [
             {
               "key": "*",
-              "value": "0.8"
+              "value": "0.7"
             }
           ]
         }
