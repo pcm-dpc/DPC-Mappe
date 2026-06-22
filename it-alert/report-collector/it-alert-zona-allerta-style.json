@@ -16,12 +16,8 @@
           "property": "fillColor",
           "values": [
             {
-              "key": "GIALLA",
+              "key": "*",
               "value": "#FFFF00"
-            },
-            {
-              "key": "ROSSA",
-              "value": "#FF0000"
             }
           ]
         },
