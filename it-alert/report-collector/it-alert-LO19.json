@@ -8,7 +8,8 @@
     "html_description": ""
   },
   "style": [
-    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert_style.geojson"
+	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert_style.geojson",
+	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/it-alert/report-collector/it-alert-zona-allerta-style.json"
   ],
   "features_detail": [
     {
