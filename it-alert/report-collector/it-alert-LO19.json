@@ -1,0 +1,156 @@
+{
+  "header_popup": "Report Messaggio",
+  "today": {
+    "topo_json": [
+    "https://raw.githubusercontent.com/geosdi/MA04/refs/heads/main/LO19.geojson",
+	  "https://raw.githubusercontent.com/geosdi/MA04/refs/heads/main/LO19_zona_allerta.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert_style.geojson"
+  ],
+  "features_detail": [
+    {
+      "key": 0,
+      "featureInfo": [
+        {
+          "name": "codice_compilatore",
+          "label": "codice_compilatore"
+        },
+        {
+          "name": "data_ora_rilevazione",
+          "label": "data_ora_rilevazione"
+        },
+        {
+          "name": "produttore",
+          "label": "produttore"
+        },
+        {
+          "name": "operatore",
+          "label": "operatore"
+        },
+        {
+          "name": "tecnologia",
+          "label": "tecnologia"
+        },
+        {
+          "name": "ricezione_messaggio",
+          "label": "ricezione_messaggio"
+        },
+        {
+          "name": "ora_ricezione",
+          "label": "ora_ricezione"
+        },
+        {
+          "name": "entita_organizzatrice",
+          "label": "entita_organizzatrice"
+        }
+      ]
+    }
+  ],
+  "refresh_config": {
+    "refresh_time": 60000
+  },
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert-filter-conf.json",
+    "refresh": true,
+    "fixed_filters": [
+      {
+        "value": false,
+        "binding_key": "cancellata"
+      }
+    ],
+    "filters_url": [
+      {
+        "value": "data_messaggio",
+        "binding_key": "data_messaggio"
+      },
+      {
+        "value": "entita_organizzatrice",
+        "binding_key": "entita_organizzatrice"
+      },
+      {
+        "value": "codice_test",
+        "binding_key": "codice_test"
+      },
+      {
+        "value": "operatore",
+        "binding_key": "operatore"
+      },
+      {
+        "value": "ricevuto",
+        "binding_key": "ricezione_messaggio"
+      }
+    ],
+    "filters_type": [
+      {
+        "filter_function": "boolean",
+        "binding_key": "cancellata",
+        "filter_on_fields": [
+          "cancellata"
+        ],
+        "layers": [
+          0
+        ],
+        "operator": "and"
+      },
+      {
+        "filter_function": "textInclude",
+        "binding_key": "operatore",
+        "filter_on_fields": [
+          "operatore"
+        ],
+        "layers": [
+          0
+        ],
+        "operator": "and"
+      },
+      {
+        "operator": "and",
+        "filter_function": "textInclude",
+        "binding_key": "entita_organizzatrice",
+        "filter_on_fields": [
+          "entita_organizzatrice"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "operator": "and",
+        "filter_function": "textInclude",
+        "binding_key": "codice_test",
+        "filter_on_fields": [
+          "codice_test"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "filter_function": "singleDate",
+        "operator": "and",
+        "binding_key": "data_messaggio",
+        "filter_on_fields": [
+          "data_ora_rilevazione"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "operator": "or",
+        "filter_function": "textInclude",
+        "binding_key": "ricezione_messaggio",
+        "filter_on_fields": [
+          "ricezione_messaggio"
+        ],
+        "layers": [
+          0
+        ]
+      }
+    ]
+  }
+}
+
