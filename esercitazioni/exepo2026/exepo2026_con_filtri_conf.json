@@ -137,6 +137,13 @@
         "binding_key": "attivita",
         "filter_on_fields": ["Tipo attività"],
         "layers": [0,1]
+      },
+	  {
+        "filter_function": "textInclude",
+        "operator": "or",
+        "binding_key": "data",
+        "filter_on_fields": ["data_filtro"],
+        "layers": [0,1]
       }
     ]
   } 
