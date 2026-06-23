@@ -80,7 +80,25 @@
           ],
           "binding_key": "attivita"
         },
-		
+		       {
+          "field_type": "MULTISELECT",
+          "placeholder": "Data",
+          "binding_key": "data",
+		  "options": [
+            {
+              "name": "25 giugno",
+              "value": "25"
+            },
+            {
+              "name": "26 giugno",
+              "value": "26"
+            },
+            {
+              "name": "27 giugno",
+              "value": "27"
+            }		
+          ]
+        },
 		{
           "field_type": "BUTTON"
         }
