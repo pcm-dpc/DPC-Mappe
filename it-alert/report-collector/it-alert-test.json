@@ -53,6 +53,9 @@
   "refresh_config": {
     "refresh_time": 60000
   },
+  "feature_sidebar": {
+    "header": "Informazioni"
+  }, 
   "filter_config": {
     "url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert-filter-conf.json",
     "refresh": true,
