@@ -44,7 +44,7 @@
         "key": 1,
         "properties": [
           {
-            "key": "Tipo attività"
+            "key": "Centro di coordinamento"
           }
         ]
       }
@@ -88,7 +88,7 @@
     },
 	  {
       "key": 1,
-      "visible_properties": ["Tipo attività", "Data", "Regione", "Comune o Località", "Descrizione"],
+      "visible_properties": ["Centro di coordinamento", "Data", "Regione", "Comune o Località", "Descrizione"],
       "detail_properties": [
         {
           "name": "Regione",
@@ -109,8 +109,8 @@
           "label": "Data"
         },
         {
-          "name": "Tipo attività",
-          "label": "Tipo attività"
+          "name": "Centro di coordinamento",
+          "label": "Centro di coordinamento"
         },
 		{
           "name": "Descrizione",
