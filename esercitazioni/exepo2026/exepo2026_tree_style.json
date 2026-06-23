@@ -103,7 +103,7 @@
           "selectable": false,
           "description": "Centri coordinamento",
           "type": "icon",
-          "css_style": "height: 0px;width: 0px; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 16px solid #006400;"
+          "css_style": "height: 0px;width: 0px; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 16px solid #ff4500;"
         }
       ]
     }
