@@ -56,7 +56,7 @@
   "feature_properties": [
     {
       "key": 0,
-      "visible_properties": ["Regione", "Provincia", "Comune o Località", "Data", "Tipo attività", "Descrizione"],
+      "visible_properties": ["Tipo attività", "Data", "Regione", "Comune o Località", "Descrizione"],
       "detail_properties": [
         {
           "name": "Regione",
@@ -64,10 +64,6 @@
           "options": {
             "type": "string"
           }
-        },
-        {
-          "name": "Provincia",
-          "label": "Provincia"
         },
         {
           "name": "Comune o  Località",
@@ -92,7 +88,7 @@
     },
 	  {
       "key": 1,
-      "visible_properties": ["Regione", "Provincia", "Comune o Località", "Data", "Tipo attività", "Descrizione"],
+      "visible_properties": ["Tipo attività", "Data", "Regione", "Comune o Località", "Descrizione"],
       "detail_properties": [
         {
           "name": "Regione",
@@ -100,10 +96,6 @@
           "options": {
             "type": "string"
           }
-        },
-        {
-          "name": "Provincia",
-          "label": "Provincia"
         },
         {
           "name": "Comune o  Località",
