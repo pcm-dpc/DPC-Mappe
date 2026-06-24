@@ -30,7 +30,7 @@
           "placeholder": "Tipo attività",
           "options": [
             {
-              "name": "Assistenza popolazione",
+              "name": "Soccorso popolazione",
               "value": "popolazione"
             },
 			{
@@ -50,8 +50,8 @@
               "value": "animali"
             },
            {
-              "name": "Sopralluogo frane",
-              "value": "rischio frane"
+              "name": "Sopralluoghi/Rilievi",
+              "value": "Sopralluoghi"
             },
            {
               "name": "Strutture temporanee",
