@@ -7,7 +7,7 @@
           "property": "shape",
           "values": [
             {
-              "key": "Assistenza alla popolazione",
+              "key": "Soccorso e assistenza alla popolazione",
               "value": "circle",
               "options": {
                 "fillColor": "#8b0000",
@@ -73,7 +73,7 @@
               }
             },
             {
-              "key": "Sopralluogo rischio frane",
+              "key": "Sopralluoghi e rilievi",
               "value": "circle",
               "options": {
                 "fillColor": "#da70d6",
