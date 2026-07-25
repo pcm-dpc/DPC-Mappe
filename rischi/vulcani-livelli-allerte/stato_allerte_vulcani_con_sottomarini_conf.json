@@ -18,16 +18,16 @@
   "today": {
     "attachment": [],
     "topo_json": [
-      "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/vulcani_liv_allerta_maplite.geojson",
-      "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/vulcani_sottomarini_maplite.geojson"
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/rischi/vulcani-livelli-allerte/vulcani_liv_allerta_maplite.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/rischi/vulcani-livelli-allerte/vulcani_sottomarini_maplite.geojson"
     ],
     "html_description": ""
   },
   "style": [
-    "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/stato_allerte_vulcani_style.json",
-    "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/stato_allerte_vulcani_sottomarini_style.json"
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/rischi/vulcani-livelli-allerte/stato_allerte_vulcani_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/rischi/vulcani-livelli-allerte/stato_allerte_vulcani_sottomarini_style.json"
   ],
-  "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/stato_allerte_vulcani_con_sottomarini_tree_style.json",
+  "treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/rischi/vulcani-livelli-allerte/stato_allerte_vulcani_con_sottomarini_tree_style.json",
   "leaflet": {
     "tooltip": [
       {
