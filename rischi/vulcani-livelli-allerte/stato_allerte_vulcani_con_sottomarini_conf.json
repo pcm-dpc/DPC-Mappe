@@ -1,0 +1,107 @@
+{
+  "global_legend": "",
+  "name": "Livelli di allerta",
+  "header_popup": "Livelli di allerta",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Vulcani emersi-Liv. allerta",
+       "visible": true
+    },
+      {
+      "key": 1,
+      "label": "Vulcani sottomarini",
+      "visible": false
+    } 
+  ],
+  "today": {
+    "attachment": [],
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/vulcani_liv_allerta_maplite.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/vulcani_sottomarini_maplite.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/stato_allerte_vulcani_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/stato_allerte_vulcani_sottomarini_style.json"
+  ],
+  "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/stato_allerte_vulcani_con_sottomarini_tree_style.json",
+  "leaflet": {
+    "tooltip": [
+      {
+        "key": 0,
+        "properties": [
+          {
+            "key": "Vulcano",
+            "label": "Nome"
+          }
+        ]
+      },
+       {
+        "key": 1,
+        "properties": [
+          {
+            "key": "Vulcano",
+            "label": "Nome"
+          }
+        ]
+      }
+    ]
+  },
+  "feature_sidebar": {
+    "header": "Vulcani in Italia - Livelli di allerta"
+  },
+  "feature_properties": [
+    {
+      "key": 0,
+      "visible_properties": ["Vulcano", "livello_allerta_link", "Caratteristiche", "Comportamenti corretti", "Pianificazione nazionale"],
+      "detail_properties": [
+        {
+          "name": "Vulcano",
+          "label": "Nome",
+          "options": {
+            "type": "string"
+          }
+        },
+        {
+          "name": "livello_allerta_link",
+          "label": "Livello di allerta"
+        },
+        {
+          "name": "Caratteristiche",
+          "label": "Caratteristiche",
+          "options": {
+            "type": "string"
+          }
+        },
+        {
+          "name": "Comportamenti corretti",
+          "label": "Comportamenti corretti"
+        },
+        {
+          "name": "Pianificazione nazionale",
+          "label": "Pianificazione nazionale"
+        }
+      ]
+    },
+    {
+      "key": 1,
+      "visible_properties": ["Vulcano", "livello_allerta"],
+      "detail_properties": [
+        {
+          "name": "Vulcano",
+          "label": "Nome",
+          "options": {
+            "type": "string"
+          }
+        },
+        {
+          "name": "livello_allerta",
+          "label": "Livello di allerta"
+        }
+      ]
+    }
+  ]
+}
