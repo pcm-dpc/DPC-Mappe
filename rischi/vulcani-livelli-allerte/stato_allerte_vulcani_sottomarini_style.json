@@ -1,0 +1,25 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "nome",
+      "properties": [
+        {
+          "property": "shape",
+          "values": [
+            {
+              "key": "*",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#0084ff",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 9
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

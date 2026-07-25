@@ -1,0 +1,47 @@
+{
+  "nodes": [
+    {
+      "key": "0",
+      
+      "label": "Livelli di allerta",
+      "filterKey": "livello_allerta",
+      "filterValue": "*",
+      "expanded": true,
+      "visible": false,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "description": "Rosso",
+          "type": "icon",
+          "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #ff0000;"
+        },
+        {
+          "selectable": false,
+          "description": "Arancione",
+          "type": "icon",
+         "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #ffa500;"
+        },
+        {
+          "selectable": false,
+          "description": "Giallo",
+          "type": "icon",
+          "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #ffff00;"
+        },
+        {
+          "selectable": false,
+          "description": "Verde",
+          "type": "icon",
+           "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #00ff00;"
+        },
+		{
+          "selectable": false,
+          "description": "Non definito",
+          "type": "icon",
+           "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #e2e7e9;"
+        }
+      ]
+    }
+    
+  ]
+}

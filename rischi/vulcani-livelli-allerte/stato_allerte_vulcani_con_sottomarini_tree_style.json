@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "key": "0",
+      
+      "label": "Vulcani emersi",
+      "filterKey": "livello_allerta",
+      "filterValue": "*",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "description": " Livello di allerta Rosso",
+          "type": "icon",
+          "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #ff0000;"
+        },
+        {
+          "selectable": false,
+          "description": " Livello di allerta Arancione",
+          "type": "icon",
+         "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #ffa500;"
+        },
+        {
+          "selectable": false,
+          "description": " Livello di allerta Giallo",
+          "type": "icon",
+          "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #ffff00;"
+        },
+        {
+          "selectable": false,
+          "description": " Livello di allerta Verde",
+          "type": "icon",
+           "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #00ff00;"
+        },
+		{
+          "selectable": false,
+          "description": " Livello di allerta attualmente non definito",
+          "type": "icon",
+           "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #e2e7e9;"
+        }
+      ]
+    },
+	{
+      "key": "1",
+      
+      "label": "Vulcani sottomarini",
+      "filterKey": "nome",
+      "filterValue": "*",
+      "expanded": true,
+      "visible": false,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "description": " ",
+          "type": "icon",
+          "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #0084ff;"
+        }
+      ]
+    }
+    
+  ]
+}
